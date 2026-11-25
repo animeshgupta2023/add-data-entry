@@ -1,0 +1,2153 @@
+{
+  "dataset_name": "Indian Newspaper Advertisements — extracted fields",
+  "purpose": "POC test data for the AI-Powered Advertisement Data Entry System",
+  "generated_on": "2026-11-25",
+  "image_folder": "images/",
+  "source_dataset": {
+    "name": "MAdVerse: A Hierarchical Dataset of Multi-Lingual Ads from Diverse Sources and Categories",
+    "institution": "CVIT, IIIT Hyderabad (WACV 2024)",
+    "url": "https://zenodo.org/records/10657763",
+    "doi": "10.5281/zenodo.10657763",
+    "licence": "CC BY-NC 4.0 for annotations; underlying images belong to original publishers",
+    "note": "Extracted from MAdVerse archives using HTTP range requests; see dataset/README.md"
+  },
+  "schema": {
+    "id": "unique sequential record number (1-50), matches ad_XXX_*.jpg filename prefix",
+    "filename": "image file name inside images/ (primary key for distinguishing records)",
+    "language": "language of the ad copy; parentheses note where a different language/newspaper is involved",
+    "source": "MAdVerse sub-dataset and newspaper/publication",
+    "brand": "advertiser brand",
+    "product": "product or service promoted",
+    "headline": "main headline/tagline as printed",
+    "description": "short summary of the ad's subject",
+    "price": "all prices, discounts, EMI, interest rates or fares shown in the ad",
+    "ad_type": "category of advertisement",
+    "fuel_type": "vehicle fuel type, where applicable; null otherwise",
+    "mileage": "mileage/fuel-efficiency claim, where applicable; null otherwise",
+    "features": "list of features, offers and selling points",
+    "body_copy": "supporting copy / contact details / URLs as printed (translated where noted)",
+    "other_details": "additional structured fields specific to the ad",
+    "missing_or_uncertain": "fields flagged for human verification — no values were guessed"
+  },
+  "summary": {
+    "total_advertisements": 50,
+    "field_names": [
+      "id",
+      "filename",
+      "language",
+      "source",
+      "brand",
+      "product",
+      "headline",
+      "description",
+      "price",
+      "ad_type",
+      "fuel_type",
+      "mileage",
+      "features",
+      "body_copy",
+      "other_details",
+      "missing_or_uncertain"
+    ],
+    "language_distribution": {
+      "English": 32,
+      "Hindi": 3,
+      "Marathi": 2,
+      "Bengali": 2,
+      "Tamil": 1,
+      "Telugu": 2,
+      "Kannada": 2,
+      "Malayalam": 2,
+      "Gujarati": 1,
+      "Odia": 2,
+      "Assamese": 1
+    },
+    "source_distribution": {
+      "Advert Gallery (English)": 30,
+      "E-paper (regional languages)": 20
+    },
+    "images_with_flagged_uncertainty": 50,
+    "extraction_notes": [
+      "Values are transcribed from the visible artwork only; nothing was inferred as a database ID.",
+      "Regional-language ads (Odia, Hindi, Marathi, Bengali, Tamil, Telugu, Kannada, Malayalam, Gujarati, Assamese, Urdu) were translated approximately where needed and flagged in missing_or_uncertain.",
+      "Small-print figures (prices, phone numbers, fine print) may need human verification; all such cases are flagged per record.",
+      "fuel_type and mileage are null for non-vehicle ads."
+    ]
+  },
+  "advertisements": [
+    {
+      "id": 1,
+      "filename": "ad_001_Honda_Jazz.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Honda Cars India",
+      "product": "New Honda Jazz (i-VTEC + CVT)",
+      "headline": "Presenting the new Jazz — For the very, very demanding",
+      "description": "New Honda Jazz hatchback promoted with 100% on-road funding and benefits up to ₹40,000; available through a wide dealer network in South India.",
+      "price": "Benefits up to ₹40,000; EMI from ₹1,111 per month per ₹1 lakh",
+      "ad_type": "Dealer / product launch",
+      "fuel_type": "Petrol (i-VTEC badge shown)",
+      "mileage": null,
+      "features": [
+        "100% On Road Funding",
+        "Segment-exclusive One-Touch Electric Sunroof",
+        "Chrome Accentuated High Gloss Black Grille",
+        "Advanced LED Headlamps (Inline Shell) with DRL",
+        "Signature Near LED Wing Light",
+        "Advanced LED Fog Lamps",
+        "Best-in-Class Space",
+        "i-VTEC with CVT",
+        "Honda Auto Terrace",
+        "Honda ProCare",
+        "3-year warranty"
+      ],
+      "body_copy": [
+        "Book online at Honda From Home",
+        "honda.co.in / book.honda.co.in",
+        "Dealer contacts: Magnum Honda, Dakshin Honda, Brigade Honda, Whitefield Honda (Bengaluru, Tumkur, Hosur, Mysore Road, Yelahanka, Whitefield)",
+        "Phone numbers: 99000 29164, 98455 24394, 99160 04127, 86575 88495, 86575 89820, 86575 88450, 86575 89175"
+      ],
+      "other_details": {
+        "displayed_variant": "New Jazz",
+        "transmission": "CVT",
+        "warranty": "3 years",
+        "dealer_count_listed": 7,
+        "fine_print": "Images used for representation purpose only; features/specifications as shown may vary; segment defined by comparable 5-seater low SUVs; advertisement code INNCVA 03419"
+      },
+      "missing_or_uncertain": [
+        "Mileage not stated",
+        "Exact ex-showroom price not stated",
+        "Fuel type inferred from i-VTEC badge"
+      ]
+    },
+    {
+      "id": 2,
+      "filename": "ad_002_Maruti_Suzuki_Swift.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Maruti Suzuki Arena",
+      "product": "The New 2021 Swift",
+      "headline": "The New 2021 Swift — Limitless Thrill, Stunning Looks, Be Limitless",
+      "description": "2021 Maruti Suzuki Swift shown with smart hybrid engine and Smart Play infotainment, promoted with savings, subscription availability and smart finance schemes.",
+      "price": "Savings up to ₹48,000; Smart Finance offer of ₹3,000 extra off",
+      "ad_type": "Dealer / manufacturer offer",
+      "fuel_type": "Petrol (Smart Hybrid badge shown)",
+      "mileage": null,
+      "features": [
+        "New smart hybrid engine (illustrated)",
+        "Smart Play touchscreen infotainment",
+        "Savings up to ₹48,000",
+        "Also available via subscription (marutisuzuki.com/subscribe)",
+        "Smart Finance: pre-approved loans, multiple financiers, customised loans, loan status tracking",
+        "Scan QR to know more"
+      ],
+      "body_copy": [
+        "E-book today at www.marutisuzuki.com or visit your nearest Maruti Suzuki dealership",
+        "For bulk orders: anindya.sarkar@maruti.co.in (NCR), abhinav.verma2@maruti.co.in (Delhi)",
+        "Also available via subscription — scan QR",
+        "Dealer list across NCR/Delhi with phone numbers"
+      ],
+      "other_details": {
+        "model_year": "2021",
+        "offer_valid_until": "30 June 2021",
+        "finance": "Smart Finance — online end-to-end car finance solution",
+        "dealer_regions": [
+          "NCR",
+          "Delhi"
+        ],
+        "fine_print": "Terms and conditions apply; offers by Maruti Suzuki India only; features shown may not be part of standard fitment (Petrol & VXi); images for illustration purposes only"
+      },
+      "missing_or_uncertain": [
+        "Mileage not stated",
+        "Variant-wise ex-showroom price not stated",
+        "Diesel option not clearly shown in artwork"
+      ]
+    },
+    {
+      "id": 3,
+      "filename": "ad_003_Tata_Nexon.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Tata Motors",
+      "product": "Nexon EV — The Electric SUV",
+      "headline": "One year ago, we showed you the future.",
+      "description": "First anniversary campaign for the Nexon EV, India's electric SUV, with exchange discount and highlights of battery warranty, fast charging and connected car features.",
+      "price": "Ex-showroom ₹13.99 Lakhs onwards (all India); exchange discount up to ₹15,000",
+      "ad_type": "Manufacturer anniversary offer",
+      "fuel_type": "Electric (EV)",
+      "mileage": null,
+      "features": [
+        "1st Anniversary — Driving India's Electric Evolution",
+        "8 years / 1,60,000 km battery & motor warranty",
+        "0-100 km/h in 9.9 seconds",
+        "Free home charging box",
+        "60-minute fast charging",
+        "ZConnect with 35 connected car features",
+        "World class safety & quality — Indian Made",
+        "Vocal for Local"
+      ],
+      "body_copy": [
+        "Special Anniversary Offer — Exchange Discount up to ₹15,000",
+        "nexonev.tatamotors.com",
+        "Social handles: @TataMotorsElectricMobility, @TataMotorsEV",
+        "1800 209 8282",
+        "Dealers: Mumbai (Prabhadevi, Malad, Chembur, Borivali), Navi Mumbai, Thane & Ghodbunder, Mulund, Miraj Road"
+      ],
+      "other_details": {
+        "vehicle_type": "Electric SUV",
+        "anniversary": "1st",
+        "charging": "Home charging box free; 60 min fast charge",
+        "warranty": "8 years / 1,60,000 km battery & motor",
+        "fine_print": "Images and illustrations indicative, for information purpose only; features/specifications not available in all variants; please consult authorised Tata Motors dealer; price as on date"
+      },
+      "missing_or_uncertain": [
+        "Driving range per charge not stated",
+        "Mileage not applicable to EV"
+      ]
+    },
+    {
+      "id": 4,
+      "filename": "ad_004_Hyundai_Creta.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Hyundai",
+      "product": "Creta (with Sports Edition)",
+      "headline": "Perfection has no equal.",
+      "description": "Hyundai Creta promoted as India's most aspirational SUV with over 4.25 lakh owners, listing segment-first features and a new Sports Edition.",
+      "price": "Price starting at ₹9.99 Lakhs* (ex-showroom, Delhi)",
+      "ad_type": "Manufacturer / dealer",
+      "fuel_type": "Petrol and Diesel (1.6L engines; 6-speed AT for petrol and diesel)",
+      "mileage": null,
+      "features": [
+        "Front ventilated seats (1st in segment)",
+        "Wireless phone charger (1st in segment)",
+        "Smart electric sunroof (1st in segment)",
+        "Smart key band (1st in segment)",
+        "6-way power driver seat (1st in segment)",
+        "Powerful 1.6L petrol & diesel engine",
+        "6-Speed AT (Petrol & Diesel)",
+        "3-year unlimited km warranty + 3-year roadside assistance",
+        "126 service outlets in 32 cities",
+        "Lowest cost of maintenance",
+        "Sports Edition"
+      ],
+      "body_copy": [
+        "Now available in exciting Sports Edition",
+        "Book online at https://book.hyundai.co.in",
+        "For more details, give a missed call on 8847096330",
+        "www.hyundai.co.in",
+        "Extensive dealer contact list across India with phone numbers"
+      ],
+      "other_details": {
+        "owner_count": "Over 4.25 lakh",
+        "variants_note": "Sports Edition launched",
+        "service_network": "126 service outlets in 32 cities",
+        "fine_print": "Ex-showroom price Delhi; features/specifications may not be part of standard fitment; segment defined by comparable 5-seater low SUVs; visit nearest Hyundai dealership; advertisement code HYUNDAI/NC-03/2019"
+      },
+      "missing_or_uncertain": [
+        "Exact ARAI mileage figure not legible",
+        "Sports Edition price not stated"
+      ]
+    },
+    {
+      "id": 5,
+      "filename": "ad_005_Ford_Figo.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Ford India",
+      "product": "New Ford Figo",
+      "headline": "Launching Ford New Figo — New Figo. Play Smart. Why Follow.",
+      "description": "Launch advertisement for the new Ford Figo highlighting its engine, interiors, touchscreen, airbags, warranty and introductory prices.",
+      "price": "Introductory price: Petrol ₹5.15 Lakh | Diesel ₹5.95 Lakh",
+      "ad_type": "Manufacturer launch offer",
+      "fuel_type": "Petrol and Diesel (96PS/70.9kW petrol; diesel badge shown)",
+      "mileage": "Petrol 20.4 km/l* / Diesel 25.3 km/l* (from small badge; *conditions apply)",
+      "features": [
+        "96PS (70.9 kW) petrol engine",
+        "Stylish interiors",
+        "Touchscreen with Navigation",
+        "6 Airbags",
+        "5-Year Warranty",
+        "Ford Credit finance",
+        "Smart technology and family-oriented positioning"
+      ],
+      "body_copy": [
+        "Go Further",
+        "Ford — khushi algi, family well feeling (tagline)",
+        "BOOK NOW",
+        "www.india.ford.com/cars/figo",
+        "Search for New Ford Figo",
+        "Dealer list: Hyderabad, Karimnagar, Mahabubnagar, Mancherial, Nalgonda, Nizamabad, Tirupati, Warangal with phone numbers"
+      ],
+      "other_details": {
+        "launch": "New Figo launch",
+        "warranty": "5 years",
+        "safety": "6 airbags",
+        "finance": "Ford Credit",
+        "fine_print": "Introductory prices; terms and conditions apply; mileage figures marked with asterisk"
+      },
+      "missing_or_uncertain": [
+        "Mileage figures read from a small badge — verify against official brochure",
+        "Exact diesel engine capacity not stated"
+      ]
+    },
+    {
+      "id": 6,
+      "filename": "ad_006_Renault_Triber.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Renault India",
+      "product": "Renault Triber (teaser / silhouette)",
+      "headline": "Renault TRIBER — Super Spacious | Ultra Modular | India's First",
+      "description": "Teaser campaign for the Renault Triber showing a covered vehicle ahead of its global reveal.",
+      "price": null,
+      "ad_type": "Manufacturer teaser / product reveal",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Super Spacious",
+        "Ultra Modular",
+        "India's First (claim incomplete in artwork)",
+        "Roof rails visible",
+        "LED DRLs visible"
+      ],
+      "body_copy": [
+        "Global Reveal — 19th June",
+        "Watch it live on www.renault.co.in/triber.html",
+        "Toll free No.: 1800 300 44444"
+      ],
+      "other_details": {
+        "reveal_date": "19 June",
+        "creative_agency": "L&K Saatchi & Saatchi",
+        "brand_tagline": "Passion for life"
+      },
+      "missing_or_uncertain": [
+        "Price not stated",
+        "Fuel type and mileage not stated (teaser artwork)",
+        "Details of 'India's First' claim not stated"
+      ]
+    },
+    {
+      "id": 7,
+      "filename": "ad_007_Mahindra_Thar.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Mahindra",
+      "product": "The All-New Thar",
+      "headline": "Sorry cars — The Thar wins — Autocar India Car of the Year 2021",
+      "description": "Brand campaign for the all-new Mahindra Thar highlighting its safety rating and Car of the Year award.",
+      "price": null,
+      "ad_type": "Manufacturer brand campaign",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Autocar India Car of the Year 2021",
+        "Global NCAP 5-star safety rating",
+        "Mahindra Own Online",
+        "Rise (brand identity)",
+        "All-new Thar"
+      ],
+      "body_copy": [
+        "Visit our website for more details: auto.mahindra.com/suv/thar",
+        "facebook.com/mahindrathar",
+        "twitter.com/mahindra_thar",
+        "instagram.com/mahindrathar",
+        "youtube.com/tharmahindra",
+        "Dealer list across Mumbai, Pune, Nashik and other cities with phone numbers"
+      ],
+      "other_details": {
+        "award": "Autocar India Car of the Year 2021",
+        "safety_rating": "Global NCAP 5 stars",
+        "fine_print": "Accessories shown may not be part of standard equipment; vehicle body colour may vary from printed photographs; stunt depicted should not be imitated"
+      },
+      "missing_or_uncertain": [
+        "Price not stated",
+        "Fuel type not stated",
+        "Mileage not stated"
+      ]
+    },
+    {
+      "id": 8,
+      "filename": "ad_008_TVS_Apache.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "TVS Racing / TVS Motor Company",
+      "product": "All-new 2019 TVS Apache RTR Series",
+      "headline": "Race engineered performance. All-new 2019 TVS Apache RTR Series with Super-Moto ABS",
+      "description": "Motorcycle launch campaign with a finance scheme and low EMI/down-payment offer.",
+      "price": "₹16,999 low down payment; ₹2,019 low EMI; 3.99% ROI*",
+      "ad_type": "Manufacturer launch / finance offer",
+      "fuel_type": "Petrol (two-wheeler)",
+      "mileage": null,
+      "features": [
+        "Super-Moto ABS",
+        "Racing DNA unleashed",
+        "Race engineered performance",
+        "Low down payment ₹16,999",
+        "Low EMI ₹2,019",
+        "3.99% rate of interest",
+        "TVS showrooms open on Sundays"
+      ],
+      "body_copy": [
+        "www.tvsapacherace.com",
+        "For further details please give a missed call to 18003157227",
+        "Extensive dealer list across India with phone numbers"
+      ],
+      "other_details": {
+        "model_year": "2019",
+        "finance_offer": "3.99% ROI, ₹16,999 down payment, ₹2,019 EMI",
+        "dealer_network": "Pan-India dealer list included",
+        "fine_print": "Terms and conditions apply; ROI may vary; offer details with financier"
+      },
+      "missing_or_uncertain": [
+        "Exact variants and engine specifications not stated",
+        "Mileage not stated"
+      ]
+    },
+    {
+      "id": 9,
+      "filename": "ad_009_State_Bank_Of_India.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "State Bank of India (SBI)",
+      "product": "Customer Meet — banking feedback initiative",
+      "headline": "Let's Connect — Join us to make banking better.",
+      "description": "SBI invites customers to a Customer Meet to voice views, share experiences and give feedback on banking services.",
+      "price": null,
+      "ad_type": "Banking / customer engagement notice",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Customer Meet",
+        "Customer feedback platform",
+        "Date: 28th May 2019",
+        "Time: 4:30 PM onwards"
+      ],
+      "body_copy": [
+        "We invite all our customers to our Customer Meet, where you can voice your views, share experiences and give your valuable feedback.",
+        "For venue details, visit bank.sbi or call on 1800 112 211"
+      ],
+      "other_details": {
+        "event_date": "28 May 2019",
+        "event_time": "4:30 PM onwards",
+        "contact": "1800 112 211",
+        "website": "bank.sbi"
+      },
+      "missing_or_uncertain": [
+        "Not a product advertisement — price/fuel/mileage fields not applicable",
+        "Venue not stated in the ad (refer website)"
+      ]
+    },
+    {
+      "id": 10,
+      "filename": "ad_010_ICICI_Bank.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "ICICI Bank Business Banking",
+      "product": "Overdraft against property",
+      "headline": "Get an overdraft against your property in just 48 hours.",
+      "description": "Business banking loan product offering an overdraft against property with a dedicated relationship manager and low interest rate.",
+      "price": null,
+      "ad_type": "Banking product / lead generation",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Overdraft against property",
+        "Processing in 48 hours",
+        "Dedicated Relationship Manager",
+        "Low interest rate"
+      ],
+      "body_copy": [
+        "T&C applicable as per ICICI Bank's policy",
+        "Give us a missed call: 8080 94 5050"
+      ],
+      "other_details": {
+        "target_audience": "Business banking customers",
+        "turnaround_time": "48 hours",
+        "call_to_action": "Missed call 8080 94 5050"
+      },
+      "missing_or_uncertain": [
+        "Exact interest rate not quantified",
+        "Price/fuel/mileage fields not applicable to a banking product"
+      ]
+    },
+    {
+      "id": 11,
+      "filename": "ad_011_LIC.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "LIC — Life Insurance Corporation of India",
+      "product": "Claim settlement / policyholder service",
+      "headline": "Strong relationships lead to fulfilled promises. Thank you for your trust.",
+      "description": "LIC service ad asking policyholders to register and update policy details so claims can be settled on time.",
+      "price": null,
+      "ad_type": "Insurance service announcement",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Get policies registered on LIC customer Portal at www.licindia.in",
+        "Ensure nomination is updated",
+        "Update Residential Address, Phone/Mobile No., E-mail ID, etc.",
+        "Provide Bank Account and NEFT details",
+        "Submit claim discharge forms and Policy document",
+        "Call Centre Services: 022 6827 6827",
+        "LIC Mobile App 'LIC India Forever'",
+        "SMS LICHELP POLICY NO to 9222492224"
+      ],
+      "body_copy": [
+        "Help us to settle your claim on time",
+        "Contact your agent / branch with all requirements for prompt claim settlement",
+        "Visit us at www.licindia.in",
+        "Zindagi ke saath bhi, Zindagi ke baad bhi",
+        "IRDA Reg. No. 512"
+      ],
+      "other_details": {
+        "advertisement_code": "LIC/ADVERT/ENG/2019",
+        "regulator_registration": "IRDA Reg. No. 512",
+        "fine_print": "Beware of spurious calls; LIC is not responsible for any wrong advice re: policy; policy documents should be kept in a safe place"
+      },
+      "missing_or_uncertain": [
+        "Not a product sale ad — price/fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 12,
+      "filename": "ad_012_Bank_of_Baroda.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Bank of Baroda",
+      "product": "111th Foundation Day — Customer Inspired Banking",
+      "headline": "Foundation Day — #BankingOnYourFuture",
+      "description": "Bank of Baroda Foundation Day ad thanking customers for their trust and showcasing digital banking offerings.",
+      "price": null,
+      "ad_type": "Banking brand / institutional ad",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "111th Foundation Day",
+        "Customer Inspired Banking",
+        "Baroda DigiNext",
+        "Baroda Supply Chain",
+        "B=Wealth (wealth management)",
+        "Go Digital",
+        "Dedicated digital/online banking services"
+      ],
+      "body_copy": [
+        "On our 111th Foundation Day, we express our gratitude to Customers for their trust and confidence. We thank you for being a source of inspiration.",
+        "www.bankofbaroda.com",
+        "#BankingOnYourFuture",
+        "Follow us on Facebook, Twitter, YouTube, Instagram, LinkedIn"
+      ],
+      "other_details": {
+        "tagline": "India's International Bank",
+        "foundation_day": "111th",
+        "digital_products": [
+          "Baroda DigiNext",
+          "Baroda Supply Chain",
+          "B=Wealth",
+          "Go Digital"
+        ]
+      },
+      "missing_or_uncertain": [
+        "Not a product sale ad — price/fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 13,
+      "filename": "ad_013_Tanishq_jewellary.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Tanishq (A Tata Product)",
+      "product": "Diamond jewellery",
+      "headline": "The Great Diamond Sale — Up to 20% off on diamond jewellery",
+      "description": "Diamond jewellery sale with an exclusive early preview for ENCIRCLE members and an additional HDFC Bank card discount.",
+      "price": "Up to 20% off on diamond jewellery; up to ₹10,000 additional instant discount on HDFC Bank Debit & Credit Cards",
+      "ad_type": "Retail sale / festival offer",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Up to 20% off on diamond jewellery",
+        "Exclusive preview: 1% additional discount for ENCIRCLE members from 25th to 28th July 2019",
+        "Offer valid from 1st Aug to 31st Aug 2019",
+        "Not valid on Gold Coins",
+        "Buy online at tanishq.co.in",
+        "Up to 25% off on making charges of Kundan Polki and Open Polki jewellery",
+        "Minimum 5% discount on diamond jewellery"
+      ],
+      "body_copy": [
+        "Check tanishq.co.in/offers for further details",
+        "Give a missed call on 1800 3010 5002 to know more",
+        "Store list across New Delhi and other cities",
+        "We understand your world (HDFC Bank)"
+      ],
+      "other_details": {
+        "sale_period": "1 Aug – 31 Aug 2019",
+        "preview_period": "25–28 July 2019 for ENCIRCLE members",
+        "bank_partner": "HDFC Bank",
+        "exclusions": "Gold coins",
+        "fine_print": "T&C apply; Tanishq reserves right to amend T&Cs without prior notice"
+      },
+      "missing_or_uncertain": [
+        "No absolute rupee price for products stated",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 14,
+      "filename": "ad_014_Kalyan_jewellers.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Kalyan Jewellers",
+      "product": "Muhurrat wedding jewellery — 'Celebrating the Indian Bride'",
+      "headline": "Celebrating the Indian Bride with Muhurrat Wedding Jewellery",
+      "description": "Wedding jewellery campaign featuring brand ambassador Amitabh Bachchan with multiple gold-coin and discount offers.",
+      "price": "Up to 30% off on VA for gold jewellery",
+      "ad_type": "Retail festive / wedding offer",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Upto 30% off on VA for gold jewellery",
+        "Get 1 gm gold coin free on purchase of diamond & uncut jewellery worth ₹50,000",
+        "Get 500 mg gold coin free on purchase of precious solitaire jewellery worth ₹50,000",
+        "Get 400 mg gold coin free on purchase of diamond & uncut jewellery worth ₹25,000",
+        "Free lifetime jewellery maintenance — free cleaning/polishing, exchange with no questions asked, free repair of old non-Kalyan gold jewellery",
+        "134 branches across India and Middle East",
+        "Open on all Sundays"
+      ],
+      "body_copy": [
+        "B-42, Idea Square, Off New Link Road, Opp. City Mall, Andheri West, Mumbai",
+        "Also at Borivali, Vashi, Vijay Nagar, Indore, Bhopal and other locations",
+        "www.kalyanjewellers.net",
+        "Follow us on Facebook"
+      ],
+      "other_details": {
+        "brand_ambassador": "Amitabh Bachchan",
+        "campaign": "Celebrating the Indian Bride",
+        "collection": "Muhurrat wedding jewellery",
+        "fine_print": "Offer not applicable on Kalyan Jewellers Privacy Offer; cannot be clubbed with other schemes; applicable for purchase of gold coins; not applicable for loose diamonds"
+      },
+      "missing_or_uncertain": [
+        "'VA' abbreviation not expanded in the ad",
+        "Absolute rupee prices not stated",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 15,
+      "filename": "ad_015_Malabar_gold_and_diamond.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Malabar Gold & Diamonds",
+      "product": "mine Diamond Festival collection",
+      "headline": "mine Diamond Festival — 02nd Jan – 01st Feb",
+      "description": "Diamond jewellery festival highlighting quality assurance, a fair-price promise and a 20% discount on diamond value.",
+      "price": "Up to 20% off on diamond value",
+      "ad_type": "Retail festival sale",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "One India One Gold Rate",
+        "Malabar Fair Price Promise",
+        "26 internal quality tests and international lab certifications",
+        "To browse and buy online visit www.malabargoldanddiamonds.com",
+        "Complete transparency",
+        "Assured lifetime maintenance",
+        "Zero-deduction gold exchange",
+        "100% BIS 916 Hallmarked Gold",
+        "Tested & Certified Diamonds",
+        "Guaranteed Buyback",
+        "Jewellery insured",
+        "Karat Analyser Facility",
+        "Responsibly sourced gold",
+        "Fair wages, benefits and working conditions for Karigars"
+      ],
+      "body_copy": [
+        "A celebration of exquisite diamond jewellery that comes with the assurance of 26 internal quality tests and international lab certifications. Trust and workmanship refined at every stage, right from the mines to the showroom.",
+        "Branch addresses in Ghaziabad, Pusa Road/Karol Bagh, Noida, Greater Noida, New Delhi with phone numbers",
+        "India | USA | Singapore | Malaysia | UAE | Qatar | KSA | Oman | Kuwait | Bahrain"
+      ],
+      "other_details": {
+        "festival_dates": "2 Jan – 1 Feb",
+        "quality_commitments_count": 10,
+        "brand_tagline": "Celebrate the beauty of life",
+        "geographic_presence": "10 countries listed"
+      },
+      "missing_or_uncertain": [
+        "Absolute rupee prices not stated",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 16,
+      "filename": "ad_016_Amul.jpg",
+      "language": "English (health claim in a regional language)",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Amul (Gujarat Co-operative Milk Marketing Federation)",
+      "product": "Amul Masti Dahi (curd), 1 kg pack",
+      "headline": "Amul Masti Dahi — Goodness with every spoon",
+      "description": "Product pack advertisement for Amul Masti Dahi highlighting taste and health benefits in a regional language line.",
+      "price": "₹65* per 1 kg pack",
+      "ad_type": "FMCG product pack",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "1 kg pack",
+        "Goodness with every spoon",
+        "Regional-language line states it helps digestive/stomach health and bone strength (translation approximate)",
+        "The Taste of India (brand tagline)"
+      ],
+      "body_copy": [
+        "योगमार्गकरशक्ती, पोटाचे आरोग्य आणि हाडांची शक्ती वाढवण्यास मदत करते (regional text, approximate translation: helps immunity, stomach health and bone strength)"
+      ],
+      "other_details": {
+        "pack_size": "1 kg",
+        "price_marked": "₹65 with asterisk"
+      },
+      "missing_or_uncertain": [
+        "Regional-language health claim translated approximately — verify with a native reader",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 17,
+      "filename": "ad_017_Patanjali.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Patanjali Ayurved",
+      "product": "Patanjali pure Swadeshi food range",
+      "headline": "Bring Home Patanjali's Pure Swadeshi Food, protect your children and family from the poison of adulteration.",
+      "description": "Range ad for Patanjali food products positioned as pure, unadulterated and indigenous, with founders Baba Ramdev and Acharya Balkrishna pictured.",
+      "price": null,
+      "ad_type": "FMCG brand / product range ad",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "2 years old Basmati rice and other rice variants",
+        "Navratna Atta made from nine kinds of cereals",
+        "High-fibre Sargun Sampann Chakki Atta fortified with B12 and iron",
+        "Traditional Chakki Atta",
+        "Unpolished natural pulses full of proteins",
+        "Patanjali biscuits — no maida, no cholesterol",
+        "Patanjali healthy atta noodles",
+        "Special Chyawanprash made from 51 natural herbs",
+        "Physically refined and natural oils",
+        "Prakriti ka Aashirwad (brand tagline)"
+      ],
+      "body_copy": [
+        "Rice, Atta, Pulses, Besan, Spices etc.",
+        "Biscuit, Breakfast Cereals, Noodles, Tomato Ketchup, Kesar etc.",
+        "Chyawanprash, Candy, Badam Pak, Soanpapdi and Oils",
+        "Shop Online: www.patanjaliayurved.net",
+        "Customer Care Number: 18001804108",
+        "Email ID: feedback@patanjaliayurved.org",
+        "Website: www.patanjaliayurved.org"
+      ],
+      "other_details": {
+        "founders_shown": [
+          "Baba Ramdev",
+          "Acharya Balkrishna"
+        ],
+        "product_categories": 3,
+        "positioning": "Pure Swadeshi food free from adulteration"
+      },
+      "missing_or_uncertain": [
+        "No individual product prices stated",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 18,
+      "filename": "ad_018_Haldiram.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Haldiram's",
+      "product": "Dhanteras / Diwali gift boxes and sweets",
+      "headline": "Millions of Joyful Moments Packed in a box — Happy Dhanteras",
+      "description": "Festive campaign showcasing gift boxes across chocolate, sweets, dry fruit and Diwali gift pack collections.",
+      "price": null,
+      "ad_type": "FMCG festive campaign",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Premium Chocolate Collection",
+        "Sweets Collection",
+        "Dry Fruit Collection",
+        "Diwali Gift Packs",
+        "Gift box labels: 'Meethe Mein Masti', 'Mazedaar Kissey'",
+        "QR code to locate nearest outlet"
+      ],
+      "body_copy": [
+        "Scan this QR code to locate the Nearest Outlet",
+        "www.haldirams.com",
+        "Shop online at: haldiramsonline.com"
+      ],
+      "other_details": {
+        "festival": "Dhanteras / Diwali",
+        "product_lines_shown": 4
+      },
+      "missing_or_uncertain": [
+        "No prices stated for gift boxes",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 19,
+      "filename": "ad_019_Horlicks_nutrition_drink.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Horlicks",
+      "product": "Horlicks Chocolate Delight flavour nutrition drink",
+      "headline": "Horlicks increases the Power of Milk*",
+      "description": "Nutrition drink ad claiming 100% RDA of growth nutrients and taller, stronger, sharper outcomes for children.",
+      "price": null,
+      "ad_type": "FMCG product ad / health claim",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Contains 100% RDA of Growth Nutrients",
+        "Makes children Taller, Stronger, Sharper",
+        "Chocolate Delight flavour",
+        "Pack icons for tall, strong and sharp benefits",
+        "Milk splash imagery"
+      ],
+      "body_copy": [
+        "Horlicks contains 100% RDA of Growth Nutrients*. Horlicks makes children TALLER · STRONGER · SHARPER.",
+        "*Claims based on a study conducted by an independent accredited laboratory in India comparing Horlicks enriched milk with non-fortified whole milk.",
+        "More studies comparing a daily serve of 54g of Horlicks enriched milk vis-a-vis non-fortified milk in children (aged 6-12 years) showed a positive impact on more Bone Area and increase in Attention concentration scores."
+      ],
+      "other_details": {
+        "flavour": "Chocolate Delight",
+        "claim_basis": "Independent accredited lab study in India",
+        "age_group_in_claim": "6–12 years"
+      },
+      "missing_or_uncertain": [
+        "Price not stated",
+        "Asterisk claim conditions require verification",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 20,
+      "filename": "ad_020_Dove_soaps.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Dove (Hindustan Unilever)",
+      "product": "New Dove Nourishing Hand Wash",
+      "headline": "NEW Dove Nourishing Hand Wash — for soft and smooth hands with every wash",
+      "description": "Product launch ad for Dove hand wash with three variants and moisturising claims.",
+      "price": null,
+      "ad_type": "FMCG product launch",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Contains 1/4 moisturizing cream",
+        "Penetrates up to 10 layers deep",
+        "Nourishes up to 10 layers deep",
+        "Variants shown: cucumber/green tea, deep moisture, nut/oil variant",
+        "NEW product badge",
+        "WITHIN EPIDERMIS illustration note"
+      ],
+      "body_copy": [
+        "Ordinary soap may leave your hands dry. Try New Dove Nourishing Hand Wash which has 1/4 moisturizing cream that penetrates up to 10 layers deep giving you touchably soft smooth hands after every wash."
+      ],
+      "other_details": {
+        "product_category": "Hand wash",
+        "variants_shown": 3,
+        "moisturising_claim": "1/4 moisturizing cream"
+      },
+      "missing_or_uncertain": [
+        "Price not stated",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 21,
+      "filename": "ad_021_Samsung_mobiles.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Samsung India",
+      "product": "Samsung Galaxy smartphone range (Bestdays sale)",
+      "headline": "SAMSUNG Bestdays — Attractive benefits up to ₹9000",
+      "description": "Festive sale ad for Samsung Galaxy phones with upgrade bonuses and model-specific offers.",
+      "price": "Galaxy J8: ₹15,990; Galaxy A7: ₹21,990; Upgrade bonuses: Galaxy S9+ ₹3,000, Galaxy A9 ₹4,000, Galaxy Note9 ₹9,000 (up to ₹9,000 total)",
+      "ad_type": "Retail sale / electronics",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "World's 1st Quad Camera (Galaxy A9)",
+        "Triple Camera (Galaxy A7)",
+        "1TB Ready (Galaxy Note9)",
+        "Samsung Upgrade bonus scheme",
+        "Available at Samsung SmartCafe, Samsung.com.in and all leading mobile stores"
+      ],
+      "body_copy": [
+        "Follow Samsung on social media: Facebook / Twitter / YouTube / Instagram @SamsungMobileIN",
+        "Terms and conditions apply — upgrade bonus as per eligibility",
+        "Models shown for representation purpose only"
+      ],
+      "other_details": {
+        "sale_name": "Samsung Bestdays",
+        "models_shown": [
+          "Galaxy S9+",
+          "Galaxy J8",
+          "Galaxy A9",
+          "Galaxy Note9",
+          "Galaxy A7"
+        ],
+        "maximum_benefit": "₹9,000"
+      },
+      "missing_or_uncertain": [
+        "Some price/bonus figures are in small type — verify against official offer page",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 22,
+      "filename": "ad_022_Apple_mobiles.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Apple",
+      "product": "iPhone Xs",
+      "headline": "Welcome to the big screens. iPhone Xs. Available today from 6pm.",
+      "description": "Launch availability ad for iPhone Xs with a large product image and retail distribution partners.",
+      "price": null,
+      "ad_type": "Manufacturer product launch",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "iPhone Xs",
+        "Big screens",
+        "Available from 6pm",
+        "Distribution partners: Ingram, Rashi Peripherals, Redington",
+        "IndiaStore.com retail partner",
+        "Turn over to know more"
+      ],
+      "body_copy": [
+        "Distribution Partners: Ingram, Rashi Peripherals, Redington",
+        "INDIAISTORE.COM",
+        "TM and © 2018 Apple Inc. All rights reserved."
+      ],
+      "other_details": {
+        "launch_time": "6pm",
+        "retail_partners": [
+          "Ingram",
+          "Rashi Peripherals",
+          "Redington",
+          "IndiaStore.com"
+        ]
+      },
+      "missing_or_uncertain": [
+        "Price not stated in this ad",
+        "Specifications not listed — refer follow-up page",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 23,
+      "filename": "ad_023_LG_television.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "LG Electronics India",
+      "product": "LG TV range — OLED, UHD, Smart TV and LED",
+      "headline": "This festive season, bring home the best of TV technology — World's Best Selling OLED Brand",
+      "description": "Festive television campaign with four product tiers, pricing, EMI schemes and bank cashback offers.",
+      "price": "OLED E8/C8/B8 from ₹1,74,990 (EMI ₹6,999); UHD from ₹39,990 (EMI ₹2,999 onwards); Smart TV from ₹29,190 (EMI ₹1,999 onwards); LED from ₹18,490 under exchange (EMI ₹1,999 onwards)",
+      "ad_type": "Retail festive sale / electronics",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "LG OLED TV with AI ThinQ",
+        "World's Best Selling OLED Brand",
+        "Dolby Atmos Sound",
+        "4K Active HDR",
+        "Alpha 9 Intelligent Processor",
+        "LG AI (Artificial Intelligence)",
+        "Google Assistant",
+        "2-Way Bluetooth",
+        "Cloud Photo & Videos",
+        "Active HDR",
+        "Magic Remote",
+        "IPS Panel",
+        "20W Sound Output",
+        "Regional Language support",
+        "Live Zoom",
+        "15% cashback on select Debit/Credit Cards",
+        "1 Pay EMI",
+        "Jio Digital Data worth ₹3,500",
+        "2-year warranty",
+        "Awards 2018 (CES innovation awards, iF Design Award, etc.)"
+      ],
+      "body_copy": [
+        "For more information visit www.lg.com/in",
+        "LG Service: 1800-315-9999 / 1800-575-7554",
+        "Follow us on Facebook / Twitter / YouTube / Instagram",
+        "Extensive LG dealer list across India with addresses and phone numbers"
+      ],
+      "other_details": {
+        "product_lines": [
+          "OLED TV E8/C8/B8",
+          "UHD TV UK75/UK67/UK65/UK63",
+          "Smart TV LK62/LK61/LK57",
+          "LED TV LK526"
+        ],
+        "screen_sizes_inches": [
+          "77",
+          "65",
+          "55",
+          "64",
+          "55",
+          "50",
+          "43",
+          "43",
+          "32",
+          "43",
+          "32"
+        ],
+        "bank_offers": [
+          "15% cashback",
+          "1 Pay EMI",
+          "Jio data worth ₹3,500",
+          "2-year warranty"
+        ]
+      },
+      "missing_or_uncertain": [
+        "Individual model prices not all legible — ranges recorded",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 24,
+      "filename": "ad_024_Panasonic_television.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "Panasonic India",
+      "product": "6 Speed Inverter Refrigerators with ECONAVI",
+      "headline": "Trust of 8 crore customers now in India — Presenting 6 Speed Inverter Refrigerators powered by ECONAVI Technology",
+      "description": "Refrigerator campaign for the Indian market highlighting energy saving, storage and warranty benefits.",
+      "price": "Frost free range available from ₹29,610 – ₹60,210; 5% HDFC Bank cashback up to ₹5,000",
+      "ad_type": "Manufacturer product launch / offer",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "6 Speed Inverter compressor",
+        "ECONAVI Technology with intelligent eco sensors",
+        "Save up to 49% + 10% on electricity consumption",
+        "2 years warranty (terms apply)",
+        "20% additional jumbo storage",
+        "12 years compressor warranty",
+        "99.9% bacteria free",
+        "Experience Fresh",
+        "Easy finance scheme",
+        "Panasonic 100th anniversary"
+      ],
+      "body_copy": [
+        "Service Helpline: 1800 103 1333 / 1800 108 1333",
+        "www.panasonic.co.in / shop.panasonic.co.in",
+        "Insist on a Panasonic India genuine product",
+        "Registered Office: Panasonic India Pvt. Ltd., Gurgaon",
+        "Extensive dealer list across India with contact numbers"
+      ],
+      "other_details": {
+        "customer_base_claim": "8 crore customers",
+        "warranty": "2 years product + 12 years compressor",
+        "energy_claim": "49% + 10% electricity saving",
+        "bank_offer": "5% HDFC Bank cashback up to ₹5,000"
+      },
+      "missing_or_uncertain": [
+        "Individual model prices not stated (only range)",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 25,
+      "filename": "ad_025_SpiceJet.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "SpiceJet",
+      "product": "Daily direct flights Bengaluru–Mumbai & Delhi; SpiceBiz business class",
+      "headline": "Mumbai — Introducing daily direct return flight from Bengaluru to Mumbai & Delhi. Fly at amazingly low fares.",
+      "description": "Airline route launch ad with a detailed flight/fare table and business-class product promotion.",
+      "price": "SG 6351 Bengaluru–Mumbai ₹2,892; SG 6352 Mumbai–Bengaluru ₹2,845; SG 8720 Bengaluru–Delhi ₹3,770; SG 8719 Delhi–Bengaluru ₹3,500; SG 8718 Bengaluru–Delhi ₹3,770; SG 8717 Delhi–Bengaluru ₹3,500",
+      "ad_type": "Airline route launch / fare offer",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Daily direct return flights",
+        "Bengaluru–Mumbai and Bengaluru–Delhi routes",
+        "SpiceBiz business class — your space in the sky",
+        "Best-in-class fares",
+        "Dedicated 2x2 cabin",
+        "Gourmet meals and beverages",
+        "Priority check-in and boarding",
+        "Lounge access",
+        "Red · Hot · Spicy brand tagline"
+      ],
+      "body_copy": [
+        "For bookings, log on to www.spicejet.com or call +91 9871803333",
+        "Starting from 11th May 2019; already operational; operating on all days except Tuesday",
+        "Fares are inclusive of taxes (conditions apply)"
+      ],
+      "other_details": {
+        "flight_numbers": [
+          "SG 6351",
+          "SG 6352",
+          "SG 8720",
+          "SG 8719",
+          "SG 8718",
+          "SG 8717"
+        ],
+        "departure_times": [
+          "05:15",
+          "20:00",
+          "22:00",
+          "18:30",
+          "15:05",
+          "11:50"
+        ],
+        "arrival_times": [
+          "07:10",
+          "21:35",
+          "00:45",
+          "21:15",
+          "17:55",
+          "14:30"
+        ],
+        "start_date": "11 May 2019"
+      },
+      "missing_or_uncertain": [
+        "Fares subject to taxes/availability — confirm on website",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 26,
+      "filename": "ad_026_Indigo.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "IndiGo",
+      "product": "Chennai–Colombo and Chennai–Vijayawada flights",
+      "headline": "India Tour of Sri Lanka — Introducing two daily, non-stop flights to Colombo.",
+      "description": "Airline route launch ad with fare tables for Colombo and Vijayawada sectors.",
+      "price": "Chennai–Colombo ₹3,599; Colombo–Chennai ₹5,499; Chennai–Vijayawada ₹1,099; Vijayawada–Chennai ₹999",
+      "ad_type": "Airline route launch / fare offer",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Two daily non-stop flights to Colombo",
+        "Also flights to and from Vijayawada",
+        "goIndiGo.in",
+        "Chennai–Colombo departures 06:55 and 12:00; arrivals 08:15 and 13:25",
+        "Colombo–Chennai departures 09:15 and 20:30; arrivals 11:00 and 21:55"
+      ],
+      "body_copy": [
+        "*W.E.F. 20th January 2018 (Colombo); ^W.E.F. 2nd March 2018 (Vijayawada)",
+        "*Lowest all inclusive one-way fare on limited seats. Fares and schedule are subject to change without prior notice. For bookings, please log on to our website or visit your travel agent.",
+        "IndiGo | goIndiGo.in"
+      ],
+      "other_details": {
+        "routes": [
+          "Chennai–Colombo",
+          "Colombo–Chennai",
+          "Chennai–Vijayawada",
+          "Vijayawada–Chennai"
+        ],
+        "effective_dates": [
+          "20 Jan 2018",
+          "2 Mar 2018"
+        ]
+      },
+      "missing_or_uncertain": [
+        "Fares are limited-seat, all-inclusive one-way — verify before use",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 27,
+      "filename": "ad_027_Make_MyTrip.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "MakeMyTrip",
+      "product": "Europe and other international holiday packages",
+      "headline": "This summer, head to Europe — Up to ₹60,000 off on Europe packages",
+      "description": "Travel packages campaign with Europe discount plus Bali, Singapore and Bhutan deals and store-level offers.",
+      "price": "Up to ₹60,000 off Europe packages; Bali 4N/5D from ₹44,000; Singapore 4N/5D from ₹52,000; Bhutan 6N/7D from ₹39,999",
+      "ad_type": "Travel package sale",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Indian meals",
+        "Multilingual tour manager",
+        "Visa protection plan*",
+        "Walk in to nearest MakeMyTrip store to grab deals",
+        "Bali package: free 1-hour spa + private transfers",
+        "Singapore package: private transfers included",
+        "Bhutan package: Indian meals + brewery tour"
+      ],
+      "body_copy": [
+        "Call us at 1800 102 7212 / 1800 103 0080 or visit us at G-3, Zehra Manzil 91, Lady Jamshedji Road, Mahim West, Mumbai – 400016",
+        "Store phone numbers: Borivali, Malad, Navi Mumbai, Opera House, Chembur, Thane",
+        "For partnering with us, email franchiseenquiry@makemytrip.com"
+      ],
+      "other_details": {
+        "destinations": [
+          "Europe",
+          "Bali",
+          "Singapore",
+          "Bhutan"
+        ],
+        "nights_days": [
+          "4N/5D",
+          "4N/5D",
+          "6N/7D"
+        ],
+        "max_discount": "₹60,000"
+      },
+      "missing_or_uncertain": [
+        "Visa protection plan subject to conditions",
+        "Exact Europe package price not stated (only discount)",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 28,
+      "filename": "ad_028_Fabindia.jpg",
+      "language": "English (collection name in Hindi/Devanagari)",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "FabIndia",
+      "product": "Rajwada ethnic wear collection",
+      "headline": "Rajwada — Celebrating Traditions",
+      "description": "Ethnic apparel campaign for the Rajwada collection, marked by FabIndia's 60-year anniversary.",
+      "price": null,
+      "ad_type": "Fashion / brand campaign",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Rajwada collection",
+        "Celebrating Traditions",
+        "60 years of celebrating India's craft (1958–2018)",
+        "FabFamily loyalty programme",
+        "All safety measures in place as per WHO guidelines",
+        "Scan QR to download app"
+      ],
+      "body_copy": [
+        "Call 1800-100-1212",
+        "FabIndia.com",
+        "FabFamily loyalty program",
+        "Social: facebook.com/fabindia, @fabindiaofficial, @fabindiahome, @fabindianews"
+      ],
+      "other_details": {
+        "collection": "Rajwada",
+        "brand_anniversary": "60 years",
+        "safety_note": "WHO-guideline safety measures"
+      },
+      "missing_or_uncertain": [
+        "No prices stated",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 29,
+      "filename": "ad_029_Biba.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "BIBA",
+      "product": "Festive '17 — Awadhi Anarkali collection",
+      "headline": "The Awadhi Anarkali revival — Who's that girl?",
+      "description": "Festive ethnic-wear campaign featuring Anarkali suits and related BIBA product lines.",
+      "price": null,
+      "ad_type": "Fashion / festive collection",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "The Awadhi Anarkali revival",
+        "Festive '17 collection",
+        "Also available: BIBA Jewellery and BIBA Girls",
+        "Salwar kameez dupattas",
+        "Mix 'n' match kurtas",
+        "Unstitched fabrics",
+        "Shop online 24x7 at www.biba.in"
+      ],
+      "body_copy": [
+        "Also available at Shoppers Stop, Pantaloons, Lifestyle, Central, Amazon.in, Myntra, Jabong",
+        "Store list across Mumbai (Santacruz, Navi Mumbai, Thane, Andheri, Khar, Colaba, etc.) with phone numbers",
+        "Connect with us on facebook.com/BibaIndia",
+        "Scan QR code for more"
+      ],
+      "other_details": {
+        "season": "Festive 2017",
+        "product_lines": [
+          "Anarkali suits",
+          "BIBA Jewellery",
+          "BIBA Girls",
+          "Unstitched fabrics"
+        ],
+        "retail_channels": "BIBA stores, Shoppers Stop, Pantaloons, Lifestyle, Central, Amazon, Myntra, Jabong"
+      },
+      "missing_or_uncertain": [
+        "No prices stated",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 30,
+      "filename": "ad_030_Raymonds.jpg",
+      "language": "English",
+      "source": "Advert_Gallery (MAdVerse)",
+      "brand": "The Raymond Shop (Raymond Group)",
+      "product": "Readymade garments — End of Season Sale",
+      "headline": "End of Season Sale — Buy three, get 40% off",
+      "description": "Retail sale ad on readymade garments with an additional SBI card cashback offer.",
+      "price": "Buy 3 get 40% off; 5% extra cashback on SBI Debit & Credit Cards (min ₹5,000; cashback up to ₹1,000 per card account)",
+      "ad_type": "Retail end-of-season sale",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Buy three and get 40% off",
+        "Offer only on readymade garments",
+        "5% extra cashback with SBI Debit/Credit Card",
+        "Validity 22 Jun – 05 Aug 2018",
+        "Extensive Raymond Shop store list across Mumbai"
+      ],
+      "body_copy": [
+        "Terms & Conditions: Offer not valid on already discounted products",
+        "Offer available at all stores unless otherwise stated",
+        "5% extra cashback — SBI Debit & Credit Card, min. transaction ₹5,000; cashback ₹1,000 per card account; validity 22 Jun–05 Aug 18",
+        "Store addresses: Ballard Estate, Warden Road, Lower Parel, Dadar, Kurta, Ghatkopar, Mulund, Khar, Santacruz, Andheri, Borivali, Goregaon, Mira Road, Thane, Vasai, Dombivali, Navi Mumbai, Boisar, Panvel, Bhiwandi, Nallasopara, Achole Road"
+      ],
+      "other_details": {
+        "sale_period": "22 Jun – 5 Aug 2018",
+        "bank_partner": "State Bank of India",
+        "minimum_transaction": "₹5,000"
+      },
+      "missing_or_uncertain": [
+        "Offer year read as 2018 from fine print",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 31,
+      "filename": "ad_031_Rashtriya_Sahara.jpg",
+      "language": "Hindi",
+      "source": "Epaper2 (MAdVerse) — Rashtriya Sahara",
+      "brand": "HILANS",
+      "product": "Pure natural Himalayan food products (Uttarakhand)",
+      "headline": "हम हिमालयी हैं — हिमालय के शुद्ध व प्राकृतिक उत्पाद (We are Himalayan — pure and natural Himalayan products)",
+      "description": "Brand ad for Uttarakhand-produced Himalayan food products, positioning purity and farmer craftsmanship.",
+      "price": null,
+      "ad_type": "FMCG brand / product range ad",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Purity you deserve (brand tagline)",
+        "Pure and natural Himalayan produce",
+        "Products shown: horse gram (कुल्थी), masoor dal, red rice, black gram/rice, rajma, kidney beans",
+        "Farmer-produced from Uttarakhand",
+        "Warehouse/outlet in Dehradun"
+      ],
+      "body_copy": [
+        "हिलांस - वेयर हाउस/आउटलेट, 216, पंडितवाडी, फेज-2 देहरादून",
+        "+91 9275212121",
+        "www.hilans.org"
+      ],
+      "other_details": {
+        "location": "Dehradun, Uttarakhand",
+        "product_count_shown": 7,
+        "brand_line": "Purity you deserve"
+      },
+      "missing_or_uncertain": [
+        "Prices not stated",
+        "Some product names read from small Hindi text — verify",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 32,
+      "filename": "ad_032_Hari_Bhoomi.jpg",
+      "language": "Hindi",
+      "source": "Epaper2 (MAdVerse) — Hari Bhoomi",
+      "brand": "Dr. Jamal's Accumass (Ayurvedic)",
+      "product": "Accumass Ayurvedic Chyawanprash",
+      "headline": "वज़न बढ़ाएं, आत्मविश्वास जगाएं (Increase weight, build self-confidence)",
+      "description": "Ayurvedic chyawanprash ad positioned for weight gain and confidence.",
+      "price": null,
+      "ad_type": "FMCG / ayurvedic product ad",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Accumass Ayurvedic Chyawanprash",
+        "Weight gain and confidence claim",
+        "Jar and carton packaging shown"
+      ],
+      "body_copy": [
+        "एक्यूमास आयुर्वेदिक च्यवनप्राश",
+        "Phone number at top: 9685690390 (partially legible)"
+      ],
+      "other_details": {
+        "product_category": "Ayurvedic chyawanprash",
+        "brand_endorsement": "Dr. Jamal's"
+      },
+      "missing_or_uncertain": [
+        "Price not stated",
+        "Phone number partially legible",
+        "Small-pack text not readable at this resolution",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 33,
+      "filename": "ad_033_Tarun_Bharat.jpg",
+      "language": "Marathi",
+      "source": "Epaper2 (MAdVerse) — Tarun Bharat",
+      "brand": "DNS Bank — Dombivli Nagari Sahakari Bank Ltd.",
+      "product": "चैत्रसंपत्ती विशेष ठेव योजना (Chaitra Sampatti special deposit scheme)",
+      "headline": "चैत्रसंपत्ती विशेष ठेव योजना — 400 दिवसांसाठी (Chaitra Sampatti special deposit scheme — for 400 days)",
+      "description": "Co-operative bank fixed-deposit scheme ad with separate rates for general and senior citizens.",
+      "price": "Deposit above ₹1 lakh: 6.25% interest; general citizens 6.20%; senior citizens 6.55%",
+      "ad_type": "Banking deposit scheme / lead generation",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "400-day deposit tenure",
+        "Simple interest with maturity payout",
+        "6.20% for general citizens",
+        "6.55% for senior citizens",
+        "6.25% for deposits above ₹1 lakh",
+        "Contact nearest branch today",
+        "Scheme valid for a limited period"
+      ],
+      "body_copy": [
+        "सरळ व्याज पद्धतीने मुदतीअंती परतावा",
+        "आजच नजीकच्या शाखेशी संपर्क साधा.",
+        "Web: www.dnsbank.in | Email: enquiry@dnsb.co.in",
+        "Facebook: /DNSBankLtd | Twitter: @DnsBank | WhatsApp: 7045456655 | 1800 233 1700"
+      ],
+      "other_details": {
+        "tenure_days": 400,
+        "interest_rates": {
+          "general": "6.20%",
+          "senior_citizens": "6.55%",
+          "above_1_lakh": "6.25%"
+        },
+        "bank_type": "Co-operative bank"
+      },
+      "missing_or_uncertain": [
+        "Rates marked with asterisk — terms apply",
+        "Minimum deposit amount not fully legible",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 34,
+      "filename": "ad_034_Saamna.jpg",
+      "language": "Marathi",
+      "source": "Epaper2 (MAdVerse) — Saamna",
+      "brand": "Dr. Ortho (Divisa Herbal Pvt. Ltd.)",
+      "product": "Dr. Ortho Strong Oil (120 ml)",
+      "headline": "ज्याच्या पाठीवर केली सवारी, त्याच्यावर दुखणे होऊ नये भारी — International Father's Day",
+      "description": "Father's Day promotional ad for ayurvedic pain-relief oil with a 60% discount offer.",
+      "price": "60% off — M.R.P. ₹450.00, pay only ₹180.00; no shipping charges",
+      "ad_type": "FMCG / ayurvedic product festive offer",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "60% off on Dr. Ortho Strong Oil 120 ml",
+        "No shipping charges",
+        "Helpful in painful conditions (Ayurvedic medicine)",
+        "Coupon code FATHERSDAY",
+        "Offer valid only today (आजच्यासाठीच)",
+        "QR code to scan and shop",
+        "Multiple payment modes: RuPay, Visa, Mastercard, Maestro, Paytm, Google Pay"
+      ],
+      "body_copy": [
+        "International Father's Day — Divisa Herbal Pvt. Ltd. offers Dr. Ortho Strong Oil (120ml) at a heavy discount",
+        "Scan QR code or visit www.divisasotre.com (website partially legible)",
+        "Apply coupon code FATHERSDAY",
+        "No return or replacement policy applicable for this offer",
+        "24x7 Helpline: 7876977777",
+        "Available at all medical & general stores | www.drorthooil.com"
+      ],
+      "other_details": {
+        "occasion": "International Father's Day",
+        "discount": "60%",
+        "mrp": "₹450",
+        "offer_price": "₹180",
+        "coupon": "FATHERSDAY",
+        "pack_size": "120 ml"
+      },
+      "missing_or_uncertain": [
+        "Website in terms text partially legible",
+        "Offer 'valid only today' — date not stated in image",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 35,
+      "filename": "ad_035_Dainik_Statesman.jpg",
+      "language": "Bengali",
+      "source": "Epaper2 (MAdVerse) — Dainik Statesman",
+      "brand": "Priya Gopal (saree retailer; exact brand name in Bengali script is uncertain)",
+      "product": "Festive saree collection for Bengali New Year (Boishakh)",
+      "headline": "শুভ পূজা বৈশাখ (Happy Puja Boishakh / Bengali New Year)",
+      "description": "Bengali New Year saree advertisement with a model in a purple saree and multiple store addresses around Kolkata and West Bengal.",
+      "price": null,
+      "ad_type": "Retail / festive saree ad",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Boishakh / Bengali New Year festive collection",
+        "Purple embroidered saree with gold border shown",
+        "Multiple outlets: Burrabazar, Pathuriaghata, Kanchrapara, Bardhaman, Krishnanagar",
+        "WhatsApp / video call shopping on 7044088408"
+      ],
+      "body_copy": [
+        "বড়বাজার: 70, পণ্ডিত পদ্মলোচন রায় স্ট্রিট, খেদোপাড়া, কোলকাতা – 7, ফোন: 7044092000",
+        "208, মহাত্মা গান্ধী রোড, বড়বাজার, কোলকাতা – 7, ফোন: 8420070959",
+        "পাতুরিয়াঘাটা: 113/1এ, ... কোলকাতা – 29, ফোন: 7044088408",
+        "কাঁচড়াপাড়া: 69/ডি, বাগ বেজার রোড, ... 743145, ফোন: 7044062000",
+        "বর্ধমান: 56, জি. টি. রোড, ... ফোন: 8101707778",
+        "কৃষ্ণনগর: 16/35, আর. এন. টেগোর রোড, ... ফোন: 8373052387",
+        "7044088408 নম্বরে যোগাযোগ করে WhatsApp / Video Call এর মাধ্যমে কেনাকাটা করতে পারেন"
+      ],
+      "other_details": {
+        "festival": "Bengali New Year (Boishakh)",
+        "outlet_cities": [
+          "Kolkata",
+          "Kanchrapara",
+          "Bardhaman",
+          "Krishnanagar"
+        ],
+        "phone_numbers": [
+          "7044092000",
+          "8420070959",
+          "7044088408",
+          "7044062000",
+          "8101707778",
+          "8373052387"
+        ]
+      },
+      "missing_or_uncertain": [
+        "Brand name in the Bengali badge not fully legible",
+        "No prices stated",
+        "Some addresses partially legible",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 36,
+      "filename": "ad_036_Sangbag_Pratidin.jpg",
+      "language": "Bengali",
+      "source": "Epaper2 (MAdVerse) — Sangbag Pratidin",
+      "brand": "Godrej",
+      "product": "Godrej Selfie Shampoo Hair Colour (Natural Black 1)",
+      "headline": "গোদ্রেজ সেলফি — শ্যাম্পু হেয়ার কালার (Godrej Selfie — shampoo hair colour)",
+      "description": "Bengali ad for a low-priced sachet of Godrej Selfie shampoo hair colour with a male celebrity endorser.",
+      "price": "₹15 only (₹15 for 5 ml + 5 ml sachet)",
+      "ad_type": "FMCG product ad",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "5-minute hair colour",
+        "No ammonia",
+        "Enriched with aloe vera",
+        "Natural Black 1 shade",
+        "₹15 sachet — 5 ml + 5 ml",
+        "For short hair"
+      ],
+      "body_copy": [
+        "গোদ্রেজ সেলফি — শ্যাম্পু হেয়ার কালার",
+        "₹১৫ মাত্র (only ₹15)",
+        "*5ml + 5ml",
+        "5 minutes"
+      ],
+      "other_details": {
+        "pack_size": "5 ml + 5 ml",
+        "colour_shade": "Natural Black 1",
+        "application_time": "5 minutes"
+      },
+      "missing_or_uncertain": [
+        "Celebrity endorser name not stated in the ad",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 37,
+      "filename": "ad_037_Dinamani.jpg",
+      "language": "Tamil",
+      "source": "Epaper2 (MAdVerse) — Dinamani",
+      "brand": "Greater Chennai Corporation",
+      "product": "Property tax for financial year 2023–24",
+      "headline": "2023–24ம் நிதியாண்டுக்கான சொத்துவரியை ஏப்ரல் 30க்குள் செலுத்தி, 5% ஊக்கத்தொகை பெறுங்கள்",
+      "description": "Government notice encouraging Chennai property owners to pay property tax before 30 April and receive a 5% rebate for online payment.",
+      "price": "5% rebate/discount on online property tax payment",
+      "ad_type": "Government tax notice / public announcement",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Property tax for FY 2023–24",
+        "Deadline: 30 April",
+        "5% discount for online payment",
+        "QR code to scan and pay",
+        "www.chennaicorporation.gov.in"
+      ],
+      "body_copy": [
+        "2023-24ம் முதல் அரையாண்டுக்கான சொத்துவரியை பெருநகர சென்னை மாநகராட்சிக்கு ஏப்ரல் 30க்குள் செலுத்தி, 5% ஊக்கத்தொகையைப் பெறுங்கள்.",
+        "சொத்து வரியை செலுத்த QR குறியீட்டை ஸ்கேன் செய்யவும்",
+        "மேலும் அறிய: www.chennaicorporation.gov.in",
+        "கால நிட்டுப்பு (deadline)",
+        "விட.அ.நி.அ / 897 / நிதியாண்டு / 2023"
+      ],
+      "other_details": {
+        "financial_year": "2023–24",
+        "deadline": "30 April",
+        "online_discount": "5%",
+        "authority": "Greater Chennai Corporation"
+      },
+      "missing_or_uncertain": [
+        "Exact half-year/period wording partially legible",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 38,
+      "filename": "ad_038_Hindu_Tamil.jpg",
+      "language": "English (advertisement in the Tamil newspaper Hindu Tamil)",
+      "source": "Epaper2 (MAdVerse) — Hindu Tamil",
+      "brand": "Nissan India",
+      "product": "Nissan Magnite",
+      "headline": "Nissan Magnite — Inspired by love. Made to celebrate.",
+      "description": "Automotive ad for the Nissan Magnite with price, finance rate, benefits and safety/feature highlights.",
+      "price": "Range starts at ₹5.97 Lakh; CVT starts at ₹9.75 Lakh; new year benefits up to ₹72,000; rate of interest 6.99%",
+      "ad_type": "Manufacturer / dealer automotive offer",
+      "fuel_type": "Petrol (inferred from model; not explicitly stated in ad)",
+      "mileage": null,
+      "features": [
+        "Assured gifts with every test drive",
+        "Buy before price increase",
+        "New year benefits up to ₹72,000",
+        "Rate of interest 6.99%",
+        "2 years zero maintenance",
+        "Exchange bonus",
+        "Corporate offer",
+        "Loyalty bonus",
+        "Car accessories",
+        "Online booking bonus",
+        "First-in-segment Around View Monitor",
+        "Wireless connectivity to Android Auto & Apple CarPlay",
+        "First-in-segment 17.78 cm TFT Advanced Driver Display",
+        "Global NCAP 4-star safety rating",
+        "Nissan Finance"
+      ],
+      "body_copy": [
+        "Test drive the big bold beautiful Nissan Magnite today",
+        "Give a missed call: 8879509258",
+        "www.nissan.in | Facebook / Instagram / YouTube: @Nissan_India",
+        "Authorized dealer list across Tamil Nadu (Chennai, Tambaram, OMR, Kanchipuram, Thanjavur, Tirunelveli, Vellore, Coimbatore, Villupuram, Puducherry) with phone numbers"
+      ],
+      "other_details": {
+        "benefits_total": "₹72,000",
+        "interest_rate": "6.99%",
+        "safety_rating": "Global NCAP 4 stars",
+        "dealer_region": "Tamil Nadu & Puducherry"
+      },
+      "missing_or_uncertain": [
+        "Fuel type not explicitly stated — inferred from model",
+        "Mileage not stated",
+        "Prices ex-showroom Delhi with asterisk conditions"
+      ]
+    },
+    {
+      "id": 39,
+      "filename": "ad_039_Nava_Telangana.jpg",
+      "language": "Telugu (brand text in English)",
+      "source": "Epaper2 (MAdVerse) — Nava Telangana",
+      "brand": "Malabar Gold & Diamonds",
+      "product": "30th anniversary jewellery collection",
+      "headline": "Malabar Gold & Diamonds — 30 years (anniversary campaign)",
+      "description": "Jewellery brand anniversary ad featuring a female celebrity in gold and diamond jewellery.",
+      "price": null,
+      "ad_type": "Retail brand / anniversary campaign",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "30th anniversary celebration",
+        "Gold and diamond jewellery",
+        "Celebrate the beauty of life (tagline)",
+        "Celebrity endorsement (Actress Alia Bhatt, visually identified — not named in ad)"
+      ],
+      "body_copy": [
+        "MALABAR GOLD & DIAMONDS",
+        "CELEBRATE THE BEAUTY OF LIFE"
+      ],
+      "other_details": {
+        "anniversary": "30 years",
+        "brand_tagline": "Celebrate the beauty of life"
+      },
+      "missing_or_uncertain": [
+        "Offer/price details not stated in this creative",
+        "Celebrity identity visually inferred, not named in text",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 40,
+      "filename": "ad_040_V6_Velugu.jpg",
+      "language": "Telugu",
+      "source": "Epaper2 (MAdVerse) — V6 Velugu",
+      "brand": "Swaroopa Hospital (with 'Dr. D.' medical camp)",
+      "product": "Hospital / doctors day greeting and free medical camp",
+      "headline": "డాక్టర్స్ డే శుభాకాంక్షలు (Happy Doctor's Day)",
+      "description": "Doctor's Day ad for Swaroopa Hospital with two doctors' credentials, emergency service and a free medical camp announcement.",
+      "price": null,
+      "ad_type": "Healthcare / institutional ad",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Happy Doctor's Day greeting",
+        "24x7 Emergency Services",
+        "Dr. A. Swaroopa Rani — M.B.B.S (OSM), M.S (OBG); Infertility Specialist, Gynaecologist",
+        "Dr. J. Sarath Babu — M.B.B.S (OSM), Diploma in Diabetology",
+        "Free medical camp under Well Care & Social Services"
+      ],
+      "body_copy": [
+        "స్వరూప హాస్పిటల్",
+        "Dr. A. SWAROOPA RANI — M.B.B.S (OSM), M.S (OBG), Infertility Specialist, Gynaecologist",
+        "Dr. J. SARATH BABU — M.B.B.S (OSM), Dip. in Diabetology",
+        "ఫోన్: 08736-258399, మొబైల్: 99438 85399",
+        "24x7 Emergency Services"
+      ],
+      "other_details": {
+        "hospital": "Swaroopa Hospital",
+        "specialities": [
+          "Gynaecology",
+          "Infertility",
+          "Diabetology"
+        ],
+        "phone": [
+          "08736-258399",
+          "99438 85399"
+        ]
+      },
+      "missing_or_uncertain": [
+        "Location/address text partially legible",
+        "Exact 'Dr. D.' name in the upper yellow script not legible",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 41,
+      "filename": "ad_041_Prajavani.jpg",
+      "language": "Kannada",
+      "source": "Epaper2 (MAdVerse) — Prajavani",
+      "brand": "Tanishq (A Tata Product)",
+      "product": "Gold earrings / jewellery",
+      "headline": "Stunning every Ear — ಸ್ಟನ್ನಿಂಗ್ ಎವರಿ ಇಯರ್",
+      "description": "Kannadiga jewellery ad for gold earrings with discount and exchange offers.",
+      "price": "Up to 20% off; 100% exchange value of old gold jewellery",
+      "ad_type": "Retail jewellery offer",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Stunning every Ear",
+        "Up to 20% discount",
+        "100% value for exchange of old jewellery",
+        "Gold rate protection",
+        "Partner-bank credit card offer (10% instant discount, partially legible)",
+        "Limited period offer",
+        "Scan WhatsApp 6366082017 to locate nearest store",
+        "Buy online at tanishq.co.in / download the app"
+      ],
+      "body_copy": [
+        "ಈ ಋತುವಿನ ಕಥೆಯಲ್ಲಿ, ನಿಮ್ಮ ಬಹುಚನು ಹೆಸರು ದಿಢೀರ್ ಪ್ರಚೋದಕಗಳಾಗಿ ಬೆಳಗಲಿ! (Kannada copy, approximate)",
+        "To locate your nearest store and know more: WhatsApp 6366082017",
+        "Conditions apply — limited period offer"
+      ],
+      "other_details": {
+        "discount": "20%",
+        "exchange_offer": "100% value",
+        "brand_parent": "Tata"
+      },
+      "missing_or_uncertain": [
+        "Kannada body copy translated approximately",
+        "Bank offer details partially legible",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 42,
+      "filename": "ad_042_Udayavani.jpg",
+      "language": "Kannada",
+      "source": "Epaper2 (MAdVerse) — Udayavani",
+      "brand": "Sakthi Saphala / Sakthi herbs (Ayurvedic)",
+      "product": "Sakthi Saphala women's health tonic / syrup",
+      "headline": "ಒಂದು ಕಾಲದ ಸಮಸ್ಯೆಗಳನ್ನು ಅನುಭವಿಸದೆಯೋಗಲ್ಲ — Sakthi Saphala for women's health",
+      "description": "Ayurvedic health tonic ad featuring two actresses and a doctor, promoting women's wellness with a long heritage claim.",
+      "price": "Price chart partially legible (appears to list multiple pack sizes, e.g. around ₹1,080 / ₹590 and an offer price)",
+      "ad_type": "FMCG / ayurvedic health product",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Ayurvedic formulation for women's health",
+        "67 years of service claim",
+        "Endorsed by two actresses and a doctor",
+        "Multiple pack sizes with prices listed",
+        "Natural/herbal positioning"
+      ],
+      "body_copy": [
+        "ಉತ್ತಮ ಆರೋಗ್ಯಕ್ಕೆ ಸಕ್ತಿ ಸಫಲ (Kannada copy)",
+        "ನಿಮ್ಮ ಆರೋಗ್ಯಕ್ಕೆ ಸಹಜ ಆಯುರ್ವೇದ",
+        "Website: www.sakthiherbal.com (partially legible)"
+      ],
+      "other_details": {
+        "heritage_claim": "67 years",
+        "product_form": "Syrup/tonic",
+        "endorsers": [
+          "Two actresses",
+          "Doctor"
+        ]
+      },
+      "missing_or_uncertain": [
+        "Headline and body copy in Kannada only partly legible",
+        "Price chart figures not reliably readable",
+        "Brand name spelling uncertain",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 43,
+      "filename": "ad_043_Mathrubhumi.jpg",
+      "language": "Malayalam (with English course details)",
+      "source": "Epaper2 (MAdVerse) — Mathrubhumi",
+      "brand": "South Indian Educational Foundation / StUDIO in Hungary",
+      "product": "Hungarian university courses — study abroad programme",
+      "headline": "യൂറോപ്പ് സ്വപ്നം യാഥാർത്ഥ്യമാക്കാൻ ഞങ്ങൾക്കൊപ്പം... (Come with us to make your Europe dream a reality...)",
+      "description": "Education consultancy ad promoting Hungarian universities at bachelor's and master's levels with placement and no-IELTS offer.",
+      "price": "Affordable fees (exact amount not stated); job placement in UK & Germany with salary ₹4.5 Lakhs",
+      "ad_type": "Education / study abroad consultancy",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Presenting Hungarian universities for Bachelor's and Master's courses",
+        "Courses: Engineering, Business Management, Nursing and Midwifery",
+        "Job placement in UK & Germany",
+        "Salary ₹4.5 Lakhs",
+        "Limited seats",
+        "No IELTS required",
+        "Affordable fees"
+      ],
+      "body_copy": [
+        "പ്രസിദ്ധ ഹങ്കേറിയൻ യൂണിവേഴ്‌സിറ്റികളിൽ പഠനം (Malayalam copy)",
+        "Kottayam: +91 9895040797",
+        "Pala: +91 7012288871",
+        "+91 9188051407 (partially legible)",
+        "South Indian Educational Foundation"
+      ],
+      "other_details": {
+        "destinations": [
+          "Hungary",
+          "UK",
+          "Germany"
+        ],
+        "courses": [
+          "Engineering",
+          "Business Management",
+          "Nursing",
+          "Midwifery"
+        ],
+        "ielts_required": false
+      },
+      "missing_or_uncertain": [
+        "Exact fee amounts not stated",
+        "One phone number partially legible",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 44,
+      "filename": "ad_044_Malyalam_Manorama.jpg",
+      "language": "Malayalam",
+      "source": "Epaper2 (MAdVerse) — Malayala Manorama",
+      "brand": "Mr. Butler",
+      "product": "Mr. Butler Soda Maker",
+      "headline": "ചാപ്പ എന്നാ ചൂട്... — ചൂടിൽ തണുപ്പിക്കാൻ മിസ്റ്റർ ബട്ട്ലർ സോഡാ മേക്കർ",
+      "description": "Malayalam ad for a home soda maker promising refreshing cold drinks in summer, with a special offer badge.",
+      "price": "Special offer badge (percentage partially legible, appears to be an exchange/discount offer)",
+      "ad_type": "FMCG / home appliance product ad",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Home soda maker",
+        "CO₂ cylinder shown",
+        "Fruit/flavour mix sachet shown",
+        "QR code to view demo",
+        "Special offer badge",
+        "Sales counters across Kerala and Coimbatore",
+        "Toll-free 1800 103 1557",
+        "www.mrbutlers.com"
+      ],
+      "body_copy": [
+        "വേനൽ ചൂടിൽ കുടികൊണ്ട് തണുപ്പിക്കാൻ എത്തിക്കുക മിസ്റ്റർ ബട്ട്ലർ സോഡാ മേക്കർ (Malayalam copy)",
+        "View Demo (QR code)",
+        "Thiruvananthapuram, Kollam 98957 07527",
+        "Pathanamthitta, Alappuzha, Kottayam 98955 48786",
+        "Idukki, Ernakulam 98959 57361",
+        "Thrissur, Palakkad, Malappuram, Wayanad 98954 61527",
+        "Kozhikode, Kannur, Kasaragod 8078354492 / 98957 09171",
+        "Coimbatore 81228 55762",
+        "1800 103 1557 (Toll Free) | www.mrbutlers.com"
+      ],
+      "other_details": {
+        "product_category": "Home soda maker",
+        "service_regions": "Kerala and Coimbatore",
+        "toll_free": "1800 103 1557"
+      },
+      "missing_or_uncertain": [
+        "Offer details in the yellow badge not fully legible",
+        "Malayalam copy translated approximately",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 45,
+      "filename": "ad_045_Mid_Day_Paper.jpg",
+      "language": "Hindi (advertisement in the Gujarati newspaper Mid Day)",
+      "source": "Epaper2 (MAdVerse) — Mid Day Paper",
+      "brand": "Exo (Dabur)",
+      "product": "Exo Anti-Bacterial tooth powder — Ginger Twist",
+      "headline": "दाँतों को सिर्फ साफ़ नहीं, सैनीटाइज़ भी करें (Don't just clean teeth, sanitize them too)",
+      "description": "Oral-care ad for Exo anti-bacterial tooth powder with germ-protection and family-wellness claims.",
+      "price": "Monthly pack with a free gift (worth ₹10, partially legible)",
+      "ad_type": "FMCG oral-care product ad",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Anti-bacterial tooth powder",
+        "10x protection against bacteria (shield claim)",
+        "Ginger Twist flavour",
+        "Power of Cyclozan",
+        "Monthly pack with free gift",
+        "Tamper-proof pack",
+        "Power of Cyclozan” warranty/seal",
+        "Family wellness positioning"
+      ],
+      "body_copy": [
+        "बैक्टीरिया मारने में 10x सुरक्षा (Kannada? Hindi shield claim, approximate)",
+        "एक्सो फैमिली. हेल्दी फैमिली.",
+        "GINGER TWIST — Power of Cyclozan"
+      ],
+      "other_details": {
+        "variant": "Ginger Twist",
+        "pack": "Monthly pack",
+        "protection_claim": "10x antibacterial"
+      },
+      "missing_or_uncertain": [
+        "Newspaper language metadata says Gujarati but the ad copy is in Hindi",
+        "Small print and free-gift value not fully legible",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 46,
+      "filename": "ad_046_Divya_Bhaskar.jpg",
+      "language": "Gujarati",
+      "source": "Epaper2 (MAdVerse) — Divya Bhaskar",
+      "brand": "State Bank of India (SBI)",
+      "product": "Sarvottam non-callable term deposit",
+      "headline": "વધુ બચત, વધુ વૃદ્ધિ — પ્રસ્તુત છે સર્વોત્તમ (નૉન-કૉલેપ્સિબલ ટર્મ ડિપોઝિટ)",
+      "description": "Gujarati SBI fixed-deposit ad quoting separate interest rates for senior citizens and other depositors.",
+      "price": "Up to 7.90% for senior citizens; up to 7.40% for others; minimum deposit ₹15 lakh and above",
+      "ad_type": "Banking deposit scheme",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Non-callable term deposit",
+        "Up to 7.90% for senior citizens",
+        "Up to 7.40% for others",
+        "Minimum deposit ₹15 lakh and above",
+        "Offer applicable to deposits and NRI (conditions apply)",
+        "QR code to scan for details",
+        "Helpline 1800 1234",
+        "bank.sbi",
+        "Azadi Ka Amrit Mahotsav 75 branding"
+      ],
+      "body_copy": [
+        "સહાયતા માટે 1800 1234 પર કૉલ કરો મુલાકાત લો bank.sbi",
+        "ઓછામાં ઓછી ડિપોઝિટની રકમ : ₹15 લાખથી વધુ",
+        "ઓફર : ડિપોઝિટ અને એનઆરઆઈ (*વ્યાજ દર એક વર્ષથી વધુ વરિષ્ઠ નાગરિકો માટે જ લાગુ થશે)"
+      ],
+      "other_details": {
+        "rates": {
+          "senior_citizens": "up to 7.90%",
+          "others": "up to 7.40%"
+        },
+        "minimum_deposit": "₹15 lakh",
+        "deposit_type": "Non-callable term deposit"
+      },
+      "missing_or_uncertain": [
+        "Rates marked with asterisk — conditions apply",
+        "Minimum deposit wording partially legible",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 47,
+      "filename": "ad_047_Dharitri.jpg",
+      "language": "Odia",
+      "source": "Epaper2 (MAdVerse) — Dharitri",
+      "brand": "Sakthi Saphali / Sakthi herbs (Ayurvedic)",
+      "product": "Sakthi Saphali women's health tonic",
+      "headline": "କିଛି ସ୍ୱାସ୍ଥ୍ୟ ସମସ୍ୟା ପାଇଁ ବିଶ୍ୱସ୍ତ ସାହେଲୀ (Trusted companion for women's health issues)",
+      "description": "Odia-language ayurvedic tonic ad for women's wellness, featuring two actresses and a doctor with a benefits list.",
+      "price": null,
+      "ad_type": "FMCG / ayurvedic health product",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "For menstrual cycle problems",
+        "For weakness/fatigue",
+        "For uterine and reproductive health (approximate translation)",
+        "Trusted brand for 17 years (claimed)",
+        "India's Most Trusted Brand and World's No. 1 Brand awards shown",
+        "Natural herbal formulation",
+        "Multiple pack sizes shown"
+      ],
+      "body_copy": [
+        "ପ୍ରାକୃତିକ ଉପଚାର, ପ୍ରାକୃତିକ ସ୍ୱାସ୍ଥ୍ୟ (natural treatment, natural health)",
+        "24x7 Helpline: 77106 44444",
+        "www.sachisaaheli.in",
+        "Available at all medical & general stores"
+      ],
+      "other_details": {
+        "heritage_claim": "17+ years",
+        "endorsers": [
+          "Two actresses",
+          "Doctor"
+        ],
+        "product_form": "Tonic/syrup"
+      },
+      "missing_or_uncertain": [
+        "Odia headline and benefit list translated approximately",
+        "No prices stated",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 48,
+      "filename": "ad_048_Sambad.jpg",
+      "language": "Odia",
+      "source": "Epaper2 (MAdVerse) — Sambad",
+      "brand": "Sibastaka (Ayurvedic)",
+      "product": "Sibastaka Churna — herbal powder",
+      "headline": "ଗ୍ୟାସ୍, ଏସିଡିଟି ଓ କୋଷ୍ଠକାଠିନ୍ୟରୁ ମୁକ୍ତି ପାଆନ୍ତୁ କି?",
+      "description": "Odia ad for an ayurvedic herbal powder promising fast relief from acidity, indigestion and constipation.",
+      "price": null,
+      "ad_type": "FMCG / ayurvedic digestive product",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Fast relief from acidity, indigestion and constipation",
+        "Pure ayurvedic herbal powder",
+        "For gas and stomach discomfort",
+        "Can be taken without doctor's prescription (claimed)",
+        "100% natural/herbal positioning",
+        "Also sold on Amazon (logo shown)"
+      ],
+      "body_copy": [
+        "ଉତ୍ତମ ଆୟୁର୍ବେଦିକ ଗୁଣ ସମ୍ପନ୍ନ ପ୍ରାକୃତିକ ଚୂର୍ଣ୍ଣ",
+        "Contact: 9437883226"
+      ],
+      "other_details": {
+        "product_name": "Sibastaka Churna",
+        "contact": "9437883226",
+        "health_claims": [
+          "Acidity",
+          "Indigestion",
+          "Constipation",
+          "Gas"
+        ]
+      },
+      "missing_or_uncertain": [
+        "Odia copy translated approximately",
+        "Price not stated",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 49,
+      "filename": "ad_049_Inquilab.jpg",
+      "language": "English (advertisement in the Urdu newspaper Inquilab)",
+      "source": "Epaper2 (MAdVerse) — Inquilab",
+      "brand": "Fashion Factory",
+      "product": "End-of-season apparel, luggage and footwear sale",
+      "headline": "No Conditions Sale — Till 16th April — Flat 50% off on all apparels, luggage and footwear",
+      "description": "Retail sale ad featuring multiple apparel brands at flat 50% discount with no conditions.",
+      "price": "Flat 50% off on all apparels, luggage and footwear",
+      "ad_type": "Retail sale",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "No conditions sale",
+        "Sale till 16th April",
+        "Flat 50% off",
+        "Applicable on apparels, luggage and footwear",
+        "Brands: Levi's, Puma, Spykar, Ray Jeans, Raymond, adidas, Lee, Marks & Spencer (partially legible), Park Avenue, La Martina, Killer, Wrangler",
+        "Fashion Factory — Brands for less"
+      ],
+      "body_copy": [
+        "FASHION FACTORY — BRANDS FOR LESS",
+        "NO CONDITIONS SALE — Till 16th April",
+        "FLAT 50% OFF ON ALL APPARELS, LUGGAGE AND FOOTWEAR",
+        "Store address/phone partially visible at lower left"
+      ],
+      "other_details": {
+        "sale_end_date": "16 April",
+        "discount": "50%",
+        "brand_count_shown": 12
+      },
+      "missing_or_uncertain": [
+        "Store address and phone number partially cut off",
+        "One brand logo not fully legible",
+        "Fuel/mileage fields not applicable"
+      ]
+    },
+    {
+      "id": 50,
+      "filename": "ad_050_Assamese_The_Sangai_Express.jpg",
+      "language": "Assamese (ad copy mainly in English)",
+      "source": "Epaper1 (MAdVerse) — The Sangai Express",
+      "brand": "Mylab Discovery Solutions",
+      "product": "CoviSelf — COVID-19 Rapid Antigen Self Test Kit",
+      "headline": "CoviSelf — India's First Self Test Kit for Covid-19. Now available in Manipur.",
+      "description": "Health product ad for an ICMR-approved COVID-19 self-test kit launched in Manipur with a 15-minute result claim.",
+      "price": null,
+      "ad_type": "Healthcare / diagnostics product ad",
+      "fuel_type": null,
+      "mileage": null,
+      "features": [
+        "Approved by Indian Council of Medical Research (ICMR)",
+        "India's first self test kit for Covid-19",
+        "Now available in Manipur",
+        "Test result in 15 minutes using Mylab app",
+        "COVID-19 Rapid Antigen Test kit packs shown",
+        "Contact: M/S Yumnam Agency 9863671606"
+      ],
+      "body_copy": [
+        "Approved By Indian Council of Medical Research (ICMR)",
+        "CoviSelf — India's First Self Test Kit for Covid-19",
+        "Now Available In Manipur",
+        "TEST RESULT CAN BE OBTAINED IN 15 MINUTES USING MYLAB APP.",
+        "More Details kindly contact: M/S Yumnam Agency # 9863671606"
+      ],
+      "other_details": {
+        "approval": "ICMR",
+        "result_time": "15 minutes",
+        "distribution_region": "Manipur",
+        "local_distributor": "M/S Yumnam Agency"
+      },
+      "missing_or_uncertain": [
+        "Price not stated",
+        "Assamese script at top partially legible",
+        "Fuel/mileage fields not applicable"
+      ]
+    }
+  ]
+}
