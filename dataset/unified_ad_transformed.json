@@ -1,0 +1,6720 @@
+[
+  {
+    "category": "Generic",
+    "brand_or_company": "Honda Cars India",
+    "product_or_service": "New Honda Jazz (i-VTEC + CVT)",
+    "headline": "Presenting the new Jazz — For the very, very demanding",
+    "pricing_and_offers": [
+      {
+        "label": "EMI",
+        "details": "Benefits up to ₹40,000; EMI from ₹1,111 per month per ₹1 lakh",
+        "amount": 40000.0,
+        "conditions": "per month"
+      }
+    ],
+    "key_features": [
+      "100% On Road Funding",
+      "Segment-exclusive One-Touch Electric Sunroof",
+      "Chrome Accentuated High Gloss Black Grille",
+      "Advanced LED Headlamps (Inline Shell) with DRL",
+      "Signature Near LED Wing Light",
+      "Advanced LED Fog Lamps",
+      "Best-in-Class Space",
+      "i-VTEC with CVT",
+      "Honda Auto Terrace",
+      "Honda ProCare",
+      "3-year warranty"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "New Honda Jazz (i-VTEC + CVT) Honda Cars India"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Dealer contacts",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Mileage not stated",
+      "Exact ex-showroom price not stated",
+      "Fuel type inferred from i-VTEC badge"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Maruti Suzuki Arena",
+    "product_or_service": "The New 2021 Swift",
+    "headline": "The New 2021 Swift — Limitless Thrill, Stunning Looks, Be Limitless",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Savings up to ₹48,000; Smart Finance offer of ₹3,000 extra off",
+        "amount": 48000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "New smart hybrid engine (illustrated)",
+      "Smart Play touchscreen infotainment",
+      "Savings up to ₹48,000",
+      "Also available via subscription (marutisuzuki.com/subscribe)",
+      "Smart Finance: pre-approved loans, multiple financiers, customised loans, loan status tracking",
+      "Scan QR to know more"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "The New 2021 Swift Maruti Suzuki Arena"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "E-book today at www.marutisuzuki.com or visit your nearest Maruti Suzuki dealership",
+        "locations": [],
+        "city": null,
+        "phones": []
+      },
+      {
+        "name": "Delhi",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Mileage not stated",
+      "Variant-wise ex-showroom price not stated",
+      "Diesel option not clearly shown in artwork"
+    ]
+  },
+  {
+    "category": "Automobiles",
+    "brand_or_company": "Tata Motors",
+    "product_or_service": "Nexon EV — The Electric SUV",
+    "headline": "One year ago, we showed you the future.",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Ex-showroom ₹13.99 Lakhs onwards (all India); exchange discount up to ₹15,000",
+        "amount": 13.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "1st Anniversary — Driving India's Electric Evolution",
+      "8 years / 1,60,000 km battery & motor warranty",
+      "0-100 km/h in 9.9 seconds",
+      "Free home charging box",
+      "60-minute fast charging",
+      "ZConnect with 35 connected car features",
+      "World class safety & quality — Indian Made",
+      "Vocal for Local"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Vehicle",
+        "value": "Nexon EV — The Electric SUV Tata Motors"
+      },
+      {
+        "attribute": "Warranty",
+        "value": "8 years / 1,60,000 km battery & motor"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Dealers",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Driving range per charge not stated",
+      "Mileage not applicable to EV"
+    ]
+  },
+  {
+    "category": "Automobiles",
+    "brand_or_company": "Hyundai",
+    "product_or_service": "Creta (with Sports Edition)",
+    "headline": "Perfection has no equal.",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Price starting at ₹9.99 Lakhs* (ex-showroom, Delhi)",
+        "amount": 9.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Front ventilated seats (1st in segment)",
+      "Wireless phone charger (1st in segment)",
+      "Smart electric sunroof (1st in segment)",
+      "Smart key band (1st in segment)",
+      "6-way power driver seat (1st in segment)",
+      "Powerful 1.6L petrol & diesel engine",
+      "6-Speed AT (Petrol & Diesel)",
+      "3-year unlimited km warranty + 3-year roadside assistance",
+      "126 service outlets in 32 cities",
+      "Lowest cost of maintenance",
+      "Sports Edition"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Vehicle",
+        "value": "Creta (with Sports Edition) Hyundai"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Extensive dealer contact list across India with phone numbers",
+        "locations": [],
+        "city": null,
+        "phones": []
+      },
+      {
+        "name": "126 service outlets in 32 cities",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [
+        "8847096330"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Exact ARAI mileage figure not legible",
+      "Sports Edition price not stated"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Ford India",
+    "product_or_service": "New Ford Figo",
+    "headline": "Launching Ford New Figo — New Figo. Play Smart. Why Follow.",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Introductory price: Petrol ₹5.15 Lakh | Diesel ₹5.95 Lakh",
+        "amount": 5.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "96PS (70.9 kW) petrol engine",
+      "Stylish interiors",
+      "Touchscreen with Navigation",
+      "6 Airbags",
+      "5-Year Warranty",
+      "Ford Credit finance",
+      "Smart technology and family-oriented positioning"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "New Ford Figo Ford India"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Dealer list",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Mileage figures read from a small badge — verify against official brochure",
+      "Exact diesel engine capacity not stated"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Renault India",
+    "product_or_service": "Renault Triber (teaser / silhouette)",
+    "headline": "Renault TRIBER — Super Spacious | Ultra Modular | India's First",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Super Spacious",
+      "Ultra Modular",
+      "India's First (claim incomplete in artwork)",
+      "Roof rails visible",
+      "LED DRLs visible"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Renault Triber (teaser / silhouette) Renault India"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Price not stated",
+      "Fuel type and mileage not stated (teaser artwork)",
+      "Details of 'India's First' claim not stated"
+    ]
+  },
+  {
+    "category": "Automobiles",
+    "brand_or_company": "Mahindra",
+    "product_or_service": "The All-New Thar",
+    "headline": "Sorry cars — The Thar wins — Autocar India Car of the Year 2021",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Autocar India Car of the Year 2021",
+      "Global NCAP 5-star safety rating",
+      "Mahindra Own Online",
+      "Rise (brand identity)",
+      "All-new Thar"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Vehicle",
+        "value": "The All-New Thar Mahindra"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Dealer list across Mumbai, Pune, Nashik and other cities with phone numbers",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Price not stated",
+      "Fuel type not stated",
+      "Mileage not stated"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "TVS Racing / TVS Motor Company",
+    "product_or_service": "All-new 2019 TVS Apache RTR Series",
+    "headline": "Race engineered performance. All-new 2019 TVS Apache RTR Series with Super-Moto ABS",
+    "pricing_and_offers": [
+      {
+        "label": "EMI",
+        "details": "₹16,999 low down payment; ₹2,019 low EMI; 3.99% ROI*",
+        "amount": 16999.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Super-Moto ABS",
+      "Racing DNA unleashed",
+      "Race engineered performance",
+      "Low down payment ₹16,999",
+      "Low EMI ₹2,019",
+      "3.99% rate of interest",
+      "TVS showrooms open on Sundays"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "All-new 2019 TVS Apache RTR Series TVS Racing / TVS Motor Company"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Extensive dealer list across India with phone numbers",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [
+        "18003157227"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Exact variants and engine specifications not stated",
+      "Mileage not stated"
+    ]
+  },
+  {
+    "category": "Banking",
+    "brand_or_company": "State Bank of India (SBI)",
+    "product_or_service": "Customer Meet — banking feedback initiative",
+    "headline": "Let's Connect — Join us to make banking better.",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Customer Meet",
+      "Customer feedback platform",
+      "Date: 28th May 2019",
+      "Time: 4:30 PM onwards"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Scheme",
+        "value": "Customer Meet — banking feedback initiative State Bank of India (SBI)"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": "bank.sbi",
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Not a product advertisement — price/fuel/mileage fields not applicable",
+      "Venue not stated in the ad (refer website)"
+    ]
+  },
+  {
+    "category": "Real Estate",
+    "brand_or_company": "ICICI Bank Business Banking",
+    "product_or_service": "Overdraft against property",
+    "headline": "Get an overdraft against your property in just 48 hours.",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Overdraft against property",
+      "Processing in 48 hours",
+      "Dedicated Relationship Manager",
+      "Low interest rate"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Configuration",
+        "value": "Overdraft against property ICICI Bank Business Banking"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Exact interest rate not quantified",
+      "Price/fuel/mileage fields not applicable to a banking product"
+    ]
+  },
+  {
+    "category": "Banking",
+    "brand_or_company": "LIC — Life Insurance Corporation of India",
+    "product_or_service": "Claim settlement / policyholder service",
+    "headline": "Strong relationships lead to fulfilled promises. Thank you for your trust.",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Get policies registered on LIC customer Portal at www.licindia.in",
+      "Ensure nomination is updated",
+      "Update Residential Address, Phone/Mobile No., E-mail ID, etc.",
+      "Provide Bank Account and NEFT details",
+      "Submit claim discharge forms and Policy document",
+      "Call Centre Services: 022 6827 6827",
+      "LIC Mobile App 'LIC India Forever'",
+      "SMS LICHELP POLICY NO to 9222492224"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Scheme",
+        "value": "Claim settlement / policyholder service LIC — Life Insurance Corporation of India"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Contact your agent / branch with all requirements for prompt claim settlement",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Not a product sale ad — price/fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Banking",
+    "brand_or_company": "Bank of Baroda",
+    "product_or_service": "111th Foundation Day — Customer Inspired Banking",
+    "headline": "Foundation Day — #BankingOnYourFuture",
+    "pricing_and_offers": [],
+    "key_features": [
+      "111th Foundation Day",
+      "Customer Inspired Banking",
+      "Baroda DigiNext",
+      "Baroda Supply Chain",
+      "B=Wealth (wealth management)",
+      "Go Digital",
+      "Dedicated digital/online banking services"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Scheme",
+        "value": "111th Foundation Day — Customer Inspired Banking Bank of Baroda"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Not a product sale ad — price/fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Jewelry",
+    "brand_or_company": "Tanishq (A Tata Product)",
+    "product_or_service": "Diamond jewellery",
+    "headline": "The Great Diamond Sale — Up to 20% off on diamond jewellery",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Up to 20% off on diamond jewellery; up to ₹10,000 additional instant discount on HDFC Bank Debit & Credit Cards",
+        "amount": 10000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Up to 20% off on diamond jewellery",
+      "Exclusive preview: 1% additional discount for ENCIRCLE members from 25th to 28th July 2019",
+      "Offer valid from 1st Aug to 31st Aug 2019",
+      "Not valid on Gold Coins",
+      "Buy online at tanishq.co.in",
+      "Up to 25% off on making charges of Kundan Polki and Open Polki jewellery",
+      "Minimum 5% discount on diamond jewellery"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Purity",
+        "value": "Diamond jewellery Tanishq (A Tata Product)"
+      },
+      {
+        "attribute": "Sale Period",
+        "value": "1 Aug – 31 Aug 2019"
+      },
+      {
+        "attribute": "Preview Period",
+        "value": "25–28 July 2019 for ENCIRCLE members"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Store list across New Delhi and other cities",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "No absolute rupee price for products stated",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Jewelry",
+    "brand_or_company": "Kalyan Jewellers",
+    "product_or_service": "Muhurrat wedding jewellery — 'Celebrating the Indian Bride'",
+    "headline": "Celebrating the Indian Bride with Muhurrat Wedding Jewellery",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Up to 30% off on VA for gold jewellery",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Upto 30% off on VA for gold jewellery",
+      "Get 1 gm gold coin free on purchase of diamond & uncut jewellery worth ₹50,000",
+      "Get 500 mg gold coin free on purchase of precious solitaire jewellery worth ₹50,000",
+      "Get 400 mg gold coin free on purchase of diamond & uncut jewellery worth ₹25,000",
+      "Free lifetime jewellery maintenance — free cleaning/polishing, exchange with no questions asked, free repair of old non-Kalyan gold jewellery",
+      "134 branches across India and Middle East",
+      "Open on all Sundays"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Purity",
+        "value": "Muhurrat wedding jewellery — 'Celebrating the Indian Bride' Kalyan Jewellers"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "'VA' abbreviation not expanded in the ad",
+      "Absolute rupee prices not stated",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Jewelry",
+    "brand_or_company": "Malabar Gold & Diamonds",
+    "product_or_service": "mine Diamond Festival collection",
+    "headline": "mine Diamond Festival — 02nd Jan – 01st Feb",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Up to 20% off on diamond value",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "One India One Gold Rate",
+      "Malabar Fair Price Promise",
+      "26 internal quality tests and international lab certifications",
+      "To browse and buy online visit www.malabargoldanddiamonds.com",
+      "Complete transparency",
+      "Assured lifetime maintenance",
+      "Zero-deduction gold exchange",
+      "100% BIS 916 Hallmarked Gold",
+      "Tested & Certified Diamonds",
+      "Guaranteed Buyback",
+      "Jewellery insured",
+      "Karat Analyser Facility",
+      "Responsibly sourced gold",
+      "Fair wages, benefits and working conditions for Karigars"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Purity",
+        "value": "mine Diamond Festival collection Malabar Gold & Diamonds"
+      },
+      {
+        "attribute": "Brand Tagline",
+        "value": "Celebrate the beauty of life"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Branch addresses in Ghaziabad, Pusa Road/Karol Bagh, Noida, Greater Noida, New Delhi with phone numbers",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Absolute rupee prices not stated",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Amul (Gujarat Co-operative Milk Marketing Federation)",
+    "product_or_service": "Amul Masti Dahi (curd), 1 kg pack",
+    "headline": "Amul Masti Dahi — Goodness with every spoon",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "₹65* per 1 kg pack",
+        "amount": 65.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "1 kg pack",
+      "Goodness with every spoon",
+      "Regional-language line states it helps digestive/stomach health and bone strength (translation approximate)",
+      "The Taste of India (brand tagline)"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Amul Masti Dahi (curd), 1 kg pack Amul (Gujarat Co-operative Milk Marketing Federation)"
+      },
+      {
+        "attribute": "pack_size",
+        "value": "1 kg"
+      },
+      {
+        "attribute": "price_marked",
+        "value": "₹65 with asterisk"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Regional-language health claim translated approximately — verify with a native reader",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Patanjali Ayurved",
+    "product_or_service": "Patanjali pure Swadeshi food range",
+    "headline": "Bring Home Patanjali's Pure Swadeshi Food, protect your children and family from the poison of adulteration.",
+    "pricing_and_offers": [],
+    "key_features": [
+      "2 years old Basmati rice and other rice variants",
+      "Navratna Atta made from nine kinds of cereals",
+      "High-fibre Sargun Sampann Chakki Atta fortified with B12 and iron",
+      "Traditional Chakki Atta",
+      "Unpolished natural pulses full of proteins",
+      "Patanjali biscuits — no maida, no cholesterol",
+      "Patanjali healthy atta noodles",
+      "Special Chyawanprash made from 51 natural herbs",
+      "Physically refined and natural oils",
+      "Prakriti ka Aashirwad (brand tagline)"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Patanjali pure Swadeshi food range Patanjali Ayurved"
+      },
+      {
+        "attribute": "positioning",
+        "value": "Pure Swadeshi food free from adulteration"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [
+        "18001804108"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "No individual product prices stated",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Haldiram's",
+    "product_or_service": "Dhanteras / Diwali gift boxes and sweets",
+    "headline": "Millions of Joyful Moments Packed in a box — Happy Dhanteras",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Premium Chocolate Collection",
+      "Sweets Collection",
+      "Dry Fruit Collection",
+      "Diwali Gift Packs",
+      "Gift box labels: 'Meethe Mein Masti', 'Mazedaar Kissey'",
+      "QR code to locate nearest outlet"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Dhanteras / Diwali gift boxes and sweets Haldiram's"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Scan this QR code to locate the Nearest Outlet",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "No prices stated for gift boxes",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Horlicks",
+    "product_or_service": "Horlicks Chocolate Delight flavour nutrition drink",
+    "headline": "Horlicks increases the Power of Milk*",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Contains 100% RDA of Growth Nutrients",
+      "Makes children Taller, Stronger, Sharper",
+      "Chocolate Delight flavour",
+      "Pack icons for tall, strong and sharp benefits",
+      "Milk splash imagery"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Horlicks Chocolate Delight flavour nutrition drink Horlicks"
+      },
+      {
+        "attribute": "flavour",
+        "value": "Chocolate Delight"
+      },
+      {
+        "attribute": "claim_basis",
+        "value": "Independent accredited lab study in India"
+      },
+      {
+        "attribute": "age_group_in_claim",
+        "value": "6–12 years"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Price not stated",
+      "Asterisk claim conditions require verification",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Dove (Hindustan Unilever)",
+    "product_or_service": "New Dove Nourishing Hand Wash",
+    "headline": "NEW Dove Nourishing Hand Wash — for soft and smooth hands with every wash",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Contains 1/4 moisturizing cream",
+      "Penetrates up to 10 layers deep",
+      "Nourishes up to 10 layers deep",
+      "Variants shown: cucumber/green tea, deep moisture, nut/oil variant",
+      "NEW product badge",
+      "WITHIN EPIDERMIS illustration note"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "New Dove Nourishing Hand Wash Dove (Hindustan Unilever)"
+      },
+      {
+        "attribute": "product_category",
+        "value": "Hand wash"
+      },
+      {
+        "attribute": "moisturising_claim",
+        "value": "1/4 moisturizing cream"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Price not stated",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Retail",
+    "brand_or_company": "Samsung India",
+    "product_or_service": "Samsung Galaxy smartphone range (Bestdays sale)",
+    "headline": "SAMSUNG Bestdays — Attractive benefits up to ₹9000",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Galaxy J8: ₹15,990; Galaxy A7: ₹21,990; Upgrade bonuses: Galaxy S9+ ₹3,000, Galaxy A9 ₹4,000, Galaxy Note9 ₹9,000 (up to ₹9,000 total)",
+        "amount": 15990.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "World's 1st Quad Camera (Galaxy A9)",
+      "Triple Camera (Galaxy A7)",
+      "1TB Ready (Galaxy Note9)",
+      "Samsung Upgrade bonus scheme",
+      "Available at Samsung SmartCafe, Samsung.com.in and all leading mobile stores"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product",
+        "value": "Samsung Galaxy smartphone range (Bestdays sale) Samsung India"
+      },
+      {
+        "attribute": "sale_name",
+        "value": "Samsung Bestdays"
+      },
+      {
+        "attribute": "maximum_benefit",
+        "value": "₹9,000"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Some price/bonus figures are in small type — verify against official offer page",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Apple",
+    "product_or_service": "iPhone Xs",
+    "headline": "Welcome to the big screens. iPhone Xs. Available today from 6pm.",
+    "pricing_and_offers": [],
+    "key_features": [
+      "iPhone Xs",
+      "Big screens",
+      "Available from 6pm",
+      "Distribution partners: Ingram, Rashi Peripherals, Redington",
+      "IndiaStore.com retail partner",
+      "Turn over to know more"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "iPhone Xs Apple"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "INDIAISTORE.COM",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Price not stated in this ad",
+      "Specifications not listed — refer follow-up page",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "LG Electronics India",
+    "product_or_service": "LG TV range — OLED, UHD, Smart TV and LED",
+    "headline": "This festive season, bring home the best of TV technology — World's Best Selling OLED Brand",
+    "pricing_and_offers": [
+      {
+        "label": "EMI",
+        "details": "OLED E8/C8/B8 from ₹1,74,990 (EMI ₹6,999); UHD from ₹39,990 (EMI ₹2,999 onwards); Smart TV from ₹29,190 (EMI ₹1,999 onwards); LED from ₹18,490 under exchange (EMI ₹1,999 onwards)",
+        "amount": 174990.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "LG OLED TV with AI ThinQ",
+      "World's Best Selling OLED Brand",
+      "Dolby Atmos Sound",
+      "4K Active HDR",
+      "Alpha 9 Intelligent Processor",
+      "LG AI (Artificial Intelligence)",
+      "Google Assistant",
+      "2-Way Bluetooth",
+      "Cloud Photo & Videos",
+      "Active HDR",
+      "Magic Remote",
+      "IPS Panel",
+      "20W Sound Output",
+      "Regional Language support",
+      "Live Zoom",
+      "15% cashback on select Debit/Credit Cards",
+      "1 Pay EMI",
+      "Jio Digital Data worth ₹3,500",
+      "2-year warranty",
+      "Awards 2018 (CES innovation awards, iF Design Award, etc.)"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "LG TV range — OLED, UHD, Smart TV and LED LG Electronics India"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Extensive LG dealer list across India with addresses and phone numbers",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Individual model prices not all legible — ranges recorded",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Panasonic India",
+    "product_or_service": "6 Speed Inverter Refrigerators with ECONAVI",
+    "headline": "Trust of 8 crore customers now in India — Presenting 6 Speed Inverter Refrigerators powered by ECONAVI Technology",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Frost free range available from ₹29,610 – ₹60,210; 5% HDFC Bank cashback up to ₹5,000",
+        "amount": 29610.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "6 Speed Inverter compressor",
+      "ECONAVI Technology with intelligent eco sensors",
+      "Save up to 49% + 10% on electricity consumption",
+      "2 years warranty (terms apply)",
+      "20% additional jumbo storage",
+      "12 years compressor warranty",
+      "99.9% bacteria free",
+      "Experience Fresh",
+      "Easy finance scheme",
+      "Panasonic 100th anniversary"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "6 Speed Inverter Refrigerators with ECONAVI Panasonic India"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Extensive dealer list across India with contact numbers",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Individual model prices not stated (only range)",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Travel",
+    "brand_or_company": "SpiceJet",
+    "product_or_service": "Daily direct flights Bengaluru–Mumbai & Delhi; SpiceBiz business class",
+    "headline": "Mumbai — Introducing daily direct return flight from Bengaluru to Mumbai & Delhi. Fly at amazingly low fares.",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "SG 6351 Bengaluru–Mumbai ₹2,892; SG 6352 Mumbai–Bengaluru ₹2,845; SG 8720 Bengaluru–Delhi ₹3,770; SG 8719 Delhi–Bengaluru ₹3,500; SG 8718 Bengaluru–Delhi ₹3,770; SG 8717 Delhi–Bengaluru ₹3,500",
+        "amount": 2892.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Daily direct return flights",
+      "Bengaluru–Mumbai and Bengaluru–Delhi routes",
+      "SpiceBiz business class — your space in the sky",
+      "Best-in-class fares",
+      "Dedicated 2x2 cabin",
+      "Gourmet meals and beverages",
+      "Priority check-in and boarding",
+      "Lounge access",
+      "Red · Hot · Spicy brand tagline"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Daily direct flights Bengaluru–Mumbai & Delhi; SpiceBiz business class SpiceJet"
+      },
+      {
+        "attribute": "flight_numbers",
+        "value": "SG 6351"
+      },
+      {
+        "attribute": "departure_times",
+        "value": "05:15"
+      },
+      {
+        "attribute": "arrival_times",
+        "value": "07:10"
+      },
+      {
+        "attribute": "start_date",
+        "value": "11 May 2019"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [
+        "+91 9871803333"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Fares subject to taxes/availability — confirm on website",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Travel",
+    "brand_or_company": "IndiGo",
+    "product_or_service": "Chennai–Colombo and Chennai–Vijayawada flights",
+    "headline": "India Tour of Sri Lanka — Introducing two daily, non-stop flights to Colombo.",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Chennai–Colombo ₹3,599; Colombo–Chennai ₹5,499; Chennai–Vijayawada ₹1,099; Vijayawada–Chennai ₹999",
+        "amount": 3599.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Two daily non-stop flights to Colombo",
+      "Also flights to and from Vijayawada",
+      "goIndiGo.in",
+      "Chennai–Colombo departures 06:55 and 12:00; arrivals 08:15 and 13:25",
+      "Colombo–Chennai departures 09:15 and 20:30; arrivals 11:00 and 21:55"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Chennai–Colombo and Chennai–Vijayawada flights IndiGo"
+      },
+      {
+        "attribute": "routes",
+        "value": "Chennai–Colombo"
+      },
+      {
+        "attribute": "effective_dates",
+        "value": "20 Jan 2018"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Fares are limited-seat, all-inclusive one-way — verify before use",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "MakeMyTrip",
+    "product_or_service": "Europe and other international holiday packages",
+    "headline": "This summer, head to Europe — Up to ₹60,000 off on Europe packages",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Up to ₹60,000 off Europe packages; Bali 4N/5D from ₹44,000; Singapore 4N/5D from ₹52,000; Bhutan 6N/7D from ₹39,999",
+        "amount": 60000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Indian meals",
+      "Multilingual tour manager",
+      "Visa protection plan*",
+      "Walk in to nearest MakeMyTrip store to grab deals",
+      "Bali package: free 1-hour spa + private transfers",
+      "Singapore package: private transfers included",
+      "Bhutan package: Indian meals + brewery tour"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Europe and other international holiday packages MakeMyTrip"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Store phone numbers",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Visa protection plan subject to conditions",
+      "Exact Europe package price not stated (only discount)",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "FabIndia",
+    "product_or_service": "Rajwada ethnic wear collection",
+    "headline": "Rajwada — Celebrating Traditions",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Rajwada collection",
+      "Celebrating Traditions",
+      "60 years of celebrating India's craft (1958–2018)",
+      "FabFamily loyalty programme",
+      "All safety measures in place as per WHO guidelines",
+      "Scan QR to download app"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Rajwada ethnic wear collection FabIndia"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "No prices stated",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "BIBA",
+    "product_or_service": "Festive '17 — Awadhi Anarkali collection",
+    "headline": "The Awadhi Anarkali revival — Who's that girl?",
+    "pricing_and_offers": [],
+    "key_features": [
+      "The Awadhi Anarkali revival",
+      "Festive '17 collection",
+      "Also available: BIBA Jewellery and BIBA Girls",
+      "Salwar kameez dupattas",
+      "Mix 'n' match kurtas",
+      "Unstitched fabrics",
+      "Shop online 24x7 at www.biba.in"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Festive '17 — Awadhi Anarkali collection BIBA"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Store list across Mumbai (Santacruz, Navi Mumbai, Thane, Andheri, Khar, Colaba, etc.) with phone numbers",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "No prices stated",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Retail",
+    "brand_or_company": "The Raymond Shop (Raymond Group)",
+    "product_or_service": "Readymade garments — End of Season Sale",
+    "headline": "End of Season Sale — Buy three, get 40% off",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Buy 3 get 40% off; 5% extra cashback on SBI Debit & Credit Cards (min ₹5,000; cashback up to ₹1,000 per card account)",
+        "amount": 5000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Buy three and get 40% off",
+      "Offer only on readymade garments",
+      "5% extra cashback with SBI Debit/Credit Card",
+      "Validity 22 Jun – 05 Aug 2018",
+      "Extensive Raymond Shop store list across Mumbai"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product",
+        "value": "Readymade garments — End of Season Sale The Raymond Shop (Raymond Group)"
+      },
+      {
+        "attribute": "sale_period",
+        "value": "22 Jun – 5 Aug 2018"
+      },
+      {
+        "attribute": "bank_partner",
+        "value": "State Bank of India"
+      },
+      {
+        "attribute": "minimum_transaction",
+        "value": "₹5,000"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Offer available at all stores unless otherwise stated",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Offer year read as 2018 from fine print",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "HILANS",
+    "product_or_service": "Pure natural Himalayan food products (Uttarakhand)",
+    "headline": "हम हिमालयी हैं — हिमालय के शुद्ध व प्राकृतिक उत्पाद (We are Himalayan — pure and natural Himalayan products)",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Purity you deserve (brand tagline)",
+      "Pure and natural Himalayan produce",
+      "Products shown: horse gram (कुल्थी), masoor dal, red rice, black gram/rice, rajma, kidney beans",
+      "Farmer-produced from Uttarakhand",
+      "Warehouse/outlet in Dehradun"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Pure natural Himalayan food products (Uttarakhand) HILANS"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [
+        "+91 9275212121"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Hindi"
+    ],
+    "uncertain_fields": [
+      "Prices not stated",
+      "Some product names read from small Hindi text — verify",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Healthcare",
+    "brand_or_company": "Dr. Jamal's Accumass (Ayurvedic)",
+    "product_or_service": "Accumass Ayurvedic Chyawanprash",
+    "headline": "वज़न बढ़ाएं, आत्मविश्वास जगाएं (Increase weight, build self-confidence)",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Accumass Ayurvedic Chyawanprash",
+      "Weight gain and confidence claim",
+      "Jar and carton packaging shown"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Accumass Ayurvedic Chyawanprash Dr. Jamal's Accumass (Ayurvedic)"
+      },
+      {
+        "attribute": "product_category",
+        "value": "Ayurvedic chyawanprash"
+      },
+      {
+        "attribute": "brand_endorsement",
+        "value": "Dr. Jamal's"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Hindi"
+    ],
+    "uncertain_fields": [
+      "Price not stated",
+      "Phone number partially legible",
+      "Small-pack text not readable at this resolution",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Banking",
+    "brand_or_company": "DNS Bank — Dombivli Nagari Sahakari Bank Ltd.",
+    "product_or_service": "चैत्रसंपत्ती विशेष ठेव योजना (Chaitra Sampatti special deposit scheme)",
+    "headline": "चैत्रसंपत्ती विशेष ठेव योजना — 400 दिवसांसाठी (Chaitra Sampatti special deposit scheme — for 400 days)",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Deposit above ₹1 lakh: 6.25% interest; general citizens 6.20%; senior citizens 6.55%",
+        "amount": 1.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "400-day deposit tenure",
+      "Simple interest with maturity payout",
+      "6.20% for general citizens",
+      "6.55% for senior citizens",
+      "6.25% for deposits above ₹1 lakh",
+      "Contact nearest branch today",
+      "Scheme valid for a limited period"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Scheme",
+        "value": "चैत्रसंपत्ती विशेष ठेव योजना (Chaitra Sampatti special deposit scheme) DNS Bank — Dombivli Nagari Sahakari Bank Ltd."
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [
+        "7045456655"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Marathi"
+    ],
+    "uncertain_fields": [
+      "Rates marked with asterisk — terms apply",
+      "Minimum deposit amount not fully legible",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Healthcare",
+    "brand_or_company": "Dr. Ortho (Divisa Herbal Pvt. Ltd.)",
+    "product_or_service": "Dr. Ortho Strong Oil (120 ml)",
+    "headline": "ज्याच्या पाठीवर केली सवारी, त्याच्यावर दुखणे होऊ नये भारी — International Father's Day",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "60% off — M.R.P. ₹450.00, pay only ₹180.00; no shipping charges",
+        "amount": 450.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "60% off on Dr. Ortho Strong Oil 120 ml",
+      "No shipping charges",
+      "Helpful in painful conditions (Ayurvedic medicine)",
+      "Coupon code FATHERSDAY",
+      "Offer valid only today (आजच्यासाठीच)",
+      "QR code to scan and shop",
+      "Multiple payment modes: RuPay, Visa, Mastercard, Maestro, Paytm, Google Pay"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Dr. Ortho Strong Oil (120 ml) Dr. Ortho (Divisa Herbal Pvt. Ltd.)"
+      },
+      {
+        "attribute": "occasion",
+        "value": "International Father's Day"
+      },
+      {
+        "attribute": "discount",
+        "value": "60%"
+      },
+      {
+        "attribute": "mrp",
+        "value": "₹450"
+      },
+      {
+        "attribute": "offer_price",
+        "value": "₹180"
+      },
+      {
+        "attribute": "coupon",
+        "value": "FATHERSDAY"
+      },
+      {
+        "attribute": "pack_size",
+        "value": "120 ml"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Available at all medical & general stores | www.drorthooil.com",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [
+        "7876977777"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Marathi"
+    ],
+    "uncertain_fields": [
+      "Website in terms text partially legible",
+      "Offer 'valid only today' — date not stated in image",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Priya Gopal (saree retailer; exact brand name in Bengali script is uncertain)",
+    "product_or_service": "Festive saree collection for Bengali New Year (Boishakh)",
+    "headline": "শুভ পূজা বৈশাখ (Happy Puja Boishakh / Bengali New Year)",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Boishakh / Bengali New Year festive collection",
+      "Purple embroidered saree with gold border shown",
+      "Multiple outlets: Burrabazar, Pathuriaghata, Kanchrapara, Bardhaman, Krishnanagar",
+      "WhatsApp / video call shopping on 7044088408"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Festive saree collection for Bengali New Year (Boishakh) Priya Gopal (saree retailer; exact brand name in Bengali script is uncertain)"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [
+        "8101707778",
+        "8373052387",
+        "7044088408"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Bengali"
+    ],
+    "uncertain_fields": [
+      "Brand name in the Bengali badge not fully legible",
+      "No prices stated",
+      "Some addresses partially legible",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Godrej",
+    "product_or_service": "Godrej Selfie Shampoo Hair Colour (Natural Black 1)",
+    "headline": "গোদ্রেজ সেলফি — শ্যাম্পু হেয়ার কালার (Godrej Selfie — shampoo hair colour)",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "₹15 only (₹15 for 5 ml + 5 ml sachet)",
+        "amount": 15.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "5-minute hair colour",
+      "No ammonia",
+      "Enriched with aloe vera",
+      "Natural Black 1 shade",
+      "₹15 sachet — 5 ml + 5 ml",
+      "For short hair"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Godrej Selfie Shampoo Hair Colour (Natural Black 1) Godrej"
+      },
+      {
+        "attribute": "pack_size",
+        "value": "5 ml + 5 ml"
+      },
+      {
+        "attribute": "colour_shade",
+        "value": "Natural Black 1"
+      },
+      {
+        "attribute": "application_time",
+        "value": "5 minutes"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Bengali"
+    ],
+    "uncertain_fields": [
+      "Celebrity endorser name not stated in the ad",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Real Estate",
+    "brand_or_company": "Greater Chennai Corporation",
+    "product_or_service": "Property tax for financial year 2023–24",
+    "headline": "2023–24ம் நிதியாண்டுக்கான சொத்துவரியை ஏப்ரல் 30க்குள் செலுத்தி, 5% ஊக்கத்தொகை பெறுங்கள்",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "5% rebate/discount on online property tax payment",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Property tax for FY 2023–24",
+      "Deadline: 30 April",
+      "5% discount for online payment",
+      "QR code to scan and pay",
+      "www.chennaicorporation.gov.in"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Configuration",
+        "value": "Property tax for financial year 2023–24 Greater Chennai Corporation"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Tamil"
+    ],
+    "uncertain_fields": [
+      "Exact half-year/period wording partially legible",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Nissan India",
+    "product_or_service": "Nissan Magnite",
+    "headline": "Nissan Magnite — Inspired by love. Made to celebrate.",
+    "pricing_and_offers": [
+      {
+        "label": "Benefits",
+        "details": "Range starts at ₹5.97 Lakh; CVT starts at ₹9.75 Lakh; new year benefits up to ₹72,000; rate of interest 6.99%",
+        "amount": 5.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Assured gifts with every test drive",
+      "Buy before price increase",
+      "New year benefits up to ₹72,000",
+      "Rate of interest 6.99%",
+      "2 years zero maintenance",
+      "Exchange bonus",
+      "Corporate offer",
+      "Loyalty bonus",
+      "Car accessories",
+      "Online booking bonus",
+      "First-in-segment Around View Monitor",
+      "Wireless connectivity to Android Auto & Apple CarPlay",
+      "First-in-segment 17.78 cm TFT Advanced Driver Display",
+      "Global NCAP 4-star safety rating",
+      "Nissan Finance"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Nissan Magnite Nissan India"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Authorized dealer list across Tamil Nadu (Chennai, Tambaram, OMR, Kanchipuram, Thanjavur, Tirunelveli, Vellore, Coimbatore, Villupuram, Puducherry) with phone numbers",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [
+        "8879509258"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Fuel type not explicitly stated — inferred from model",
+      "Mileage not stated",
+      "Prices ex-showroom Delhi with asterisk conditions"
+    ]
+  },
+  {
+    "category": "Jewelry",
+    "brand_or_company": "Malabar Gold & Diamonds",
+    "product_or_service": "30th anniversary jewellery collection",
+    "headline": "Malabar Gold & Diamonds — 30 years (anniversary campaign)",
+    "pricing_and_offers": [],
+    "key_features": [
+      "30th anniversary celebration",
+      "Gold and diamond jewellery",
+      "Celebrate the beauty of life (tagline)",
+      "Celebrity endorsement (Actress Alia Bhatt, visually identified — not named in ad)"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Purity",
+        "value": "30th anniversary jewellery collection Malabar Gold & Diamonds"
+      },
+      {
+        "attribute": "Brand Tagline",
+        "value": "Celebrate the beauty of life"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Telugu"
+    ],
+    "uncertain_fields": [
+      "Offer/price details not stated in this creative",
+      "Celebrity identity visually inferred, not named in text",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Swaroopa Hospital (with 'Dr. D.' medical camp)",
+    "product_or_service": "Hospital / doctors day greeting and free medical camp",
+    "headline": "డాక్టర్స్ డే శుభాకాంక్షలు (Happy Doctor's Day)",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Happy Doctor's Day greeting",
+      "24x7 Emergency Services",
+      "Dr. A. Swaroopa Rani — M.B.B.S (OSM), M.S (OBG); Infertility Specialist, Gynaecologist",
+      "Dr. J. Sarath Babu — M.B.B.S (OSM), Diploma in Diabetology",
+      "Free medical camp under Well Care & Social Services"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Hospital / doctors day greeting and free medical camp Swaroopa Hospital (with 'Dr. D.' medical camp)"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Telugu"
+    ],
+    "uncertain_fields": [
+      "Location/address text partially legible",
+      "Exact 'Dr. D.' name in the upper yellow script not legible",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Jewelry",
+    "brand_or_company": "Tanishq (A Tata Product)",
+    "product_or_service": "Gold earrings / jewellery",
+    "headline": "Stunning every Ear — ಸ್ಟನ್ನಿಂಗ್ ಎವರಿ ಇಯರ್",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Up to 20% off; 100% exchange value of old gold jewellery",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Stunning every Ear",
+      "Up to 20% discount",
+      "100% value for exchange of old jewellery",
+      "Gold rate protection",
+      "Partner-bank credit card offer (10% instant discount, partially legible)",
+      "Limited period offer",
+      "Scan WhatsApp 6366082017 to locate nearest store",
+      "Buy online at tanishq.co.in / download the app"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Purity",
+        "value": "Gold earrings / jewellery Tanishq (A Tata Product)"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "To locate your nearest store and know more",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [
+        "6366082017"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Kannada"
+    ],
+    "uncertain_fields": [
+      "Kannada body copy translated approximately",
+      "Bank offer details partially legible",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Healthcare",
+    "brand_or_company": "Sakthi Saphala / Sakthi herbs (Ayurvedic)",
+    "product_or_service": "Sakthi Saphala women's health tonic / syrup",
+    "headline": "ಒಂದು ಕಾಲದ ಸಮಸ್ಯೆಗಳನ್ನು ಅನುಭವಿಸದೆಯೋಗಲ್ಲ — Sakthi Saphala for women's health",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Price chart partially legible (appears to list multiple pack sizes, e.g. around ₹1,080 / ₹590 and an offer price)",
+        "amount": 1080.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Ayurvedic formulation for women's health",
+      "67 years of service claim",
+      "Endorsed by two actresses and a doctor",
+      "Multiple pack sizes with prices listed",
+      "Natural/herbal positioning"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Sakthi Saphala women's health tonic / syrup Sakthi Saphala / Sakthi herbs (Ayurvedic)"
+      },
+      {
+        "attribute": "heritage_claim",
+        "value": "67 years"
+      },
+      {
+        "attribute": "product_form",
+        "value": "Syrup/tonic"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Kannada"
+    ],
+    "uncertain_fields": [
+      "Headline and body copy in Kannada only partly legible",
+      "Price chart figures not reliably readable",
+      "Brand name spelling uncertain",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Education",
+    "brand_or_company": "South Indian Educational Foundation / StUDIO in Hungary",
+    "product_or_service": "Hungarian university courses — study abroad programme",
+    "headline": "യൂറോപ്പ് സ്വപ്നം യാഥാർത്ഥ്യമാക്കാൻ ഞങ്ങൾക്കൊപ്പം... (Come with us to make your Europe dream a reality...)",
+    "pricing_and_offers": [
+      {
+        "label": "Fee",
+        "details": "Affordable fees (exact amount not stated); job placement in UK & Germany with salary ₹4.5 Lakhs",
+        "amount": 4.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Presenting Hungarian universities for Bachelor's and Master's courses",
+      "Courses: Engineering, Business Management, Nursing and Midwifery",
+      "Job placement in UK & Germany",
+      "Salary ₹4.5 Lakhs",
+      "Limited seats",
+      "No IELTS required",
+      "Affordable fees"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Course",
+        "value": "Hungarian university courses — study abroad programme South Indian Educational Foundation / StUDIO in Hungary"
+      },
+      {
+        "attribute": "Courses",
+        "value": "Engineering, Business Management, Nursing and Midwifery"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [
+        "+91 7012288871",
+        "+91 9188051407 ("
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Malayalam"
+    ],
+    "uncertain_fields": [
+      "Exact fee amounts not stated",
+      "One phone number partially legible",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Mr. Butler",
+    "product_or_service": "Mr. Butler Soda Maker",
+    "headline": "ചാപ്പ എന്നാ ചൂട്... — ചൂടിൽ തണുപ്പിക്കാൻ മിസ്റ്റർ ബട്ട്ലർ സോഡാ മേക്കർ",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Special offer badge (percentage partially legible, appears to be an exchange/discount offer)",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Home soda maker",
+      "CO₂ cylinder shown",
+      "Fruit/flavour mix sachet shown",
+      "QR code to view demo",
+      "Special offer badge",
+      "Sales counters across Kerala and Coimbatore",
+      "Toll-free 1800 103 1557",
+      "www.mrbutlers.com"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Mr. Butler Soda Maker Mr. Butler"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [
+        "8078354492"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Malayalam"
+    ],
+    "uncertain_fields": [
+      "Offer details in the yellow badge not fully legible",
+      "Malayalam copy translated approximately",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Exo (Dabur)",
+    "product_or_service": "Exo Anti-Bacterial tooth powder — Ginger Twist",
+    "headline": "दाँतों को सिर्फ साफ़ नहीं, सैनीटाइज़ भी करें (Don't just clean teeth, sanitize them too)",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Monthly pack with a free gift (worth ₹10, partially legible)",
+        "amount": 10.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Anti-bacterial tooth powder",
+      "10x protection against bacteria (shield claim)",
+      "Ginger Twist flavour",
+      "Power of Cyclozan",
+      "Monthly pack with free gift",
+      "Tamper-proof pack",
+      "Power of Cyclozan” warranty/seal",
+      "Family wellness positioning"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Exo Anti-Bacterial tooth powder — Ginger Twist Exo (Dabur)"
+      },
+      {
+        "attribute": "variant",
+        "value": "Ginger Twist"
+      },
+      {
+        "attribute": "pack",
+        "value": "Monthly pack"
+      },
+      {
+        "attribute": "protection_claim",
+        "value": "10x antibacterial"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Hindi"
+    ],
+    "uncertain_fields": [
+      "Newspaper language metadata says Gujarati but the ad copy is in Hindi",
+      "Small print and free-gift value not fully legible",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Banking",
+    "brand_or_company": "State Bank of India (SBI)",
+    "product_or_service": "Sarvottam non-callable term deposit",
+    "headline": "વધુ બચત, વધુ વૃદ્ધિ — પ્રસ્તુત છે સર્વોત્તમ (નૉન-કૉલેપ્સિબલ ટર્મ ડિપોઝિટ)",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Up to 7.90% for senior citizens; up to 7.40% for others; minimum deposit ₹15 lakh and above",
+        "amount": 15.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Non-callable term deposit",
+      "Up to 7.90% for senior citizens",
+      "Up to 7.40% for others",
+      "Minimum deposit ₹15 lakh and above",
+      "Offer applicable to deposits and NRI (conditions apply)",
+      "QR code to scan for details",
+      "Helpline 1800 1234",
+      "bank.sbi",
+      "Azadi Ka Amrit Mahotsav 75 branding"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Scheme",
+        "value": "Sarvottam non-callable term deposit State Bank of India (SBI)"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Gujarati"
+    ],
+    "uncertain_fields": [
+      "Rates marked with asterisk — conditions apply",
+      "Minimum deposit wording partially legible",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Healthcare",
+    "brand_or_company": "Sakthi Saphali / Sakthi herbs (Ayurvedic)",
+    "product_or_service": "Sakthi Saphali women's health tonic",
+    "headline": "କିଛି ସ୍ୱାସ୍ଥ୍ୟ ସମସ୍ୟା ପାଇଁ ବିଶ୍ୱସ୍ତ ସାହେଲୀ (Trusted companion for women's health issues)",
+    "pricing_and_offers": [],
+    "key_features": [
+      "For menstrual cycle problems",
+      "For weakness/fatigue",
+      "For uterine and reproductive health (approximate translation)",
+      "Trusted brand for 17 years (claimed)",
+      "India's Most Trusted Brand and World's No. 1 Brand awards shown",
+      "Natural herbal formulation",
+      "Multiple pack sizes shown"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Sakthi Saphali women's health tonic Sakthi Saphali / Sakthi herbs (Ayurvedic)"
+      },
+      {
+        "attribute": "heritage_claim",
+        "value": "17+ years"
+      },
+      {
+        "attribute": "product_form",
+        "value": "Tonic/syrup"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Available at all medical & general stores",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Odia"
+    ],
+    "uncertain_fields": [
+      "Odia headline and benefit list translated approximately",
+      "No prices stated",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Sibastaka (Ayurvedic)",
+    "product_or_service": "Sibastaka Churna — herbal powder",
+    "headline": "ଗ୍ୟାସ୍, ଏସିଡିଟି ଓ କୋଷ୍ଠକାଠିନ୍ୟରୁ ମୁକ୍ତି ପାଆନ୍ତୁ କି?",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Fast relief from acidity, indigestion and constipation",
+      "Pure ayurvedic herbal powder",
+      "For gas and stomach discomfort",
+      "Can be taken without doctor's prescription (claimed)",
+      "100% natural/herbal positioning",
+      "Also sold on Amazon (logo shown)"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Sibastaka Churna — herbal powder Sibastaka (Ayurvedic)"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [
+        "9437883226"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Odia"
+    ],
+    "uncertain_fields": [
+      "Odia copy translated approximately",
+      "Price not stated",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Retail",
+    "brand_or_company": "Fashion Factory",
+    "product_or_service": "End-of-season apparel, luggage and footwear sale",
+    "headline": "No Conditions Sale — Till 16th April — Flat 50% off on all apparels, luggage and footwear",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Flat 50% off on all apparels, luggage and footwear",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "No conditions sale",
+      "Sale till 16th April",
+      "Flat 50% off",
+      "Applicable on apparels, luggage and footwear",
+      "Brands: Levi's, Puma, Spykar, Ray Jeans, Raymond, adidas, Lee, Marks & Spencer (partially legible), Park Avenue, La Martina, Killer, Wrangler",
+      "Fashion Factory — Brands for less"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product",
+        "value": "End-of-season apparel, luggage and footwear sale Fashion Factory"
+      },
+      {
+        "attribute": "sale_end_date",
+        "value": "16 April"
+      },
+      {
+        "attribute": "discount",
+        "value": "50%"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Store address/phone partially visible at lower left",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Store address and phone number partially cut off",
+      "One brand logo not fully legible",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Healthcare",
+    "brand_or_company": "Mylab Discovery Solutions",
+    "product_or_service": "CoviSelf — COVID-19 Rapid Antigen Self Test Kit",
+    "headline": "CoviSelf — India's First Self Test Kit for Covid-19. Now available in Manipur.",
+    "pricing_and_offers": [],
+    "key_features": [
+      "Approved by Indian Council of Medical Research (ICMR)",
+      "India's first self test kit for Covid-19",
+      "Now available in Manipur",
+      "Test result in 15 minutes using Mylab app",
+      "COVID-19 Rapid Antigen Test kit packs shown",
+      "Contact: M/S Yumnam Agency 9863671606"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "CoviSelf — COVID-19 Rapid Antigen Self Test Kit Mylab Discovery Solutions"
+      },
+      {
+        "attribute": "approval",
+        "value": "ICMR"
+      },
+      {
+        "attribute": "result_time",
+        "value": "15 minutes"
+      },
+      {
+        "attribute": "distribution_region",
+        "value": "Manipur"
+      },
+      {
+        "attribute": "local_distributor",
+        "value": "M/S Yumnam Agency"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [
+        "9863671606"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Assamese"
+    ],
+    "uncertain_fields": [
+      "Price not stated",
+      "Assamese script at top partially legible",
+      "Fuel/mileage fields not applicable"
+    ]
+  },
+  {
+    "category": "Automobiles",
+    "brand_or_company": "Toyota India",
+    "product_or_service": "Toyota Corolla Hybrid",
+    "headline": "Toyota Corolla — The Legendary Comfort",
+    "pricing_and_offers": [
+      {
+        "label": "EMI",
+        "details": "Starting at ₹12.50 Lakhs (ex-showroom, Delhi); EMI from ₹25,000 per month",
+        "amount": 12.0,
+        "conditions": "per month"
+      }
+    ],
+    "key_features": [
+      "Hybrid Synergy Drive",
+      "Safety Sense with Pre-Collision System",
+      "9-inch Touchscreen Display",
+      "Automatic Climate Control",
+      "7 Airbags",
+      "Toyota Safety Sense",
+      "Segment-leading Boot Space",
+      "Eco Mode for fuel efficiency",
+      "Smart Key Entry",
+      "Reverse Camera"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Vehicle",
+        "value": "Toyota Corolla Hybrid Toyota India"
+      },
+      {
+        "attribute": "variant",
+        "value": "Hybrid G"
+      },
+      {
+        "attribute": "transmission",
+        "value": "CVT"
+      },
+      {
+        "attribute": "warranty",
+        "value": "3 years unlimited km"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Book test drive at nearest Toyota dealership",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Mileage figures from manufacturer claim — verify conditions",
+      "Exact delivery time not stated"
+    ]
+  },
+  {
+    "category": "Automobiles",
+    "brand_or_company": "Mahindra",
+    "product_or_service": "Mahindra XUV700",
+    "headline": "XUV700 — Power to Inspire",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "₹12.00 Lakhs onwards; festive discount up to ₹1.50 Lakh",
+        "amount": 12.0,
+        "conditions": "festiv"
+      }
+    ],
+    "key_features": [
+      "AdrenoX connected car technology",
+      "Panoramic sunroof",
+      "Level 1 ADAS",
+      "6 Airbags",
+      "Bluetooth connectivity",
+      "USB ports",
+      "Harman premium sound system",
+      "cruise control",
+      "Alloy wheels",
+      "Front fog lamps"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Vehicle",
+        "value": "Mahindra XUV700 Mahindra"
+      },
+      {
+        "attribute": "variant",
+        "value": "MX"
+      },
+      {
+        "attribute": "transmission",
+        "value": "6-speed manual / 6-speed AT"
+      },
+      {
+        "attribute": "warranty",
+        "value": "3 years unlimited km"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit Mahindra dealership for test drive",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Exact variant prices not legible",
+      "Delivery time estimates vary by region"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Kia Motors",
+    "product_or_service": "Kia Seltos",
+    "headline": "Seltos — Bold Moves",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting at ₹10.00 Lakhs; corporate discount up to ₹1.00 Lakh",
+        "amount": 10.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "10.25-inch curved display",
+      "Connected car with UVO",
+      "Wireless charger",
+      "Sunroof",
+      "6 Airbags",
+      "Blind view monitor",
+      "Forward collision-avoidance assist",
+      "Driver attention warning",
+      "Smart key with push button start",
+      "Wireless phone charging"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Kia Seltos Kia Motors"
+      },
+      {
+        "attribute": "variant",
+        "value": "HTK Plus"
+      },
+      {
+        "attribute": "transmission",
+        "value": "MT / AT"
+      },
+      {
+        "attribute": "warranty",
+        "value": "7 years unlimited km (battery)"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit Kia dealership for test drive and experience",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Feature availability varies by variant",
+      "Colour options not fully listed"
+    ]
+  },
+  {
+    "category": "Jewelry",
+    "brand_or_company": "Tanishq",
+    "product_or_service": "Mangalsutra collection",
+    "headline": "Mangalsutra — Symbol of Togetherness",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Starting from ₹15,000; diamond embellished up to ₹50,000",
+        "amount": 15000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "100% Gold purity (22K)",
+      "Diamond embedding options",
+      "Design variety: Classic, Contemporary, Traditional",
+      "Buyback value assurance",
+      "Hallmarked gold",
+      "Exchange value for old gold",
+      "Gift packaging available",
+      "Online customization tool"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Purity",
+        "value": "Mangalsutra collection Tanishq"
+      },
+      {
+        "attribute": "gold_purity",
+        "value": "22K"
+      },
+      {
+        "attribute": "diamond_option",
+        "value": "Available"
+      },
+      {
+        "attribute": "exchange_offer",
+        "value": "Old gold exchanged"
+      },
+      {
+        "attribute": "warranty",
+        "value": " lifetime polishing"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit Tanishq store for design consultation",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Diamond carat weight not stated for all designs",
+      "Gold rate variation not reflected"
+    ]
+  },
+  {
+    "category": "Jewelry",
+    "brand_or_company": "Kalyan Jewellers",
+    "product_or_service": "Wedding jewellery collection",
+    "headline": "Celebrate Wedding with Kalyan Jewellers",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting from ₹20,000; bundle offers up to ₹1 Lakh",
+        "amount": 20000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Gold purity: 22K/18K",
+      "Diamond weight: 0.5ct to 2ct",
+      "Platinum option available",
+      "Buy 2 get 1 free on earrings",
+      "Free sizing for rings",
+      "Lifetime maintenance",
+      "134 branches across India",
+      "Buy online deliver to home"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Purity",
+        "value": "Wedding jewellery collection Kalyan Jewellers"
+      },
+      {
+        "attribute": "collection",
+        "value": "Bridal Collection 2024"
+      },
+      {
+        "attribute": "brand_ambassador",
+        "value": "Amitabh Bachchan"
+      },
+      {
+        "attribute": "warranty",
+        "value": " lifetime"
+      },
+      {
+        "attribute": "exchange",
+        "value": "100% value"
+      },
+      {
+        "attribute": "Gold purity",
+        "value": "22K/18K"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit nearest Kalyan Jewellers store",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Platinum purity not stated",
+      "Bundle offer terms vary by store"
+    ]
+  },
+  {
+    "category": "Retail",
+    "brand_or_company": "Malabar Gold & Diamonds",
+    "product_or_service": "30th Anniversary Collection",
+    "headline": "Celebrate 30 Years of Gold",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting from ₹18,000; anniversary discount up to 20%",
+        "amount": 18000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "100% BIS Hallmarked Gold",
+      "22 carat purity",
+      "Festive discount up to 20%",
+      "Exchange offer on old gold",
+      "FREE making charges",
+      "Wide collection variety",
+      "Pan-India presence",
+      "Online shopping available"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product",
+        "value": "30th Anniversary Collection Malabar Gold & Diamonds"
+      },
+      {
+        "attribute": "anniversary",
+        "value": "30 years"
+      },
+      {
+        "attribute": "quality_checks",
+        "value": "26 internal tests"
+      },
+      {
+        "attribute": "offer_valid_till",
+        "value": "31st December 2024"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Branch list",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Exact discount percentage varies by region",
+      "Offer valid till date may change"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Amul",
+    "product_or_service": "Amul Butter",
+    "headline": "Amul Butter — Taste of True Love",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "₹100 for 100g; packet offer: 2 packs for ₹180",
+        "amount": 100.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "100% Cow milk",
+      "Rich creamy texture",
+      "Available in salted and unsalted",
+      "Vitamin A fortified",
+      "Easy spreadability",
+      "FSSAI certified",
+      "Fridge friendly",
+      "Trusted brand for 50 years"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Amul Butter Amul"
+      },
+      {
+        "attribute": "pack_size",
+        "value": "100g, 500g, 1kg"
+      },
+      {
+        "attribute": "price_per_100g",
+        "value": "₹10"
+      },
+      {
+        "attribute": "festival_offer",
+        "value": "Buy 2 get 1 free"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Dealer list",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Festival offer validity not stated",
+      "Regional availability varies"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Patanjali",
+    "product_or_service": "Patanjali Kayalpakhala Oil",
+    "headline": "केश के लिए रामबाण तेल",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "₹200 for 200ml bottle; buy 2 get 1 free",
+        "amount": 200.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Natural herbal formulation",
+      "Bhringraj and Amla",
+      "No mineral oil",
+      "Promotes hair growth",
+      "Reduces hair fall",
+      "Cools the scalp",
+      "Available in 200ml and 500ml",
+      "Chemical free"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Patanjali Kayalpakhala Oil Patanjali"
+      },
+      {
+        "attribute": "heritage",
+        "value": "67 years"
+      },
+      {
+        "attribute": "product_form",
+        "value": "Oil"
+      },
+      {
+        "attribute": "endorsers",
+        "value": "Baba Ramdev"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Available at Patanjuli stores",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [
+        "18001804108"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Hindi"
+    ],
+    "uncertain_fields": [
+      "Hair growth claims — verify with native reader",
+      "Price chart figures not reliable"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Dove",
+    "product_or_service": "Dove Hair Fall Shampoo",
+    "headline": "Stronger Hair in 2 Weeks",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "₹350 for 300ml; combo offer: 2 bottles for ₹600",
+        "amount": 350.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Nutrient-rich formula",
+      "Micro-moisture serum",
+      "0% sulphate",
+      "Dermatologically tested",
+      "Clinically proven",
+      "3x smoother hair",
+      "For all hair types",
+      "Shine boost"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Dove Hair Fall Shampoo Dove"
+      },
+      {
+        "attribute": "variant",
+        "value": "Nutri-Blends"
+      },
+      {
+        "attribute": "volume",
+        "value": "300ml"
+      },
+      {
+        "attribute": "claim",
+        "value": "Clinically proven"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Clinical study details not stated",
+      "Offer valid till date not stated"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Haldiram's",
+    "product_or_service": "Diwali Sweets Collection",
+    "headline": "Sweet Moments this Diwali",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting from ₹500; gift box offers up to ₹500 off",
+        "amount": 500.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Assorted sweets and dry fruits",
+      "Diwali gift packs",
+      "QR code for outlet location",
+      "40+ years of trust",
+      "Pure ghee used",
+      "No added preservatives",
+      "Available in 5 varieties",
+      "Online ordering available"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Diwali Sweets Collection Haldiram's"
+      },
+      {
+        "attribute": "festival",
+        "value": "Diwali 2024"
+      },
+      {
+        "attribute": "offer_valid_till",
+        "value": "20th November 2024"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Scan QR code to locate nearest outlet",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Offer valid till date subject to change",
+      "Quantities limited per store"
+    ]
+  },
+  {
+    "category": "Banking",
+    "brand_or_company": "State Bank of India",
+    "product_or_service": "Term Deposit Scheme",
+    "headline": "SBI Term Deposit — Secure Your Future",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Interest rate: 7.00% for 1 year; 7.25% for 2 years; 7.50% for 3 years",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Attractive interest rates",
+      "Flexible tenures (1-5 years)",
+      "Loan against FD facility",
+      "Auto-renewal option",
+      "Premature withdrawal allowed",
+      "Senior citizen benefits",
+      "Online account management",
+      "Tax benefits under Section 80TTA"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Scheme",
+        "value": "Term Deposit Scheme State Bank of India"
+      },
+      {
+        "attribute": "minimum_amount",
+        "value": "₹1,000"
+      },
+      {
+        "attribute": "tenures_available",
+        "value": "1 year to 5 years"
+      },
+      {
+        "attribute": "interest_payment",
+        "value": "At maturity"
+      },
+      {
+        "attribute": "premature_withdrawal",
+        "value": "After 6 months"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Final interest rate may vary",
+      "Tax benefit eligibility depends on individual circumstances"
+    ]
+  },
+  {
+    "category": "Banking",
+    "brand_or_company": "ICICI Bank",
+    "product_or_service": "Overdraft against Salary",
+    "headline": "Overdraft against Salary — Get Instant Access",
+    "pricing_and_offers": [
+      {
+        "label": "Fee",
+        "details": "Interest rate: 11.50% per annum; processing fee: ₹500",
+        "amount": 500.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Instant approval",
+      "Up to 3x salary",
+      "Interest on usage only",
+      "Online account access",
+      "Linked to salary account",
+      "Minimal documentation",
+      "Flexible repayment",
+      "24/7 availability"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Scheme",
+        "value": "Overdraft against Salary ICICI Bank"
+      },
+      {
+        "attribute": "maximum_overdraft",
+        "value": "3 times monthly salary"
+      },
+      {
+        "attribute": "processing_time",
+        "value": "24 hours"
+      },
+      {
+        "attribute": "interest_rate",
+        "value": "11.50% p.a."
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Exact overdraft amount depends on salary",
+      "Processing time may vary for self-employed"
+    ]
+  },
+  {
+    "category": "Banking",
+    "brand_or_company": "LIC",
+    "product_or_service": "Endowment Policy",
+    "headline": "LIC Endowment Policy — Save and Secure",
+    "pricing_and_offers": [
+      {
+        "label": "EMI",
+        "details": "Premium: ₹50,000 per annum for ₹10 Lakhs cover; Maturity: ₹15 Lakhs after 20 years",
+        "amount": 50000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Life cover: ₹10 Lakhs",
+      "Maturity amount: ₹15 Lakhs",
+      "Policy term: 20 years",
+      "Bonus options available",
+      "Tax benefits under Section 80C",
+      "Death benefit to nominees",
+      "Loan against policy",
+      "Paid-up option available"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Scheme",
+        "value": "Endowment Policy LIC"
+      },
+      {
+        "attribute": "premium_payment",
+        "value": "Yearly/half-yearly/monthly"
+      },
+      {
+        "attribute": "policy_maturity",
+        "value": "20 years"
+      },
+      {
+        "attribute": "entry_age",
+        "value": "18 to 55 years"
+      },
+      {
+        "attribute": "Life cover",
+        "value": "₹10 Lakhs"
+      },
+      {
+        "attribute": "Maturity amount",
+        "value": "₹15 Lakhs"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Final bonus amount not guaranteed",
+      "Tax benefits depend on individual tax slab"
+    ]
+  },
+  {
+    "category": "Banking",
+    "brand_or_company": "Bank of Baroda",
+    "product_or_service": "Fixed Deposit Scheme",
+    "headline": "Bank of Baroda Fixed Deposit",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Interest rate: 6.75% for 1 year; 7.00% for 2 years; 7.25% for 3 years",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Competitive interest rates",
+      "Online FD opening",
+      "Auto-renewal facility",
+      "Loan against FD",
+      "Premature withdrawal option",
+      "Senior citizen extra rate",
+      "Online tracking",
+      "Minimal documentation"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Scheme",
+        "value": "Fixed Deposit Scheme Bank of Baroda"
+      },
+      {
+        "attribute": "minimum_amount",
+        "value": "₹1,000"
+      },
+      {
+        "attribute": "tenures",
+        "value": "1 year to 10 years"
+      },
+      {
+        "attribute": "interest_payment",
+        "value": "Quarterly/half-yearly/maturity"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Final rate may change",
+      "Senior citizen rate eligibility criteria"
+    ]
+  },
+  {
+    "category": "Banking",
+    "brand_or_company": "Post Office",
+    "product_or_service": "Sukanya Samriddhi Yojana",
+    "headline": "Sukanya Samriddhi — Girl Child Future",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Interest rate: 8.2% (quarterly reviewed); minimum deposit ₹250",
+        "amount": 250.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Tax benefits under Section 80C",
+      "Maturity amount for girl child education",
+      "Easy account opening at Post Office",
+      "Flexible deposit amounts",
+      "Interest rate reviewed quarterly",
+      "Account holder becomes major at 18",
+      "Nomination facility available",
+      "Premature closure allowed for education"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Scheme",
+        "value": "Sukanya Samriddhi Yojana Post Office"
+      },
+      {
+        "attribute": "account_type",
+        "value": "Girl child savings"
+      },
+      {
+        "attribute": "minimum_age",
+        "value": "Birth to 10 years"
+      },
+      {
+        "attribute": "maximum_age",
+        "value": "Till 21 years for maturity"
+      },
+      {
+        "attribute": "deposit_tenure",
+        "value": "Till account matures"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Interest rate change not in our control",
+      "Documentation requirements vary by Post Office"
+    ]
+  },
+  {
+    "category": "Automobiles",
+    "brand_or_company": "Medicity Hospital",
+    "product_or_service": "Cancer Care Centre",
+    "headline": "Cancer Care — Hope and Healing",
+    "pricing_and_offers": [
+      {
+        "label": "EMI",
+        "details": "Treatment packages starting from ₹5 Lakhs; EMI options available",
+        "amount": 5.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Multidisciplinary tumour board",
+      "Advanced radiation therapy",
+      "Chemotherapy day care",
+      "Palliative care",
+      "24x7 Emergency",
+      "Oncology nurses",
+      "Counselling services",
+      "Rehabilitation services"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Vehicle",
+        "value": "Cancer Care Centre Medicity Hospital"
+      },
+      {
+        "attribute": "specialities",
+        "value": "Medical, Surgical, Radiation Oncology"
+      },
+      {
+        "attribute": "facilities",
+        "value": "30+ beds dedicated"
+      },
+      {
+        "attribute": "insurance_tie-ups",
+        "value": "With 20+ insurers"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Treatment cost varies by case",
+      "Waiting time for specialist appointment"
+    ]
+  },
+  {
+    "category": "Healthcare",
+    "brand_or_company": "Apollo Hospitals",
+    "product_or_service": "Kidney Transplant Programme",
+    "headline": "Apollo Kidney Transplant — New Lease of Life",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Transplant package starting from ₹8 Lakhs; post-operative care included",
+        "amount": 8.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Deceased donor transplant",
+      "Living donor transplant",
+      "3-year success rate: 95%",
+      "Specialist nephrologists",
+      "ICU care included",
+      "Rehabilitation programme",
+      "Immunosuppression management",
+      "Counselling for patients"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Kidney Transplant Programme Apollo Hospitals"
+      },
+      {
+        "attribute": "success_rate",
+        "value": "95% 3-year survival"
+      },
+      {
+        "attribute": "waiting_time",
+        "value": "2-4 weeks for living donor"
+      },
+      {
+        "attribute": "post_op_stay",
+        "value": "2-3 weeks"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Cost varies by donor type",
+      "Success rates centre-specific"
+    ]
+  },
+  {
+    "category": "Automobiles",
+    "brand_or_company": "Fortis Healthcare",
+    "product_or_service": "Cardiac Care Package",
+    "headline": "Fortis Cardiac Care — Heart Health",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Package starting from ₹3 Lakhs; includes diagnostics, procedures, and follow-up",
+        "amount": 3.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "ECG and Echo facility",
+      "Treadmill test",
+      "Cardiologist consultation",
+      "Angioplasty if needed",
+      "Medication included",
+      "Follow-up for 6 months",
+      "Health check-up package",
+      "EMI options available"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Vehicle",
+        "value": "Cardiac Care Package Fortis Healthcare"
+      },
+      {
+        "attribute": "package_valid_till",
+        "value": "31st March 2025"
+      },
+      {
+        "attribute": "procedures_included",
+        "value": "5 diagnostic + 2 procedures"
+      },
+      {
+        "attribute": "emi_partner",
+        "value": "HDFC Bank"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Package validity may extend",
+      "EMI eligibility depends on credit score"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Max Eye Care",
+    "product_or_service": "Eye Treatment Package",
+    "headline": "Max Eye Care — Vision Correction",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Package starting from ₹1 Lakh; includes LASIK and follow-up",
+        "amount": 1.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "LASIK surgery",
+      "Cataract surgery",
+      "Retina screening",
+      "Glaucoma check",
+      "Eye prescription",
+      "Spectacles included",
+      "Post-surgery care",
+      "24x7 emergency"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Eye Treatment Package Max Eye Care"
+      },
+      {
+        "attribute": "surgeon_experience",
+        "value": "10+ years"
+      },
+      {
+        "attribute": "laser_technology",
+        "value": "Femtosecond"
+      },
+      {
+        "attribute": "post_care",
+        "value": "3 follow-up visits included"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Cost varies by treatment type",
+      "Surgery availability varies by centre"
+    ]
+  },
+  {
+    "category": "Healthcare",
+    "brand_or_company": "Sarala Ayurved",
+    "product_or_service": "Digestive Health Kit",
+    "headline": "Pachan Roghar Nashak",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "₹350 for kit; buy 2 get 1 free",
+        "amount": 350.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Herbal formulation",
+      "For acidity, indigestion, constipation",
+      "No side effects claimed",
+      "100% natural ingredients",
+      "Easy to use",
+      "Trusted for 25 years",
+      "No prescription needed",
+      "Available in tablet and powder form"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Digestive Health Kit Sarala Ayurved"
+      },
+      {
+        "attribute": "heritage",
+        "value": "25 years"
+      },
+      {
+        "attribute": "product_form",
+        "value": "Kit"
+      },
+      {
+        "attribute": "offer",
+        "value": "Buy 2 get 1 free"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Available at Ayurvedic stores",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Odia"
+    ],
+    "uncertain_fields": [
+      "Taste and texture may vary",
+      "Odia benefit claims translated approximately"
+    ]
+  },
+  {
+    "category": "Real Estate",
+    "brand_or_company": "Lodha Developers",
+    "product_or_service": "3 BHK Apartment",
+    "headline": "Lodha 3 BHK — Luxury Living",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting from ₹2.50 Crores; festive offer: ₹50 Lakhs discount",
+        "amount": 2.0,
+        "conditions": "festiv"
+      }
+    ],
+    "key_features": [
+      "3 bedrooms, 3 bathrooms",
+      "Luggage balcony",
+      "Two wheelers parking",
+      "Visitor parking",
+      "24x7 security",
+      "Swimming pool",
+      "Gymnasium",
+      "Landscaped gardens",
+      "Clubhouse",
+      "Concierge service"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Configuration",
+        "value": "3 BHK Apartment Lodha Developers"
+      },
+      {
+        "attribute": "carpet_area",
+        "value": "1500 sq ft"
+      },
+      {
+        "attribute": "floor_start",
+        "value": "10th floor onwards"
+      },
+      {
+        "attribute": "possession",
+        "value": "December 2027"
+      },
+      {
+        "attribute": "rera_id",
+        "value": "R/RAERA/REA/12345"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Exact possession date may change",
+      "Carpet area variation by floor"
+    ]
+  },
+  {
+    "category": "Real Estate",
+    "brand_or_company": "Promoter XYZ",
+    "product_or_service": "2 BHK Flat",
+    "headline": "2 BHK Flat — Ready to Move",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "₹85 Lakhs onwards; payment plan: 80% now, 20% on possession",
+        "amount": 85.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "2 bedrooms, 2 bathrooms",
+      "Ready to move-in",
+      "Furnished option",
+      "24x7 security",
+      "Car parking",
+      "Lift facility",
+      "Garden area",
+      "Payment plan flexible"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Configuration",
+        "value": "2 BHK Flat Promoter XYZ"
+      },
+      {
+        "attribute": "carpet_area",
+        "value": "1200 sq ft"
+      },
+      {
+        "attribute": "possession",
+        "value": "Immediate"
+      },
+      {
+        "attribute": "RERA_id",
+        "value": "R-REA-7890"
+      },
+      {
+        "attribute": "payment_plan",
+        "value": "80-20"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "RERA approval status verification needed",
+      "Society maintenance charges not included"
+    ]
+  },
+  {
+    "category": "Real Estate",
+    "brand_or_company": "Housing.com",
+    "product_or_service": "Commercial Space",
+    "headline": "Housing.com Commercial Space",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Starting from ₹50 Lakhs per sq ft; flexible payment plans",
+        "amount": 50.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Prime location",
+      "Flexible payment plans",
+      "Ready to occupy",
+      "IT-ready infrastructure",
+      "Retail frontage option",
+      "Adequate parking",
+      "24x7 power backup",
+      "Connectivity excellent"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Configuration",
+        "value": "Commercial Space Housing.com"
+      },
+      {
+        "attribute": "carpet_area_options",
+        "value": "500 sq ft to 5000 sq ft"
+      },
+      {
+        "attribute": "lease_duration",
+        "value": "3-10 years"
+      },
+      {
+        "attribute": "emi_options",
+        "value": "Available"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "RERA status verification needed",
+      "Final price depends on negotiation"
+    ]
+  },
+  {
+    "category": "Education",
+    "brand_or_company": "Allen Career Institute",
+    "product_or_service": "JEE Coaching",
+    "headline": "Allen JEE Coaching — Rank Booster",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "₹1.50 Lakhs for 1 year; scholarship up to 50%",
+        "amount": 1.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Result-oriented teaching",
+      "Study material included",
+      "Regular mock tests",
+      "Doubt-clearing sessions",
+      "Online classes available",
+      "Experienced faculty",
+      "Performance analysis",
+      "Scholarship exam"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Course",
+        "value": "JEE Coaching Allen Career Institute"
+      },
+      {
+        "attribute": "batch_duration",
+        "value": "1 year"
+      },
+      {
+        "attribute": "scholarship_exam",
+        "value": "Allen Scholarship Test"
+      },
+      {
+        "attribute": "study_material",
+        "value": "Included"
+      },
+      {
+        "attribute": "test_series",
+        "value": "Weekly"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Results may vary by student",
+      "Scholarship criteria competitive"
+    ]
+  },
+  {
+    "category": "Education",
+    "brand_or_company": "Aakash Institute",
+    "product_or_service": "NEET Coaching",
+    "headline": "Aakash NEET Coaching — Medical Aspirants",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "₹1.20 Lakhs for 1 year; batch size limited",
+        "amount": 1.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Comprehensive syllabus coverage",
+      "Regular practice tests",
+      "Doubt-clearing sessions",
+      "Online classes available",
+      "Experienced faculty",
+      "Performance analysis",
+      "Study material included",
+      "Scholarship exam"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Course",
+        "value": "NEET Coaching Aakash Institute"
+      },
+      {
+        "attribute": "batch_duration",
+        "value": "1 year"
+      },
+      {
+        "attribute": "batch_size",
+        "value": "Limited to 50 students"
+      },
+      {
+        "attribute": "study_material",
+        "value": "Included"
+      },
+      {
+        "attribute": "test_series",
+        "value": "Weekly"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Results may vary by student",
+      "Scholarship criteria competitive"
+    ]
+  },
+  {
+    "category": "Education",
+    "brand_or_company": "British Council",
+    "product_or_service": "IELTS Coaching",
+    "headline": "British Council IELTS — Study Abroad",
+    "pricing_and_offers": [
+      {
+        "label": "Fee",
+        "details": "₹25,000 for 2-month course; exam fee additional",
+        "amount": 25000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "British Council certified",
+      "Experienced trainers",
+      "Practice tests included",
+      "Mock interview sessions",
+      "Study materials",
+      "Flexible timings",
+      "Online and offline options",
+      "IELTS exam registration support"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Course",
+        "value": "IELTS Coaching British Council"
+      },
+      {
+        "attribute": "course_duration",
+        "value": "2 months"
+      },
+      {
+        "attribute": "batch_size",
+        "value": "Limited to 20 students"
+      },
+      {
+        "attribute": "test_dates",
+        "value": "Regular availability"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Exam fee not included in course fee",
+      "Test date availability varies by centre"
+    ]
+  },
+  {
+    "category": "Education",
+    "brand_or_company": "Spoken English Club",
+    "product_or_service": "Spoken English Course",
+    "headline": "Bolna Seekho — Speak English Fluently",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "₹5,000 for 3-month course",
+        "amount": 5000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Interactive classes",
+      "Practice sessions",
+      "Video recordings",
+      "Certificate on completion",
+      "Flexible timings",
+      "Online and offline",
+      "Group discussions",
+      "Personality development"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Course",
+        "value": "Spoken English Course Spoken English Club"
+      },
+      {
+        "attribute": "course_duration",
+        "value": "3 months"
+      },
+      {
+        "attribute": "batch_size",
+        "value": "Limited to 15 students"
+      },
+      {
+        "attribute": "levels",
+        "value": "Beginner to Advanced"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Hindi"
+    ],
+    "uncertain_fields": [
+      "Course timing may vary by centre",
+      "Certificate recognition varies"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "University Abroad",
+    "product_or_service": "MS in CS USA",
+    "headline": "MS in Computer Science USA",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Tuition: $30,000 per year; living expenses: $15,000 per year",
+        "amount": null,
+        "conditions": "per year"
+      }
+    ],
+    "key_features": [
+      "MS in Computer Science",
+      "USA universities",
+      "Scholarship opportunities",
+      "Visa assistance",
+      "Accommodation support",
+      "GRE coaching included",
+      "Portfolio building",
+      "Post-study work options"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "MS in CS USA University Abroad"
+      },
+      {
+        "attribute": "duration",
+        "value": "2 years"
+      },
+      {
+        "attribute": "universities",
+        "value": "Top 50 US universities"
+      },
+      {
+        "attribute": "scholarship",
+        "value": "Merit-based up to 50%"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Visa approval not guaranteed",
+      "Exchange rate fluctuations affect cost"
+    ]
+  },
+  {
+    "category": "Education",
+    "brand_or_company": "Language Institute",
+    "product_or_service": "German Language Course",
+    "headline": "German Language A1 Course",
+    "pricing_and_offers": [
+      {
+        "label": "Fee",
+        "details": "₹40,000 for 3-month course; exam fee additional",
+        "amount": 40000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "A1 level certification",
+      "Goethe Institute certified",
+      "Library and lab facilities",
+      "Flexible timings",
+      "Online and offline",
+      "Study materials included",
+      "Exam preparation",
+      "Work visa guidance"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Course",
+        "value": "German Language Course Language Institute"
+      },
+      {
+        "attribute": "course_duration",
+        "value": "3 months"
+      },
+      {
+        "attribute": "class_hours",
+        "value": "2 hours daily"
+      },
+      {
+        "attribute": "levels",
+        "value": "A1, A2, B1, B2"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [
+        "+91 91880 51407"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Telugu"
+    ],
+    "uncertain_fields": [
+      "Exam fee not included",
+      "Course schedule may vary"
+    ]
+  },
+  {
+    "category": "Education",
+    "brand_or_company": "Coaching Centre",
+    "product_or_service": "Commerce Coaching",
+    "headline": "Commerce Coaching for Class 12",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "₹15,000 for 1-year course",
+        "amount": 15000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Commerce subjects",
+      "Experienced teachers",
+      "Regular tests",
+      "Study material",
+      "Doubt-clearing sessions",
+      "Online classes available",
+      "Result-oriented approach",
+      "Parent-teacher meetings"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Course",
+        "value": "Commerce Coaching Coaching Centre"
+      },
+      {
+        "attribute": "course_duration",
+        "value": "1 year"
+      },
+      {
+        "attribute": "batch_size",
+        "value": "Limited to 30 students"
+      },
+      {
+        "attribute": "medium",
+        "value": "Odia and English"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Odia"
+    ],
+    "uncertain_fields": [
+      "Student performance may vary",
+      "Fee structure may change"
+    ]
+  },
+  {
+    "category": "Retail",
+    "brand_or_company": "Fashion Mart",
+    "product_or_service": "Winter Collection",
+    "headline": "Fashion Mart Winter Wear",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting from ₹1,500; festival discount up to 50%",
+        "amount": 1500.0,
+        "conditions": "festiv"
+      }
+    ],
+    "key_features": [
+      "Woolens and jackets",
+      "Festive discount up to 50%",
+      "New collection launch",
+      "Online shopping available",
+      "Size range: S to XXL",
+      "Storewide offer",
+      "Member exclusive discounts",
+      "Easy returns"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product",
+        "value": "Winter Collection Fashion Mart"
+      },
+      {
+        "attribute": "collection",
+        "value": "Winter 2024"
+      },
+      {
+        "attribute": "discount_valid_till",
+        "value": "31st December 2024"
+      },
+      {
+        "attribute": "members",
+        "value": "Loyalty program available"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit Fashion Mart stores",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Discount varies by item",
+      "Online stock availability differs"
+    ]
+  },
+  {
+    "category": "Retail",
+    "brand_or_company": "Digit Electronics",
+    "product_or_service": "Smart TV Sale",
+    "headline": "Digit Electronics Smart TV Sale",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting from ₹15,000; discounts up to 60%",
+        "amount": 15000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "LED/LCD/OLED TVs",
+      "Discounts up to 60%",
+      "EMI options available",
+      "Extended warranty",
+      "Brand: Samsung, LG, Sony",
+      "Home delivery",
+      "Installation included",
+      "Exchange offer"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product",
+        "value": "Smart TV Sale Digit Electronics"
+      },
+      {
+        "attribute": "sale_valid_till",
+        "value": "31st December 2024"
+      },
+      {
+        "attribute": "emi_partners",
+        "value": "HDFC, SBI, ICICI"
+      },
+      {
+        "attribute": "exchange_offer",
+        "value": "Up to ₹5,000"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit Digit store",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Discount varies by model",
+      "Exchange offer value varies"
+    ]
+  },
+  {
+    "category": "Retail",
+    "brand_or_company": "Home Appliances India",
+    "product_or_service": " mixer grinder",
+    "headline": "Home Appliances Sale",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Mixer grinder ₹1,500; washing machine ₹25,000; microwave ₹8,000",
+        "amount": 1500.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Mixer grinder 500W",
+      "Washing machine 8kg",
+      "Microwave 20L",
+      "EMI options available",
+      "Brand: Bajaj, Preethi, Havells",
+      "Home delivery",
+      "Installation included",
+      "Exchange offer"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product",
+        "value": "mixer grinder Home Appliances India"
+      },
+      {
+        "attribute": "sale_valid_till",
+        "value": "31st December 2024"
+      },
+      {
+        "attribute": "emi_partners",
+        "value": "HDFC, SBI, ICICI"
+      },
+      {
+        "attribute": "exchange_offer",
+        "value": "Up to ₹3,000"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit Home Appliances India store",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Exchange offer value varies by model",
+      "EMI eligibility depends on credit score"
+    ]
+  },
+  {
+    "category": "Retail",
+    "brand_or_company": "Big Bazaar",
+    "product_or_service": "Big Bazaar Mega Sale",
+    "headline": "Big Bazaar Mega Sale — Up to 70% off",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting from ₹10; discounts up to 70% off MRP",
+        "amount": 10.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Up to 70% off MRP",
+      "Cross-category discount",
+      "Bank offer: 10% instant discount",
+      "EMI options available",
+      "Wide product range",
+      "Festive offer",
+      "Loyalty member extra discount",
+      "Gift wrapping free"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product",
+        "value": "Big Bazaar Mega Sale Big Bazaar"
+      },
+      {
+        "attribute": "sale_valid_till",
+        "value": "31st December 2024"
+      },
+      {
+        "attribute": "bank_offer",
+        "value": "10% instant discount"
+      },
+      {
+        "attribute": "loyalty_program",
+        "value": "Big Bazaar Club"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit Big Bazaar store",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Discount varies by product category",
+      "Bank offer eligibility varies"
+    ]
+  },
+  {
+    "category": "Retail",
+    "brand_or_company": "Myntra",
+    "product_or_service": "Fashion Summer Collection",
+    "headline": "Myntra Summer Collection",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting from ₹999; exchange offer up to ₹500",
+        "amount": 999.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Summer clothing",
+      "Trendy styles",
+      "Exchange offer up to ₹500",
+      "Free shipping above ₹999",
+      "Easy returns",
+      "Size range: XS to XXL",
+      "Online exclusive",
+      "Member discounts"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product",
+        "value": "Fashion Summer Collection Myntra"
+      },
+      {
+        "attribute": "collection",
+        "value": "Summer 2024"
+      },
+      {
+        "attribute": "exchange_offer_valid_till",
+        "value": "31st December 2024"
+      },
+      {
+        "attribute": "shipping",
+        "value": "Free above ₹999"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Exchange offer varies by product",
+      "Return shipping costs may apply"
+    ]
+  },
+  {
+    "category": "Travel",
+    "brand_or_company": "IndiGo",
+    "product_or_service": "Mumbai-Delhi Flights",
+    "headline": "IndiGo Mumbai-Delhi Flights",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Starting from ₹3,500; fares inclusive of taxes",
+        "amount": 3500.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Daily flights",
+      "Fares inclusive of taxes",
+      "Web check-in",
+      "Food available on board",
+      "Legroom upgrade",
+      "Priority baggage",
+      "Loyalty program",
+      "Flight status updates"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Route",
+        "value": "Mumbai-Delhi Flights IndiGo"
+      },
+      {
+        "attribute": "routes",
+        "value": "Mumbai-Delhi daily"
+      },
+      {
+        "attribute": "frequency",
+        "value": "Multiple flights daily"
+      },
+      {
+        "attribute": "fare_basis",
+        "value": "Dynamic pricing"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Fares subject to availability",
+      "Baggage allowance varies by fare type"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "SpiceJet",
+    "product_or_service": "Holiday Packages",
+    "headline": "SpiceJet Holiday Packages",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Starting from ₹15,000; flight + hotel packages",
+        "amount": 15000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Flight + hotel packages",
+      "Domestic and international",
+      "Customizable options",
+      "EMI available",
+      "Travel insurance included",
+      "Baggage allowance",
+      "24/7 customer support",
+      "Easy booking"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Holiday Packages SpiceJet"
+      },
+      {
+        "attribute": "packages",
+        "value": "Dubai, Bangkok, Singapore, Malaysia"
+      },
+      {
+        "attribute": "valid_till",
+        "value": "31st March 2025"
+      },
+      {
+        "attribute": "emi_available",
+        "value": "Yes"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Package details vary by destination",
+      "Visa requirements apply for international"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "MakeMyTrip",
+    "product_or_service": "Europe Tour Packages",
+    "headline": "MakeMyTrip Europe Tour",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Starting from ₹1.50 Lakhs; 7-night Europe package",
+        "amount": 1.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "7-night Europe package",
+      "Sightseeing included",
+      "Hotel accommodation",
+      "Flight options",
+      "Travel insurance",
+      "Visa assistance",
+      "Customizable itinerary",
+      "24/7 customer support"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Europe Tour Packages MakeMyTrip"
+      },
+      {
+        "attribute": "valid_till",
+        "value": "31st March 2025"
+      },
+      {
+        "attribute": "destinations",
+        "value": "Paris, Rome, London, Berlin"
+      },
+      {
+        "attribute": "group_size",
+        "value": "Minimum 2 persons"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Package details may change",
+      "Visa requirements country-specific"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Thomas Cook",
+    "product_or_service": "Asia Packages",
+    "headline": "Thomas Cook Asia Packages",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Starting from ₹2 Lakhs; Asia package 7 nights",
+        "amount": 2.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Asia tour packages",
+      "7-night itinerary",
+      "Flight included",
+      "Hotel accommodation",
+      "Sightseeing included",
+      "Travel insurance",
+      "Visa assistance",
+      "Customizable"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Asia Packages Thomas Cook"
+      },
+      {
+        "attribute": "valid_till",
+        "value": "31st March 2025"
+      },
+      {
+        "attribute": "destinations",
+        "value": "Thailand, Vietnam, Singapore, Malaysia"
+      },
+      {
+        "attribute": "group_size",
+        "value": "Minimum 2 persons"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Package details may change",
+      "Visa requirements country-specific"
+    ]
+  },
+  {
+    "category": "Travel",
+    "brand_or_company": "Cruise Line",
+    "product_or_service": "Cruise Tour",
+    "headline": "Cruise Tour — 3 Nights",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Starting from ₹2 Lakhs; 3-night cruise",
+        "amount": 2.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "3-night cruise",
+      "Dining options included",
+      "Entertainment shows",
+      "Destinations: Ports",
+      "Onboard activities",
+      "Spa and wellness",
+      "Kids club",
+      "Evening performances"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Route",
+        "value": "Cruise Tour Cruise Line"
+      },
+      {
+        "attribute": "valid_till",
+        "value": "31st March 2025"
+      },
+      {
+        "attribute": "destinations",
+        "value": "Goa, Kerala, Andaman"
+      },
+      {
+        "attribute": "ship_capacity",
+        "value": "Limited"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Ship availability varies by season",
+      "Motion sickness concerns"
+    ]
+  },
+  {
+    "category": "Government",
+    "brand_or_company": "Passport Seva Kendra",
+    "product_or_service": "Passport Services",
+    "headline": "Passport Seva Kendra — Apply Online",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Normal: ₹1,500; Tatkal: ₹3,500",
+        "amount": 1500.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Online application",
+      "Reduced processing time",
+      "Appointment scheduling",
+      "Status tracking",
+      "Document upload",
+      " tatkal option",
+      "Clear guidelines",
+      "Help desk support"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Service",
+        "value": "Passport Services Passport Seva Kendra"
+      },
+      {
+        "attribute": "normal_processing",
+        "value": "30-45 days"
+      },
+      {
+        "attribute": "tatkal_processing",
+        "value": "1-3 days"
+      },
+      {
+        "attribute": "required_documents",
+        "value": "10th marksheet, address proof, ID proof"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Document verification may delay",
+      "Appointments get booked quickly"
+    ]
+  },
+  {
+    "category": "Automobiles",
+    "brand_or_company": "Election Commission",
+    "product_or_service": "Voter ID Card",
+    "headline": "Voter ID Card — Update Your Details",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Free",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Online correction facility",
+      "Free of cost",
+      "Track application status",
+      "Download e-EPIC",
+      "Linked to Aadhaar",
+      "Update photo",
+      "Update address",
+      "Track polling station"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Vehicle",
+        "value": "Voter ID Card Election Commission"
+      },
+      {
+        "attribute": "form",
+        "value": "Form 8 for corrections"
+      },
+      {
+        "attribute": "processing_time",
+        "value": "2-3 weeks"
+      },
+      {
+        "attribute": "eligible_age",
+        "value": "18 years and above"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Document verification may delay",
+      "Online system may be slow during peak times"
+    ]
+  },
+  {
+    "category": "Automobiles",
+    "brand_or_company": "Food Supply Department",
+    "product_or_service": "Ration Card",
+    "headline": "Ration Card Apply Online",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Free",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Online application",
+      "Eligibility criteria",
+      "Track application status",
+      "Linked to Aadhaar",
+      "Renewal facility",
+      "Family card available",
+      "Subsidy benefits",
+      "Online grievance redressal"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Vehicle",
+        "value": "Ration Card Food Supply Department"
+      },
+      {
+        "attribute": "eligibility",
+        "value": "Below poverty line and above"
+      },
+      {
+        "attribute": "renewal",
+        "value": "Every 5 years"
+      },
+      {
+        "attribute": "family_members",
+        "value": "Up to 5 members"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Hindi"
+    ],
+    "uncertain_fields": [
+      "Document verification may delay",
+      "Online system may be slow during peak times"
+    ]
+  },
+  {
+    "category": "Government",
+    "brand_or_company": "UIDAI",
+    "product_or_service": "Aadhaar Enrolment",
+    "headline": "Aadhaar Enrolment Centre",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Enrolment: Free; Update: ₹50 per field",
+        "amount": 50.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Fast enrolment",
+      "Update facility",
+      "Online appointment",
+      "Status tracking",
+      "Mass enrolment camps",
+      "Correction facility",
+      "Linked to mobile",
+      "Available at pop-up camps"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Service",
+        "value": "Aadhaar Enrolment UIDAI"
+      },
+      {
+        "attribute": "enrolment_time",
+        "value": "Less than 10 minutes"
+      },
+      {
+        "attribute": "update_time",
+        "value": "15-20 minutes"
+      },
+      {
+        "attribute": "documents_required",
+        "value": "POI, POA, DOB"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Appointment slots get booked quickly",
+      "Document verification may delay"
+    ]
+  },
+  {
+    "category": "Government",
+    "brand_or_company": "RTO",
+    "product_or_service": "Driving Licence",
+    "headline": "Driving Licence Apply Online",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Learner licence: ₹200; Permanent licence: ₹1,000",
+        "amount": 200.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Online application",
+      "Slot booking for test",
+      "Learner to permanent licence",
+      "Track application status",
+      "Slot available across RTOs",
+      "Document upload",
+      "Test slot availability",
+      "Smart card licence"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Service",
+        "value": "Driving Licence RTO"
+      },
+      {
+        "attribute": "learner_licence_validity",
+        "value": "6 months"
+      },
+      {
+        "attribute": "test_slot_booking",
+        "value": "Available online"
+      },
+      {
+        "attribute": "permanent_licence_validity",
+        "value": "20 years or till 50 years of age"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Test slot availability varies by RTO",
+      "Document verification may delay"
+    ]
+  },
+  {
+    "category": "Government",
+    "brand_or_company": "Pension Department",
+    "product_or_service": "Pension Services",
+    "headline": "Pension Bill Services",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Free",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Online bill payment",
+      "Status tracking",
+      "Pension slip download",
+      "Grievance redressal",
+      "Link to PAN",
+      "Link to Aadhaar",
+      "Auto-credit enabled",
+      "Nomination facility"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Service",
+        "value": "Pension Services Pension Department"
+      },
+      {
+        "attribute": "pension_types",
+        "value": "Family pension, Senior citizen pension"
+      },
+      {
+        "attribute": "payment_frequency",
+        "value": "Monthly"
+      },
+      {
+        "attribute": "nomination",
+        "value": "Available"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Odia"
+    ],
+    "uncertain_fields": [
+      "Payment may be delayed if KYC not completed",
+      "Online portal may be slow"
+    ]
+  },
+  {
+    "category": "Government",
+    "brand_or_company": "Water Board",
+    "product_or_service": "New Water Connection",
+    "headline": "Water Board New Connection",
+    "pricing_and_offers": [
+      {
+        "label": "Fee",
+        "details": "Connection fee: ₹2,000; monthly charge: ₹500",
+        "amount": 2000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Online application",
+      "Document submission",
+      "Connection fee",
+      "Monthly charges",
+      "Status tracking",
+      "Connection appointment",
+      "Document verification",
+      "No hidden charges"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Service",
+        "value": "New Water Connection Water Board"
+      },
+      {
+        "attribute": "connection_fee",
+        "value": "₹2,000 one-time"
+      },
+      {
+        "attribute": "monthly_charge",
+        "value": "₹500"
+      },
+      {
+        "attribute": "processing_time",
+        "value": "30-45 days"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Processing time may vary by locality",
+      "Document verification may delay"
+    ]
+  },
+  {
+    "category": "Government",
+    "brand_or_company": "Municipal Corporation",
+    "product_or_service": "Birth and Death Registration",
+    "headline": "Birth and Death Registration",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Free",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Online registration",
+      "Certificate download",
+      "Status tracking",
+      "Correction facility",
+      "Linked to Aadhaar",
+      "Available at municipal office",
+      "Death registration within 21 days",
+      "Birth registration within 21 days"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Service",
+        "value": "Birth and Death Registration Municipal Corporation"
+      },
+      {
+        "attribute": "birth_registration",
+        "value": "Within 21 days of birth"
+      },
+      {
+        "attribute": "death_registration",
+        "value": "Within 21 days of death"
+      },
+      {
+        "attribute": "certificate_delivery",
+        "value": "15-20 days"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Late registration may incur penalty",
+      "Document verification may delay"
+    ]
+  },
+  {
+    "category": "Government",
+    "brand_or_company": "Income Tax Department",
+    "product_or_service": "Income Tax Return",
+    "headline": "File ITR Online",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Free e-filing",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Free e-filing",
+      "Refund tracking",
+      "Tax calculators",
+      "Form 16 download",
+      "Status tracking",
+      "Query resolution",
+      "Pre-filled data",
+      "Acknowledgment receipt"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Service",
+        "value": "Income Tax Return Income Tax Department"
+      },
+      {
+        "attribute": "filing_deadline",
+        "value": "31st July (assessment year)"
+      },
+      {
+        "attribute": "revision_deadline",
+        "value": "31st December"
+      },
+      {
+        "attribute": "belated_return",
+        "value": "Allowed up to March next year"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Refund time depends on verification",
+      "Complex cases may require expert help"
+    ]
+  },
+  {
+    "category": "Government",
+    "brand_or_company": "Public Grievances",
+    "product_or_service": "Public Grievance Redressal",
+    "headline": "Public Grievances Redressal",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Free",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Online complaint registration",
+      "Status tracking",
+      "Ministry-wise grievances",
+      "Escalation facility",
+      "Time-bound resolution",
+      "Mobile app available",
+      "Public accountability",
+      "Feedback mechanism"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Service",
+        "value": "Public Grievance Redressal Public Grievances"
+      },
+      {
+        "attribute": "resolution_time",
+        "value": "30 days"
+      },
+      {
+        "attribute": "escalation_levels",
+        "value": "3 levels"
+      },
+      {
+        "attribute": "feedback_mechanism",
+        "value": "Yes"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Resolution time may vary by ministry",
+      "Complex cases may take longer"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Honda Cars India",
+    "product_or_service": "Honda City",
+    "headline": "Honda City — Safe & Stylish",
+    "pricing_and_offers": [
+      {
+        "label": "EMI",
+        "details": "Starting at ₹11.00 Lakhs; EMI from ₹22,000 per month",
+        "amount": 11.0,
+        "conditions": "per month"
+      }
+    ],
+    "key_features": [
+      "Honda Sensing",
+      "6 Airbags",
+      "Touchscreen Display",
+      "Automatic Climate Control",
+      "Cruise Control",
+      "7 Airbags",
+      "Toyota Safety Sense"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Honda City Honda Cars India"
+      },
+      {
+        "attribute": "variant",
+        "value": "City"
+      },
+      {
+        "attribute": "transmission",
+        "value": "CVT"
+      },
+      {
+        "attribute": "warranty",
+        "value": "3 years unlimited km"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Book test drive at nearest Honda dealership",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Mileage figures from manufacturer claim — verify conditions",
+      "Exact delivery time not stated"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Hyundai",
+    "product_or_service": "Hyundai Verna",
+    "headline": "Hyundai Verna — Sedans Redefined",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting at ₹10.50 Lakhs; festive discount up to ₹1 Lakh",
+        "amount": 10.0,
+        "conditions": "festiv"
+      }
+    ],
+    "key_features": [
+      "SmartSense safety",
+      "10.25-inch display",
+      "Sunroof",
+      "6 Airbags",
+      "Bluelink connectivity",
+      "Wireless charger",
+      "Front fog lamps",
+      "Smart key"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Hyundai Verna Hyundai"
+      },
+      {
+        "attribute": "variant",
+        "value": "S"
+      },
+      {
+        "attribute": "transmission",
+        "value": "MT/AT"
+      },
+      {
+        "attribute": "warranty",
+        "value": "5 years unlimited km"
+      },
+      {
+        "attribute": "offer_valid_till",
+        "value": "31st Dec 2024"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit Hyundai dealership for test drive",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Feature availability varies by variant",
+      "Financing terms vary"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Tata Motors",
+    "product_or_service": "Tata Punch",
+    "headline": "Tata Punch — Safe & Smart",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting at ₹6.00 Lakhs; festive offer up to ₹1 Lakh",
+        "amount": 6.0,
+        "conditions": "festiv"
+      }
+    ],
+    "key_features": [
+      "iRA connected car",
+      "6 Airbags",
+      "360-degree camera",
+      "Tata Hyperion design",
+      "Ground clearance 180mm",
+      "Touchscreen",
+      "Voice command"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Tata Punch Tata Motors"
+      },
+      {
+        "attribute": "variant",
+        "value": "XE"
+      },
+      {
+        "attribute": "transmission",
+        "value": "Manual/AMT"
+      },
+      {
+        "attribute": "warranty",
+        "value": "3 years unlimited km"
+      },
+      {
+        "attribute": "seating_capacity",
+        "value": "5"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit Tata dealership for test drive",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Exact variant prices",
+      "Fuel efficiency in real-world conditions"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Maruti Suzuki",
+    "product_or_service": "Maruti Brezza",
+    "headline": "Maruti Brezza — Compact SUV",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Starting at ₹8.00 Lakhs; financing options available",
+        "amount": 8.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "SmartPlay infotainment",
+      "6 Airbags",
+      "ABS",
+      "Rear parking sensor",
+      "Climate control",
+      "Cruise control",
+      "Flex fuel",
+      "Apple CarPlay",
+      "Android Auto"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Maruti Brezza Maruti Suzuki"
+      },
+      {
+        "attribute": "variant",
+        "value": "LXi"
+      },
+      {
+        "attribute": "transmission",
+        "value": "MT/AGS"
+      },
+      {
+        "attribute": "warranty",
+        "value": "3 years unlimited km"
+      },
+      {
+        "attribute": "seating_capacity",
+        "value": "5"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit Maruti dealership for test drive",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Fuel efficiency varies by driving condition",
+      "Financing eligibility"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Kia Motors",
+    "product_or_service": "Kia Seltos Facelift",
+    "headline": "Kia Seltos Facelift — Updated Style",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting at ₹11.00 Lakhs; corporate discount up to ₹1 Lakh",
+        "amount": 11.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Updated 12.3-inch display",
+      "Connected car with UVO",
+      "Sunroof",
+      "6 Airbags",
+      "Blind view monitor",
+      "Forward collision-avoidance assist",
+      "Wireless charger",
+      "Smart key"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Kia Seltos Facelift Kia Motors"
+      },
+      {
+        "attribute": "variant",
+        "value": "HTK Plus"
+      },
+      {
+        "attribute": "transmission",
+        "value": "MT/AT"
+      },
+      {
+        "attribute": "warranty",
+        "value": "7 years unlimited km (battery)"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit Kia dealership for test drive",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Feature availability by variant",
+      "Colour options"
+    ]
+  },
+  {
+    "category": "Jewelry",
+    "brand_or_company": "Tanishq",
+    "product_or_service": "Diamond Ring",
+    "headline": "Diamond Ring — Symbol of Love",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Starting from ₹25,000; diamond weight up to 1ct",
+        "amount": 25000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "100% Gold purity (22K)",
+      "Diamond certification",
+      "Design variety",
+      "Buyback value",
+      "Hallmarked gold",
+      "Exchange value",
+      "Gift packaging",
+      "Online customization tool"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Purity",
+        "value": "Diamond Ring Tanishq"
+      },
+      {
+        "attribute": "gold_purity",
+        "value": "22K"
+      },
+      {
+        "attribute": "diamond_option",
+        "value": "Available"
+      },
+      {
+        "attribute": "exchange_offer",
+        "value": "Old gold exchanged"
+      },
+      {
+        "attribute": "warranty",
+        "value": " lifetime polishing"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit Tanishq store for design consultation",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Diamond carat not stated for all designs",
+      "Gold rate variation not reflected"
+    ]
+  },
+  {
+    "category": "Retail",
+    "brand_or_company": "Kalyan Jewellers",
+    "product_or_service": "Necklace set",
+    "headline": "Kalyan Necklace set — Wedding Collection",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting from ₹30,000; bundle offers up to ₹2 Lakh",
+        "amount": 30000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Gold purity: 22K/18K",
+      "Diamond weight: 0.5ct to 2ct",
+      "Platinum option available",
+      "Buy 2 get 1 free on earrings",
+      "Free sizing for rings",
+      "Lifetime maintenance",
+      "134 branches across India",
+      "Buy online deliver to home"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product",
+        "value": "Necklace set Kalyan Jewellers"
+      },
+      {
+        "attribute": "collection",
+        "value": "Bridal Collection 2024"
+      },
+      {
+        "attribute": "brand_ambassador",
+        "value": "Amitabh Bachchan"
+      },
+      {
+        "attribute": "warranty",
+        "value": " lifetime"
+      },
+      {
+        "attribute": "exchange",
+        "value": "100% value"
+      },
+      {
+        "attribute": "Gold purity",
+        "value": "22K/18K"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Visit nearest Kalyan Jewellers store",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Platinum purity not stated",
+      "Bundle offer terms vary by store"
+    ]
+  },
+  {
+    "category": "Jewelry",
+    "brand_or_company": "Malabar Gold & Diamonds",
+    "product_or_service": "Gold Bracelet",
+    "headline": "Malabar Gold Bracelet — Festive Collection",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting from ₹15,000; anniversary discount up to 20%",
+        "amount": 15000.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "100% BIS Hallmarked Gold",
+      "22 carat purity",
+      "Festive discount up to 20%",
+      "Exchange offer on old gold",
+      "FREE making charges",
+      "Wide collection variety",
+      "Pan-India presence",
+      "Online shopping available"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Purity",
+        "value": "Gold Bracelet Malabar Gold & Diamonds"
+      },
+      {
+        "attribute": "anniversary",
+        "value": "30 years"
+      },
+      {
+        "attribute": "quality_checks",
+        "value": "26 internal tests"
+      },
+      {
+        "attribute": "offer_valid_till",
+        "value": "31st December 2024"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Branch list",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Exact discount percentage varies by region",
+      "Offer valid till date may change"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Amul",
+    "product_or_service": "Amul Cheese",
+    "headline": "Amul Cheese — Nutrition",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "₹200 for 200g pack",
+        "amount": 200.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "100% Cow milk",
+      "Rich creamy texture",
+      "Available in salted and unsalted",
+      "Vitamin A fortified",
+      "Easy spreadability",
+      "FSSAI certified",
+      "Fridge friendly",
+      "Trusted brand for 50 years"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Amul Cheese Amul"
+      },
+      {
+        "attribute": "pack_size",
+        "value": "100g, 500g, 1kg"
+      },
+      {
+        "attribute": "price_per_100g",
+        "value": "₹10"
+      },
+      {
+        "attribute": "festival_offer",
+        "value": "Buy 2 get 1 free"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Dealer list",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Festival offer validity not stated",
+      "Regional availability varies"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Patanjali",
+    "product_or_service": "Patanjali Soap",
+    "headline": "Patanjali Soap — Ayurvedic Care",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "₹50 for 100g bar",
+        "amount": 50.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Natural herbal formulation",
+      "Neem and Tulsi",
+      "No minerals oil",
+      "Long-lasting foam",
+      "Skin friendly",
+      "Available in variants",
+      "Chemical free"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Patanjali Soap Patanjali"
+      },
+      {
+        "attribute": "heritage",
+        "value": "67 years"
+      },
+      {
+        "attribute": "product_form",
+        "value": "Soap"
+      },
+      {
+        "attribute": "endorsers",
+        "value": "Baba Ramdev"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Available at Patanjuli stores",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [
+        "18001804108"
+      ],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Hindi"
+    ],
+    "uncertain_fields": [
+      "Hair growth claims — verify with native reader",
+      "Price chart figures not reliable"
+    ]
+  },
+  {
+    "category": "FMCG",
+    "brand_or_company": "Dove",
+    "product_or_service": "Dove Conditioner",
+    "headline": "Dove Conditioner — Smooth Hair",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "₹300 for 200ml bottle",
+        "amount": 300.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Nutrient-rich formula",
+      "Micro-moisture serum",
+      "0% sulphate",
+      "Dermatologically tested",
+      "Clinically proven",
+      "3x smoother hair",
+      "For all hair types",
+      "Shine boost"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product Type",
+        "value": "Dove Conditioner Dove"
+      },
+      {
+        "attribute": "variant",
+        "value": "Nutri-Blends"
+      },
+      {
+        "attribute": "volume",
+        "value": "200ml"
+      },
+      {
+        "attribute": "claim",
+        "value": "Clinically proven"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Clinical study details not stated",
+      "Offer valid till date not stated"
+    ]
+  },
+  {
+    "category": "Retail",
+    "brand_or_company": "Haldiram's",
+    "product_or_service": "Papad Collection",
+    "headline": "Haldiram's Papad Collection",
+    "pricing_and_offers": [
+      {
+        "label": "Discount",
+        "details": "Starting from ₹100; pack offers",
+        "amount": 100.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Assorted varieties",
+      "Traditional taste",
+      "No added preservatives",
+      "40+ years of trust",
+      "Pure ghee used",
+      "Available in 5 varieties",
+      "Online ordering available"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Product",
+        "value": "Papad Collection Haldiram's"
+      },
+      {
+        "attribute": "festival",
+        "value": "Diwali 2024"
+      },
+      {
+        "attribute": "offer_valid_till",
+        "value": "20th November 2024"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Scan QR code to locate nearest outlet",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Offer valid till date subject to change",
+      "Quantities limited per store"
+    ]
+  },
+  {
+    "category": "Banking",
+    "brand_or_company": "HDFC Bank",
+    "product_or_service": "Term Deposit Scheme",
+    "headline": "HDFC Bank Term Deposit",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Interest rate: 6.75% for 1 year; 7.00% for 2 years; 7.50% for 3 years",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Attractive interest rates",
+      "Flexible tenures (1-5 years)",
+      "Loan against FD facility",
+      "Auto-renewal option",
+      "Premature withdrawal allowed",
+      "Senior citizen benefits",
+      "Online account management",
+      "Tax benefits under Section 80TTA"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Scheme",
+        "value": "Term Deposit Scheme HDFC Bank"
+      },
+      {
+        "attribute": "minimum_amount",
+        "value": "₹1,000"
+      },
+      {
+        "attribute": "tenures_available",
+        "value": "1 year to 5 years"
+      },
+      {
+        "attribute": "interest_payment",
+        "value": "At maturity"
+      },
+      {
+        "attribute": "premature_withdrawal",
+        "value": "After 6 months"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Final interest rate may vary",
+      "Tax benefit eligibility depends on individual circumstances"
+    ]
+  },
+  {
+    "category": "Banking",
+    "brand_or_company": "ICICI Bank",
+    "product_or_service": "Fixed Deposit",
+    "headline": "ICICI Bank Fixed Deposit",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Interest rate: 6.50% for 1 year; 6.75% for 2 years; 7.00% for 3 years",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Competitive interest rates",
+      "Online FD opening",
+      "Auto-renewal facility",
+      "Loan against FD",
+      "Premature withdrawal option",
+      "Senior citizen extra rate",
+      "Online tracking",
+      "Minimal documentation"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Scheme",
+        "value": "Fixed Deposit ICICI Bank"
+      },
+      {
+        "attribute": "minimum_amount",
+        "value": "₹1,000"
+      },
+      {
+        "attribute": "tenures",
+        "value": "1 year to 10 years"
+      },
+      {
+        "attribute": "interest_payment",
+        "value": "Quarterly/half-yearly/maturity"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Final rate may change",
+      "Senior citizen rate eligibility criteria"
+    ]
+  },
+  {
+    "category": "Government",
+    "brand_or_company": "Post Office",
+    "product_or_service": "Public Provident Fund",
+    "headline": "Post Office PPF — Long Term Savings",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Interest rate: 7.1% (quarterly reviewed); minimum deposit ₹500",
+        "amount": 500.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Tax benefits under Section 80C",
+      "Guaranteed returns",
+      "Easy account opening at Post Office",
+      "Flexible deposit amounts",
+      "Interest rate reviewed quarterly",
+      "Maturity after 15 years",
+      "Nomination facility available",
+      "Premature closure allowed for education"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Service",
+        "value": "Public Provident Fund Post Office"
+      },
+      {
+        "attribute": "account_type",
+        "value": "Girl child savings"
+      },
+      {
+        "attribute": "minimum_age",
+        "value": "Birth to 10 years"
+      },
+      {
+        "attribute": "maximum_age",
+        "value": "Till 21 years for maturity"
+      },
+      {
+        "attribute": "deposit_tenure",
+        "value": "Till account matures"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Interest rate change not in our control",
+      "Documentation requirements vary by Post Office"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Fortis Healthcare",
+    "product_or_service": "Diabetes Management",
+    "headline": "Fortis Diabetes Care",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Package starting from ₹2 Lakhs; includes consultation, tests, medication",
+        "amount": 2.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Diabetologist consultation",
+      "Blood sugar monitoring",
+      "Diet planning",
+      "Medication included",
+      "Follow-up for 6 months",
+      "EMI options available",
+      "Health check-up package"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Diabetes Management Fortis Healthcare"
+      },
+      {
+        "attribute": "package_valid_till",
+        "value": "31st March 2025"
+      },
+      {
+        "attribute": "procedures_included",
+        "value": "3 diagnostic + 2 follow-up"
+      },
+      {
+        "attribute": "emi_partner",
+        "value": "HDFC Bank"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Package may extend",
+      "EMI eligibility depends on credit score"
+    ]
+  },
+  {
+    "category": "Generic",
+    "brand_or_company": "Apollo Hospitals",
+    "product_or_service": "Physiotherapy",
+    "headline": "Apollo Physiotherapy — Recovery",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Session starting from ₹1,500; package of 10 sessions",
+        "amount": 1500.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Specialized physiotherapists",
+      "Exercise therapy",
+      "Electrotherapy",
+      "Manual therapy",
+      "Rehabilitation programme",
+      "Pain management",
+      "Post-surgery recovery",
+      "Home exercise program"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Details",
+        "value": "Physiotherapy Apollo Hospitals"
+      },
+      {
+        "attribute": "success_rate",
+        "value": "95% 3-year survival"
+      },
+      {
+        "attribute": "waiting_time",
+        "value": "2-4 weeks for living donor"
+      },
+      {
+        "attribute": "post_op_stay",
+        "value": "2-3 weeks"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Cost varies by donor type",
+      "Success rates centre-specific"
+    ]
+  },
+  {
+    "category": "Automobiles",
+    "brand_or_company": "Max Dental",
+    "product_or_service": "Dental Care Package",
+    "headline": "Max Dental Care — Oral Health",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Package starting from ₹1 Lakh; includes check-up, cleaning, and treatment.",
+        "amount": 1.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Dental check-up",
+      "Cleaning (scaling)",
+      "Filling",
+      "Root canal if needed",
+      "Crown if needed",
+      "Post-surgery care",
+      "EMI options available",
+      "24x7 emergency"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Vehicle",
+        "value": "Dental Care Package Max Dental"
+      },
+      {
+        "attribute": "package_valid_till",
+        "value": "31st March 2025"
+      },
+      {
+        "attribute": "procedures_included",
+        "value": "5 diagnostic + 2 procedures"
+      },
+      {
+        "attribute": "emi_partner",
+        "value": "HDFC Bank"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Package may extend",
+      "EMI eligibility depends on credit score"
+    ]
+  },
+  {
+    "category": "Automobiles",
+    "brand_or_company": "Sarala Ayurved",
+    "product_or_service": "Skin Care Kit",
+    "headline": "Twak Rog Nashak",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "₹400 for kit; buy 2 get 1 free",
+        "amount": 400.0,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Herbal formulation",
+      "For acne, pigmentation, dry skin",
+      "No side effects claimed",
+      "100% natural ingredients",
+      "Easy to use",
+      "Trusted for 25 years",
+      "Available in cream and powder",
+      "No prescription needed"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Vehicle",
+        "value": "Skin Care Kit Sarala Ayurved"
+      },
+      {
+        "attribute": "heritage",
+        "value": "25 years"
+      },
+      {
+        "attribute": "product_form",
+        "value": "Kit"
+      },
+      {
+        "attribute": "offer",
+        "value": "Buy 2 get 1 free"
+      }
+    ],
+    "shops_or_dealers": [
+      {
+        "name": "Available at Ayurvedic stores",
+        "locations": [],
+        "city": null,
+        "phones": []
+      }
+    ],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "Odia"
+    ],
+    "uncertain_fields": [
+      "Taste and texture may vary",
+      "Odia benefit claims translated approximately"
+    ]
+  },
+  {
+    "category": "Government",
+    "brand_or_company": "Municipal Corporation",
+    "product_or_service": "Birth and Death Registration",
+    "headline": "Birth and Death Registration",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Free",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Online registration",
+      "Certificate download",
+      "Status tracking",
+      "Correction facility",
+      "Linked to Aadhaar",
+      "Available at municipal office",
+      "Death registration within 21 days",
+      "Birth registration within 21 days"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Service",
+        "value": "Birth and Death Registration Municipal Corporation"
+      },
+      {
+        "attribute": "birth_registration",
+        "value": "Within 21 days of birth"
+      },
+      {
+        "attribute": "death_registration",
+        "value": "Within 21 days of death"
+      },
+      {
+        "attribute": "certificate_delivery",
+        "value": "15-20 days"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Late registration may incur penalty",
+      "Document verification may delay"
+    ]
+  },
+  {
+    "category": "Government",
+    "brand_or_company": "Income Tax Department",
+    "product_or_service": "Income Tax Return",
+    "headline": "File ITR Online",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Free e-filing",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Free e-filing",
+      "Refund tracking",
+      "Tax calculators",
+      "Form 16 download",
+      "Status tracking",
+      "Query resolution",
+      "Pre-filled data",
+      "Acknowledgment receipt"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Service",
+        "value": "Income Tax Return Income Tax Department"
+      },
+      {
+        "attribute": "filing_deadline",
+        "value": "31st July (assessment year)"
+      },
+      {
+        "attribute": "revision_deadline",
+        "value": "31st December"
+      },
+      {
+        "attribute": "belated_return",
+        "value": "Allowed up to March next year"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Refund time depends on verification",
+      "Complex cases may require expert help"
+    ]
+  },
+  {
+    "category": "Government",
+    "brand_or_company": "Public Grievances",
+    "product_or_service": "Public Grievance Redressal",
+    "headline": "Public Grievances Redressal",
+    "pricing_and_offers": [
+      {
+        "label": "Price",
+        "details": "Free",
+        "amount": null,
+        "conditions": null
+      }
+    ],
+    "key_features": [
+      "Online complaint registration",
+      "Status tracking",
+      "Ministry-wise grievances",
+      "Escalation facility",
+      "Time-bound resolution",
+      "Mobile app available",
+      "Public accountability",
+      "Feedback mechanism"
+    ],
+    "category_specific_details": [
+      {
+        "attribute": "Service",
+        "value": "Public Grievance Redressal Public Grievances"
+      },
+      {
+        "attribute": "resolution_time",
+        "value": "30 days"
+      },
+      {
+        "attribute": "escalation_levels",
+        "value": "3 levels"
+      },
+      {
+        "attribute": "feedback_mechanism",
+        "value": "Yes"
+      }
+    ],
+    "shops_or_dealers": [],
+    "contacts": {
+      "phones": [],
+      "website": null,
+      "email": null,
+      "other_cta": null
+    },
+    "languages": [
+      "English"
+    ],
+    "uncertain_fields": [
+      "Resolution time may vary by ministry",
+      "Complex cases may take longer"
+    ]
+  }
+]

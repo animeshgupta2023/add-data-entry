@@ -1,0 +1,3905 @@
+{
+  "model": "qwen3-vl:8b",
+  "source_dir": "dataset\\images",
+  "total_processed": 53,
+  "success_count": 53,
+  "error_count": 0,
+  "avg_vlm_time_sec": 21.65,
+  "ads": {
+    "Rashtriya Sahara_100": {
+      "image_id": "Rashtriya Sahara_100",
+      "filename": "Rashtriya Sahara_100.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 17.4,
+      "data": {
+        "category": "Automobiles",
+        "brand_or_company": "Mahindra",
+        "product_or_service": "Scorpio SUV",
+        "headline": "मानसून धमाका (Monsoon Blast)",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹160000 *",
+            "amount": 160000.0,
+            "conditions": "तक के फ़ायदे (Up to benefits)"
+          },
+          {
+            "label": "Benefits",
+            "details": "100% तक वाहन फाइज़ीस (100% vehicle insurance)",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "White SUV",
+          "4x4 capability"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Model",
+            "value": "Scorpio"
+          },
+          {
+            "attribute": "Fuel Type",
+            "value": "Petrol"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Kiran Auto Mobiles Pvt. Ltd.",
+            "locations": [
+              "N.H.30, पाली से 1 कि.मी., पुरा, फतेहपुर"
+            ],
+            "city": null,
+            "phones": [
+              "8130499609",
+              "9263182030"
+            ]
+          },
+          {
+            "name": "Kiran Auto Mobiles Pvt. Ltd.",
+            "locations": [
+              "N.H.31, कुमार नगर, पुरा"
+            ],
+            "city": null,
+            "phones": [
+              "9263182030"
+            ]
+          },
+          {
+            "name": "Kiran Auto Mobiles Pvt. Ltd.",
+            "locations": [
+              "N.H.19, बेहटा, पुरा मेला के सामने"
+            ],
+            "city": null,
+            "phones": [
+              "8130499610"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "8130499609",
+            "9263182030",
+            "8130499610"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "ऑफर सीमित समय या स्टॉक रहने तक (Offer limited time or stock available)"
+        },
+        "languages": [
+          "hi",
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_101": {
+      "image_id": "Rashtriya Sahara_101",
+      "filename": "Rashtriya Sahara_101.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 7.07,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": null,
+        "product_or_service": "Gurukul (likely a brand/service name)",
+        "headline": "Arvind Kumar Mehta Gurukul - Special Offer on Products",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "₹500 off",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Special offer",
+          "Gurukul brand"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Offer Type",
+            "value": "Discount"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Arvind Kumar Mehta",
+            "locations": [
+              "Gurukul"
+            ],
+            "city": null,
+            "phones": []
+          }
+        ],
+        "contacts": {
+          "phones": [],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": [
+          "product_or_service",
+          "brand_or_company"
+        ]
+      }
+    },
+    "Rashtriya Sahara_102": {
+      "image_id": "Rashtriya Sahara_102",
+      "filename": "Rashtriya Sahara_102.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 9.93,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": null,
+        "product_or_service": "Saree (as per 'साड़ी' in Hindi)",
+        "headline": "Sandeep Kumar - Saree Shop",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹1000",
+            "amount": 1000.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Sarees",
+          "Traditional Wear"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Material",
+            "value": "Cotton"
+          },
+          {
+            "attribute": "Design",
+            "value": "Plain"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Sandeep Kumar",
+            "locations": [
+              "Jharkhand"
+            ],
+            "city": null,
+            "phones": [
+              "9876543210"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "9876543210"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_001_Honda_Jazz": {
+      "image_id": "ad_001_Honda_Jazz",
+      "filename": "ad_001_Honda_Jazz.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 34.61,
+      "data": {
+        "category": "Automobiles",
+        "brand_or_company": "HONDA",
+        "product_or_service": "NEW JAZZ",
+        "headline": "PRESENTING THE NEW JAZZ FOR THE VERY, VERY DEMANDING",
+        "pricing_and_offers": [
+          {
+            "label": "EMI",
+            "details": "₹1111* Per Month Per Lakh",
+            "amount": 1111.0,
+            "conditions": "Starts From"
+          },
+          {
+            "label": "Benefits",
+            "details": "Up to ₹40 000*",
+            "amount": 40000.0,
+            "conditions": null
+          },
+          {
+            "label": "Financing",
+            "details": "100% On Road Funding*",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Segment-Exclusive One-Touch Electric Sunroof",
+          "Chrome Accented High Gloss Black Grille",
+          "Advanced LED Headlamps (Inline Shell) with DRL",
+          "Signature Rear LED Wing Light",
+          "Advanced LED Fog Lamps",
+          "Best-in-Class Space"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Engine",
+            "value": "i-VTEC"
+          },
+          {
+            "attribute": "Transmission",
+            "value": "CVT"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Magnum Honda",
+            "locations": [
+              "Mekhri Circle"
+            ],
+            "city": null,
+            "phones": [
+              "99000 29164"
+            ]
+          },
+          {
+            "name": "Kanakapura Road Honda",
+            "locations": [
+              "Kanakapura Road"
+            ],
+            "city": null,
+            "phones": [
+              "98455 24394"
+            ]
+          },
+          {
+            "name": "Tumkur Honda",
+            "locations": [
+              "Tumkur"
+            ],
+            "city": null,
+            "phones": [
+              "99160 04127"
+            ]
+          },
+          {
+            "name": "Dakshin Honda",
+            "locations": [
+              "Hosur Road"
+            ],
+            "city": null,
+            "phones": [
+              "86575 88495"
+            ]
+          },
+          {
+            "name": "Lavalle Road Honda",
+            "locations": [
+              "Lavalle Road"
+            ],
+            "city": null,
+            "phones": [
+              "86575 89201"
+            ]
+          },
+          {
+            "name": "Mysore Road Honda",
+            "locations": [
+              "Mysore Road"
+            ],
+            "city": null,
+            "phones": [
+              "86575 89889"
+            ]
+          },
+          {
+            "name": "Brigade Honda",
+            "locations": [
+              "Yelahanka"
+            ],
+            "city": null,
+            "phones": [
+              "86575 88450"
+            ]
+          },
+          {
+            "name": "Whitefield Honda",
+            "locations": [
+              "Whitefield Road"
+            ],
+            "city": null,
+            "phones": [
+              "86575 89175"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "99000 29164",
+            "98455 24394",
+            "99160 04127",
+            "86575 88495",
+            "86575 89201",
+            "86575 89889",
+            "86575 88450",
+            "86575 89175"
+          ],
+          "website": null,
+          "email": "corporate@hondacarindia.com",
+          "other_cta": "Book online Honda From Home | Auto Terrace | Pro CARE"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_002_Maruti_Suzuki_Swift": {
+      "image_id": "ad_002_Maruti_Suzuki_Swift",
+      "filename": "ad_002_Maruti_Suzuki_Swift.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 58.7,
+      "data": {
+        "category": "Automobiles",
+        "brand_or_company": "Maruti Suzuki Arena",
+        "product_or_service": "Swift (2021 model)",
+        "headline": "The New 2021 SWIFT LIMITLESS THRILL STUNNING LOOKS",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹48,000*",
+            "amount": 48000.0,
+            "conditions": "Up to ₹48,000"
+          },
+          {
+            "label": "Discount",
+            "details": "₹3,000 off on subscription",
+            "amount": null,
+            "conditions": "Available via subscription"
+          }
+        ],
+        "key_features": [
+          "Stunning Looks",
+          "Limitless Thrill"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Engine",
+            "value": "Not specified in image"
+          },
+          {
+            "attribute": "Fuel",
+            "value": "Not specified in image"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Rana Motors",
+            "locations": [
+              "Prashant Vihar"
+            ],
+            "city": null,
+            "phones": [
+              "971150777"
+            ]
+          },
+          {
+            "name": "D.D. Motors",
+            "locations": [
+              "Wazirpur"
+            ],
+            "city": null,
+            "phones": [
+              "9990015677"
+            ]
+          },
+          {
+            "name": "Krish",
+            "locations": [
+              "GT Karnal Road"
+            ],
+            "city": null,
+            "phones": [
+              "9873477733"
+            ]
+          },
+          {
+            "name": "Fairdeal Cars",
+            "locations": [
+              "Budh Vihar"
+            ],
+            "city": null,
+            "phones": [
+              "9990015677"
+            ]
+          },
+          {
+            "name": "Competent Auto",
+            "locations": [
+              "Dwarka"
+            ],
+            "city": null,
+            "phones": [
+              "8528737978"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [],
+          "website": "www.marutisuzuki.com",
+          "email": "anindya.sarkar@maruti.co.in (NCR); abhinav.verma2@maruti.co.in (Delhi)",
+          "other_cta": "E-book today at www.marutisuzuki.com or visit your nearest Maruti Suzuki dealership"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_003_Tata_Nexon": {
+      "image_id": "ad_003_Tata_Nexon",
+      "filename": "ad_003_Tata_Nexon.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 36.47,
+      "data": {
+        "category": "Automobiles",
+        "brand_or_company": "TATA MOTORS",
+        "product_or_service": "NEXON EV (The Electric SUV)",
+        "headline": "ONE YEAR AGO, WE SHOWED YOU THE FUTURE.",
+        "pricing_and_offers": [
+          {
+            "label": "Ex-showroom Price",
+            "details": "₹13.99 Lakhs Onwards (All India)",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Special Anniversary Offer",
+            "details": "Exchange Discount Up To ₹15000*",
+            "amount": 15000.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "8 Years/160,000 KM Battery & Motor Warranty",
+          "0-100 KM/H in 9.9 SEC",
+          "FREE Home Charging Box*",
+          "60\" Minutes Fast Charging",
+          "TATA MOTORS ZCONNECT App with 35 Connected Car Features",
+          "World Class Safety & Quality (Indian Made)"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Battery Warranty",
+            "value": "8 Years/160,000 KM"
+          },
+          {
+            "attribute": "Charging Time",
+            "value": "60\" Minutes Fast Charging"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "PRABHADEVI",
+            "locations": [
+              "MUMBAI"
+            ],
+            "city": "Mumbai",
+            "phones": [
+              "8779596198"
+            ]
+          },
+          {
+            "name": "PUNEET AUTOMOBILES",
+            "locations": [
+              "PUNEET AUTOMOBILES"
+            ],
+            "city": "Pune",
+            "phones": [
+              "8779596198",
+              "9987900442"
+            ]
+          },
+          {
+            "name": "WASAN MOTORS",
+            "locations": [
+              "CHEMBUR",
+              "BORIVALI"
+            ],
+            "city": "Mumbai",
+            "phones": [
+              "7977305150",
+              "8369042300"
+            ]
+          },
+          {
+            "name": "HERITAGE MOTORS",
+            "locations": [
+              "THANE & GOHDBUNDER"
+            ],
+            "city": "Thane",
+            "phones": [
+              "959466886"
+            ]
+          },
+          {
+            "name": "KESHVA MOTOR'S",
+            "locations": [
+              "MULUND"
+            ],
+            "city": "Mumbai",
+            "phones": [
+              "9699825550"
+            ]
+          },
+          {
+            "name": "INDERJIT CARS",
+            "locations": [
+              "MIRA ROAD",
+              "BOISAR & ANDHERI"
+            ],
+            "city": "Mumbai",
+            "phones": [
+              "8291505106",
+              "8291505106"
+            ]
+          },
+          {
+            "name": "SUDARSHAN MOTORS",
+            "locations": [
+              "KALYAN & DOMBIVLI"
+            ],
+            "city": "Mumbai",
+            "phones": [
+              "9768129069"
+            ]
+          },
+          {
+            "name": "SURYODAY AUTO",
+            "locations": [
+              "VASAI"
+            ],
+            "city": "Mumbai",
+            "phones": [
+              "9076262962"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "1800 209 8282"
+          ],
+          "website": "nexonev.tatamotors.com",
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_004_Hyundai_Creta": {
+      "image_id": "ad_004_Hyundai_Creta",
+      "filename": "ad_004_Hyundai_Creta.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 20.38,
+      "data": {
+        "category": "Automobiles",
+        "brand_or_company": "HYUNDAI",
+        "product_or_service": "CRETA SUV",
+        "headline": "Perfection has no equal. Driven by over 4.25 lakh proud owners, CRETA is India’s most aspired SUV.",
+        "pricing_and_offers": [
+          {
+            "label": "Price Starting at",
+            "details": "₹9.99 Lakhs*",
+            "amount": 999000.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Front Ventilated Seats",
+          "Wireless Phone Charger",
+          "Smart Electric Sunroof",
+          "Smart Key Band",
+          "6 Way Power Driver Seat",
+          "Powerful 1.6 L Petrol & Diesel Engine",
+          "6-Speed AT (Petrol & Diesel)"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Engine",
+            "value": "1.6 L Petrol & Diesel"
+          },
+          {
+            "attribute": "Transmission",
+            "value": "6-Speed AT"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "HYUNDAI",
+            "locations": [
+              "New Delhi",
+              "Mumbai",
+              "Bangalore",
+              "Chennai",
+              "Hyderabad",
+              "Kolkata"
+            ],
+            "city": null,
+            "phones": [
+              "8884709630"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "8884709630"
+          ],
+          "website": "www.hyundai.co.in",
+          "email": null,
+          "other_cta": "Book online at https://book.hyundai.co.in"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_005_Ford_Figo": {
+      "image_id": "ad_005_Ford_Figo",
+      "filename": "ad_005_Ford_Figo.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 37.33,
+      "data": {
+        "category": "Automobiles",
+        "brand_or_company": "Ford",
+        "product_or_service": "New Figo (Figo Blu)",
+        "headline": "NEW FIGO. PLAY SMART. WHY FOLLOW.",
+        "pricing_and_offers": [
+          {
+            "label": "Starting Price",
+            "details": "Petrol ₹5.15 Lakh | Diesel ₹5.95 Lakh",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Warranty",
+            "details": "5-Year Warranty",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "96PS (70.79kW) Petrol",
+          "Stylish Interiors",
+          "Touchscreen with Navigation",
+          "6 Airbags"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Engine",
+            "value": "96PS (70.79kW) Petrol"
+          },
+          {
+            "attribute": "Fuel Type",
+            "value": "Petrol, Diesel"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Ford",
+            "locations": [
+              "Begumpet",
+              "Kondapur",
+              "LB Nagar",
+              "Somajiguda",
+              "Tolluchowki",
+              "Mody Ford",
+              "Fortune Ford"
+            ],
+            "city": "Hyderabad",
+            "phones": [
+              "9022913979",
+              "9619049061",
+              "9022920259",
+              "9022915628",
+              "9022913689"
+            ]
+          },
+          {
+            "name": "Ford",
+            "locations": [
+              "Kothi Rampur",
+              "Mody Ford",
+              "Fortune Ford"
+            ],
+            "city": "Karimnagar",
+            "phones": [
+              "9022913984"
+            ]
+          },
+          {
+            "name": "Ford",
+            "locations": [
+              "Appana Pally, Yedla",
+              "Mody Ford",
+              "Fortune Ford"
+            ],
+            "city": "Mahabubnagar",
+            "phones": [
+              "9022913681"
+            ]
+          },
+          {
+            "name": "Ford",
+            "locations": [
+              "Mancherial",
+              "Mody Ford",
+              "Fortune Ford"
+            ],
+            "city": null,
+            "phones": [
+              "9022913985"
+            ]
+          },
+          {
+            "name": "Ford",
+            "locations": [
+              "Addanki By-Pass Road",
+              "Bardipur Village",
+              "Savni Ford"
+            ],
+            "city": "Nalgonda",
+            "phones": [
+              "9022914321"
+            ]
+          },
+          {
+            "name": "Ford",
+            "locations": [
+              "Nizamabad",
+              "Prime Ford",
+              "Raja Sriram Ford"
+            ],
+            "city": null,
+            "phones": [
+              "9022914175"
+            ]
+          },
+          {
+            "name": "Ford",
+            "locations": [
+              "Tirupati",
+              "Bardipur Village",
+              "Raja Sriram Ford"
+            ],
+            "city": "Tirupati",
+            "phones": [
+              "9022914240"
+            ]
+          },
+          {
+            "name": "Ford",
+            "locations": [
+              "Warangal",
+              "Muluju X Road",
+              "Srisri Ford"
+            ],
+            "city": null,
+            "phones": [
+              "9022906099"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "7330173301"
+          ],
+          "website": "www.india.ford.com/cars/figo",
+          "email": null,
+          "other_cta": "BOOK NOW"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_006_Renault_Triber": {
+      "image_id": "ad_006_Renault_Triber",
+      "filename": "ad_006_Renault_Triber.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 13.39,
+      "data": {
+        "category": "Automobiles",
+        "brand_or_company": "RENAULT",
+        "product_or_service": "Renault TRIBER",
+        "headline": "GLOBAL REVEAL 19TH JUNE",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Super Spacious",
+          "Ultra Modular",
+          "India's First"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Model",
+            "value": "TRIBER"
+          },
+          {
+            "attribute": "Reveal Date",
+            "value": "19TH JUNE"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "1800 300 4444"
+          ],
+          "website": "www.renault.co.in/triber.html",
+          "email": null,
+          "other_cta": "Watch it live on www.renault.co.in/triber.html"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_007_Mahindra_Thar": {
+      "image_id": "ad_007_Mahindra_Thar",
+      "filename": "ad_007_Mahindra_Thar.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.68,
+      "data": {
+        "category": "Automobiles",
+        "brand_or_company": "Mahindra",
+        "product_or_service": "The Thar SUV",
+        "headline": "SORRY CARS THE THAR WINS AUTOCAR CAR OF THE YEAR 2021",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Global NCAP 5-star rating",
+          "All-new model"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Award",
+            "value": "Autocar Car of the Year 2021"
+          },
+          {
+            "attribute": "Safety Rating",
+            "value": "Global NCAP 5-star"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [],
+          "website": "auto.mahindra.com/suv/thar",
+          "email": null,
+          "other_cta": "Visit our website for more details"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_008_TVS_Apache": {
+      "image_id": "ad_008_TVS_Apache",
+      "filename": "ad_008_TVS_Apache.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 20.17,
+      "data": {
+        "category": "Automobiles",
+        "brand_or_company": "TVS Racing",
+        "product_or_service": "All-new 2019 TVS Apache RTR Series with SUPER-MOTO ABS",
+        "headline": "Race engineered performance.",
+        "pricing_and_offers": [
+          {
+            "label": "Low Down Payment",
+            "details": "₹ 16,999/-",
+            "amount": 16999.0,
+            "conditions": null
+          },
+          {
+            "label": "Low EMI",
+            "details": "₹ 2,019/-",
+            "amount": 2019.0,
+            "conditions": null
+          },
+          {
+            "label": "ROI",
+            "details": "3.99%",
+            "amount": 3.99,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "SUPER-MOTO ABS",
+          "Racing DNA Unleashed"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Series",
+            "value": "Apache RTR Series"
+          },
+          {
+            "attribute": "ABS Type",
+            "value": "SUPER-MOTO ABS"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "TVS",
+            "locations": [
+              "Delhi",
+              "Mumbai",
+              "Chennai",
+              "Kolkata",
+              "Hyderabad"
+            ],
+            "city": null,
+            "phones": [
+              "18003157227"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "18003157227"
+          ],
+          "website": "www.tvsapache.com",
+          "email": null,
+          "other_cta": "For further details please give a missed call to 18003157227 | TVS showrooms are open on Sundays also."
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_009_State_Bank_Of_India": {
+      "image_id": "ad_009_State_Bank_Of_India",
+      "filename": "ad_009_State_Bank_Of_India.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.39,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "SBI",
+        "product_or_service": "Customer Meet for Banking Feedback",
+        "headline": "LET'S CONNECT JOIN US TO MAKE BANKING BETTER.",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Voice views",
+          "Share experiences",
+          "Give valuable feedback"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Event Type",
+            "value": "Customer Meet"
+          },
+          {
+            "attribute": "Date",
+            "value": "28th May 2019"
+          },
+          {
+            "attribute": "Time",
+            "value": "4:30 PM onwards"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "1800 112 211"
+          ],
+          "website": "bank.sbi",
+          "email": null,
+          "other_cta": "For venue details, visit: bank.sbi or call on 1800 112 211"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_010_ICICI_Bank": {
+      "image_id": "ad_010_ICICI_Bank",
+      "filename": "ad_010_ICICI_Bank.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 11.03,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "ICICI Bank",
+        "product_or_service": "Overdraft against property",
+        "headline": "Get an overdraft against your property in just 48 hours.",
+        "pricing_and_offers": [
+          {
+            "label": "Interest Rate",
+            "details": "Low interest rate",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Dedicated Relationship Manager"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Processing Time",
+            "value": "48 hours"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "8080 94 5050"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "GIVE US A MISSED CALL"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_011_LIC": {
+      "image_id": "ad_011_LIC",
+      "filename": "ad_011_LIC.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 19.13,
+      "data": {
+        "category": "Insurance",
+        "brand_or_company": "LIC (Life Insurance Corporation of India)",
+        "product_or_service": "Claim Settlement Services",
+        "headline": "Strong relationships lead to fulfilled promises. Thank you for your trust.",
+        "pricing_and_offers": [
+          {
+            "label": "Claim Settlement",
+            "details": "Settle claim on time",
+            "amount": null,
+            "conditions": "Ensure policies registered, nomination updated, address/phone/email details provided, bank account (NEFT) details submitted"
+          }
+        ],
+        "key_features": [
+          "Registered policies on LIC customer portal",
+          "Updated nomination",
+          "Residential Address, Phone/Mobile No., E-mail ID update",
+          "Bank Account (NEFT) details",
+          "Claim discharge forms and Policy document submission"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Portal",
+            "value": "www.licindia.in"
+          },
+          {
+            "attribute": "App",
+            "value": "MyLIC"
+          },
+          {
+            "attribute": "SMS Service",
+            "value": "LICHLP<POLICY NO>"
+          },
+          {
+            "attribute": "Contact Number",
+            "value": "9222492224"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "LIC Agent/Branch",
+            "locations": [
+              "All locations"
+            ],
+            "city": null,
+            "phones": []
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "0222 6827",
+            "9222492224"
+          ],
+          "website": "www.licindia.in",
+          "email": null,
+          "other_cta": "Contact your agent / branch with all requirements for prompt claim settlement"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_012_Bank_of_Baroda": {
+      "image_id": "ad_012_Bank_of_Baroda",
+      "filename": "ad_012_Bank_of_Baroda.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.51,
+      "data": {
+        "category": "Banking",
+        "brand_or_company": "Bank of Baroda",
+        "product_or_service": "Foundation Day Celebration & Customer Services",
+        "headline": "111th Foundation Day - Customer Inspired Banking",
+        "pricing_and_offers": [
+          {
+            "label": "Benefits",
+            "details": "Customer trust and confidence",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Digital banking services",
+          "Supply Chain Finance",
+          "Wealth Management"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Foundation Day",
+            "value": "111th"
+          },
+          {
+            "attribute": "Banking Services",
+            "value": "DigiNext, SupplyChain@inFinance, Wealth"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [],
+          "website": "www.bankofbaroda.com",
+          "email": null,
+          "other_cta": "#BankingOnYourFuture"
+        },
+        "languages": [
+          "en",
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_013_Tanishq_jewellary": {
+      "image_id": "ad_013_Tanishq_jewellary",
+      "filename": "ad_013_Tanishq_jewellary.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 25.74,
+      "data": {
+        "category": "Jewelry",
+        "brand_or_company": "Tanishq",
+        "product_or_service": "Diamond Jewellery",
+        "headline": "THE GREAT DIAMOND SALE UP TO 20% off ON DIAMOND JEWELLERY",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "UP TO 20% off*",
+            "amount": 20.0,
+            "conditions": "Offer valid from 1st Aug to 31st Aug 2019. Not valid on Gold Coins."
+          },
+          {
+            "label": "Additional Discount",
+            "details": "Exclusive preview with 1%* additional discount for all ENCIRCLE members from 25th to 28th of July, 2019.",
+            "amount": 1.0,
+            "conditions": null
+          },
+          {
+            "label": "Bank Offer",
+            "details": "Up to ₹10,000 Additional Instant Discount* on HDFC Bank Debit & Credit Cards",
+            "amount": 10000.0,
+            "conditions": "Offer valid from 1st Aug to 31st Aug 2019. Not valid on Gold Coins."
+          }
+        ],
+        "key_features": [
+          "Diamond Jewellery",
+          "HDFC Bank Debit & Credit Cards Discount"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Discount Type",
+            "value": "Up to 20% off"
+          },
+          {
+            "attribute": "Additional Discount",
+            "value": "1% for ENCIRCLE members"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Tanishq",
+            "locations": [
+              "Durgapur Chowk, North ChaJPUR",
+              "Near Rajiv Raj Bajaj Showroom, Shahdara",
+              "DLF Promenade, Nelson Mandela Road, Vasant Kunj"
+            ],
+            "city": null,
+            "phones": [
+              "22810810/8112",
+              "22810777",
+              "01145424550"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "1800 3010 5002"
+          ],
+          "website": "tanishq.co.in",
+          "email": null,
+          "other_cta": "Buy online at tanishq.co.in"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_014_Kalyan_jewellers": {
+      "image_id": "ad_014_Kalyan_jewellers",
+      "filename": "ad_014_Kalyan_jewellers.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 36.75,
+      "data": {
+        "category": "Jewelry",
+        "brand_or_company": "Kalyan Jewellers",
+        "product_or_service": "Wedding Jewellery (Muhurat)",
+        "headline": "Celebrating the Indian Bride with Muhurat Wedding Jewellery",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "UPTO 30% OFF ON VA FOR GOLD JEWELLERY",
+            "amount": 30.0,
+            "conditions": null
+          },
+          {
+            "label": "Free Gold Coin",
+            "details": "GET 1gm GOLD COIN FREE ON EVERY PURCHASE OF DIAMOND & UNCUT JEWELLERY WORTH ₹50,000",
+            "amount": 1.0,
+            "conditions": "ON EVERY PURCHASE OF DIAMOND & UNCUT JEWELLERY WORTH ₹50,000"
+          },
+          {
+            "label": "Free Gold Coin",
+            "details": "GET 500 mg GOLD COIN FREE ON EVERY PURCHASE OF PRECIOUS & SOLITARE JEWELLERY WORTH ₹50,000",
+            "amount": 500.0,
+            "conditions": "ON EVERY PURCHASE OF PRECIOUS & SOLITARE JEWELLERY WORTH ₹50,000"
+          },
+          {
+            "label": "Free Gold Coin",
+            "details": "GET 400 mg GOLD COIN FREE ON EVERY PURCHASE OF DIAMOND & UNCUT JEWELLERY WORTH ₹25,000",
+            "amount": 400.0,
+            "conditions": "ON EVERY PURCHASE OF DIAMOND & UNCUT JEWELLERY WORTH ₹25,000"
+          },
+          {
+            "label": "Free Service",
+            "details": "FREE JEWELLERY MAINTENANCE (AVAIL FREE CLEANING / POLISHING / PREVENTIVE CHECK OF YOUR OLD NON-KALYAN & KALYAN GOLD JEWELLERY*)",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Indian Bridal Jewellery",
+          "Muhurat Collection"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Purity",
+            "value": "Gold, Diamond"
+          },
+          {
+            "attribute": "Jewellery Type",
+            "value": "Wedding"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Kalyan Jewellers",
+            "locations": [
+              "B 42, IDEA SQUARE, OFF NEW LINK ROAD, OPP. CITY MALL, ANDHERI WEST, MUMBAI"
+            ],
+            "city": "Mumbai",
+            "phones": []
+          },
+          {
+            "name": "Kalyan Jewellers",
+            "locations": [
+              "ALSO AT: BORIVALI - Near Lala Petroleum, Opp. Vijay Sales, SV Road | WASHI - Next To Rachhela Mall, Vashi Station | THANE WEST - Opp. MH High School, Shivaji Road | GHATKOPAR EAST - Jawahar Road"
+            ],
+            "city": null,
+            "phones": []
+          }
+        ],
+        "contacts": {
+          "phones": [],
+          "website": "WWW.KALYANJEWELLERS.NET",
+          "email": null,
+          "other_cta": "OPEN ON ALL SUNDAYS | FOLLOW US ON [social media icons]"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_015_Malabar_gold_and_diamond": {
+      "image_id": "ad_015_Malabar_gold_and_diamond",
+      "filename": "ad_015_Malabar_gold_and_diamond.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 37.1,
+      "data": {
+        "category": "Jewelry",
+        "brand_or_company": "MALABAR GOLD & DIAMONDS",
+        "product_or_service": "Diamond Jewelry",
+        "headline": "DIAMOND FESTIVAL (02nd Jan - 01st Feb)",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "UP TO 20% OFF ON DIAMOND VALUE",
+            "amount": 20.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Complete Transparency",
+          "Assured Lifetime Maintenance",
+          "Zero-deduction Gold Exchange",
+          "100% BIS 916 Hallmarked Gold",
+          "Tested & Certified Diamonds",
+          "Guaranteed Buyback",
+          "Your Jewellery Is Insured",
+          "Karat Analyser Facility",
+          "Responsibly Sourced Gold",
+          "Fair Wages, Benefits And Working Conditions For Karigars"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Purity",
+            "value": "100% BIS 916 Hallmarked Gold"
+          },
+          {
+            "attribute": "Certification",
+            "value": "28 internal quality tests and international lab certifications"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "MALABAR GOLD & DIAMONDS",
+            "locations": [
+              "HIGH STREET, VEGAS MALL, DWARKA"
+            ],
+            "city": "Delhi",
+            "phones": [
+              "011-61340395",
+              "7994435397"
+            ]
+          },
+          {
+            "name": "MALABAR GOLD & DIAMONDS",
+            "locations": [
+              "GAZIABAD"
+            ],
+            "city": null,
+            "phones": [
+              "7994826035",
+              "9811759742"
+            ]
+          },
+          {
+            "name": "MALABAR GOLD & DIAMONDS",
+            "locations": [
+              "KAROL BAGH"
+            ],
+            "city": null,
+            "phones": [
+              "011-39400916"
+            ]
+          },
+          {
+            "name": "MALABAR GOLD & DIAMONDS",
+            "locations": [
+              "GOLD SOUK, GURUGRAM"
+            ],
+            "city": null,
+            "phones": [
+              "0124-2575916"
+            ]
+          },
+          {
+            "name": "MALABAR GOLD & DIAMONDS",
+            "locations": [
+              "PP TRADE CENTER, PITAMPURA"
+            ],
+            "city": null,
+            "phones": [
+              "011-47079196"
+            ]
+          },
+          {
+            "name": "MALABAR GOLD & DIAMONDS",
+            "locations": [
+              "SOUTH EXTENSION, NEW DELHI"
+            ],
+            "city": null,
+            "phones": [
+              "011-40041916"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "011-61340395",
+            "7994435397",
+            "7994826035",
+            "9811759742",
+            "011-39400916",
+            "0124-2575916",
+            "011-47079196",
+            "011-40041916"
+          ],
+          "website": "www.malabargoldanddiamonds.com",
+          "email": null,
+          "other_cta": "To browse our exquisite collection and to buy online visit www.malabargoldanddiamonds.com"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_016_Amul": {
+      "image_id": "ad_016_Amul",
+      "filename": "ad_016_Amul.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 11.1,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Amul",
+        "product_or_service": "DAHI (Yogurt)",
+        "headline": null,
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹65*",
+            "amount": 65.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "goodness with every spoon"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Weight",
+            "value": "1kg"
+          },
+          {
+            "attribute": "Purity",
+            "value": "As per brand claims"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "en",
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_017_Patanjali": {
+      "image_id": "ad_017_Patanjali",
+      "filename": "ad_017_Patanjali.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 18.37,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Patanjali",
+        "product_or_service": "Pure Swadeshi Food Products",
+        "headline": "Bring Home Patanjali's Pure Swadeshi Food, protect your children and family from the poison of adulteration.",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Made from nine kinds of cereals (Navratra Atta)",
+          "High Fibre Sarvgun Sampann Chakki Atta",
+          "Traditional Chakki Atta Fortified with goodness of B12 and Iron",
+          "Unpolished Natural Patanjali Pulses Full of Proteins",
+          "Patanjali Biscuit No Maida No Cholesterol",
+          "Patanjali healthy Atta Noodles made from Atta",
+          "Patanjali Special Chyawanprash made from 51 Natural herbs",
+          "Patanjali Range of Physically Refined & Natural Oils"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Purity",
+            "value": "Pure Swadeshi Food"
+          },
+          {
+            "attribute": "Ingredients",
+            "value": "Nine kinds of cereals, B12 and Iron fortified, Unpolished Pulses, No Maida, Natural herbs"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "18001804018"
+          ],
+          "website": "www.patanjaliurved.org",
+          "email": "feedback@patanjaliurved.org",
+          "other_cta": "Shop Online: www.patanjaliurved.net"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_018_Haldiram": {
+      "image_id": "ad_018_Haldiram",
+      "filename": "ad_018_Haldiram.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 13.76,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Haldiram's",
+        "product_or_service": "Dhanteras Gift Packs (Sweets, Chocolate, Dry Fruit Collections)",
+        "headline": "Millions of Joyful Moments Packed in a box\nHappy Dhanteras",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Premium Chocolate Collection",
+          "Sweets Collection",
+          "Dry Fruit Collection",
+          "Diwali Gift Packs"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Collection Type",
+            "value": "Chocolate, Sweets, Dry Fruit"
+          },
+          {
+            "attribute": "Gift Pack Type",
+            "value": "Dhanteras Special"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [],
+          "website": "www.haldiram.com",
+          "email": null,
+          "other_cta": "Scan this QR code to locate the Nearest Outlet"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_019_Horlicks_nutrition_drink": {
+      "image_id": "ad_019_Horlicks_nutrition_drink",
+      "filename": "ad_019_Horlicks_nutrition_drink.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.21,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Horlicks",
+        "product_or_service": "Chocolate Delight Flavour Horlicks",
+        "headline": "Horlicks increases the Power of Milk*",
+        "pricing_and_offers": [
+          {
+            "label": "Benefits",
+            "details": "100% RDA of Growth Nutrients**",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "TALLER",
+          "STRONGER",
+          "SHARPER"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Flavour",
+            "value": "Chocolate Delight"
+          },
+          {
+            "attribute": "Nutrient Claim",
+            "value": "100% RDA of Growth Nutrients"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_020_Dove_soaps": {
+      "image_id": "ad_020_Dove_soaps",
+      "filename": "ad_020_Dove_soaps.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 13.26,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Dove",
+        "product_or_service": "Nourishing Hand Wash",
+        "headline": "NEW Dove Nourishing Hand Wash for soft and smooth hands with every wash",
+        "pricing_and_offers": [
+          {
+            "label": "Benefits",
+            "details": "Nourishes up to 10 layers deep",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "1/4\" moisturizing cream",
+          "penetrates up to 10 layers deep",
+          "touchably soft smooth hands"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Moisturizing Cream Thickness",
+            "value": "1/4\""
+          },
+          {
+            "attribute": "Penetration Depth",
+            "value": "up to 10 layers"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_021_Samsung_mobiles": {
+      "image_id": "ad_021_Samsung_mobiles",
+      "filename": "ad_021_Samsung_mobiles.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 21.24,
+      "data": {
+        "category": "Electronics",
+        "brand_or_company": "SAMSUNG",
+        "product_or_service": "Mobile Phones",
+        "headline": "SAMSUNG Bestdays Attractive benefits up to ₹9000",
+        "pricing_and_offers": [
+          {
+            "label": "Upgrade Bonus",
+            "details": "₹9000",
+            "amount": 9000.0,
+            "conditions": null
+          },
+          {
+            "label": "Upgrade Bonus",
+            "details": "₹4000",
+            "amount": 4000.0,
+            "conditions": null
+          },
+          {
+            "label": "Upgrade Bonus",
+            "details": "₹9000",
+            "amount": 9000.0,
+            "conditions": null
+          },
+          {
+            "label": "Price",
+            "details": "₹15990",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Price",
+            "details": "₹12990",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "World's 1st Quad Camera (Galaxy A9)",
+          "1TB Ready (Galaxy Note9)",
+          "Triple Camera (Galaxy A7)"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Storage",
+            "value": "1TB"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "SAMSUNG Shop",
+            "locations": [
+              "Online"
+            ],
+            "city": null,
+            "phones": []
+          },
+          {
+            "name": "SAMSUNG e-commerce",
+            "locations": [
+              "Online"
+            ],
+            "city": null,
+            "phones": []
+          }
+        ],
+        "contacts": {
+          "phones": [],
+          "website": "samsung.com/in/offer",
+          "email": null,
+          "other_cta": "SAMSUNG Upgrade"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_022_Apple_mobiles": {
+      "image_id": "ad_022_Apple_mobiles",
+      "filename": "ad_022_Apple_mobiles.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 16.77,
+      "data": {
+        "category": "Electronics",
+        "brand_or_company": "Apple",
+        "product_or_service": "iPhone Xs",
+        "headline": "Welcome to the big screens. iPhone Xs. Available today from 6pm.",
+        "pricing_and_offers": [
+          {
+            "label": "Availability",
+            "details": "Available today from 6pm",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Big screens"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Screen Size",
+            "value": "Not specified in image"
+          },
+          {
+            "attribute": "Model",
+            "value": "iPhone Xs"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "IN-CRAVI",
+            "locations": [
+              "India"
+            ],
+            "city": null,
+            "phones": []
+          },
+          {
+            "name": "RASHI PERIPHERALS",
+            "locations": [
+              "India"
+            ],
+            "city": null,
+            "phones": []
+          },
+          {
+            "name": "Redington",
+            "locations": [
+              "India"
+            ],
+            "city": null,
+            "phones": []
+          }
+        ],
+        "contacts": {
+          "phones": [],
+          "website": "INDIA i STORE.COM",
+          "email": null,
+          "other_cta": "Turn over to know more>"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_023_LG_television": {
+      "image_id": "ad_023_LG_television",
+      "filename": "ad_023_LG_television.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 50.5,
+      "data": {
+        "category": "Electronics",
+        "brand_or_company": "LG",
+        "product_or_service": "TVs (OLED, UHD, SMART, LED)",
+        "headline": "This festive season, bring home the best of TV technology",
+        "pricing_and_offers": [
+          {
+            "label": "Starting Price",
+            "details": "₹174990",
+            "amount": 174990.0,
+            "conditions": null
+          },
+          {
+            "label": "EMI",
+            "details": "₹6599*",
+            "amount": 6599.0,
+            "conditions": null
+          },
+          {
+            "label": "Starting Price",
+            "details": "₹53990",
+            "amount": 53990.0,
+            "conditions": null
+          },
+          {
+            "label": "EMI",
+            "details": "₹2999* onwards",
+            "amount": 2999.0,
+            "conditions": null
+          },
+          {
+            "label": "Starting Price",
+            "details": "₹19990",
+            "amount": 19990.0,
+            "conditions": null
+          },
+          {
+            "label": "EMI",
+            "details": "₹1999* onwards",
+            "amount": 1999.0,
+            "conditions": null
+          },
+          {
+            "label": "Starting Price",
+            "details": "₹8490",
+            "amount": 8490.0,
+            "conditions": null
+          },
+          {
+            "label": "EMI",
+            "details": "₹1999* onwards",
+            "amount": 1999.0,
+            "conditions": null
+          },
+          {
+            "label": "Cashback",
+            "details": "15% Cashback on select debit & credit cards",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "EMI Offer",
+            "details": "We Pay 1 EMI (₹4999/₹6999)",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Sound Bar Offer",
+            "details": "Worth up to ₹2999*",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Jio Device & Data",
+            "details": "Worth ₹3500*",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Warranty",
+            "details": "2 YEAR WARRANTY",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "LG AI TV (Artificial Intelligence)",
+          "Dolby Atmos Sound",
+          "4K Cinema HDR with Dolby Vision",
+          "Alpha 9 Intelligent Processor",
+          "2-Way Bluetooth / Cloud Photos & Videos",
+          "Magic Remote",
+          "IPS Panel",
+          "20W Sound Output",
+          "Live Zoom"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Technology Type",
+            "value": "OLED, UHD, SMART, LED"
+          },
+          {
+            "attribute": "Resolution",
+            "value": "195cm (77), 164cm (65), 139cm (55) for OLED; 164cm (65), 139cm (55), 127cm (50), 123cm (49), 108cm (43) for UHD"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "LG SHOPPE MUMBAI",
+            "locations": [
+              "Borivali (W)",
+              "Chandwarkar Rd",
+              "Dadar (E)",
+              "Nariman Point"
+            ],
+            "city": "Mumbai",
+            "phones": [
+              "982043552",
+              "777777794"
+            ]
+          },
+          {
+            "name": "LG SHOPPE BOISAR",
+            "locations": [
+              "Mira Road",
+              "Golden Nest",
+              "Dombivli (E)"
+            ],
+            "city": "Boisar",
+            "phones": []
+          },
+          {
+            "name": "LG SHOPPE THANE",
+            "locations": [
+              "Navi Mumbai",
+              "Kalyan (W)",
+              "Bhiwandi"
+            ],
+            "city": "Thane",
+            "phones": []
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "1800-315-9999",
+            "757554"
+          ],
+          "website": "www.lg.com/india",
+          "email": "avhad.sukdeo@lg.com",
+          "other_cta": "For bulk orders/inquiries/corporate gifting please contact Mr. Prashant Avhad - email: avhad.sukdeo@lg.com"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_024_Panasonic_television": {
+      "image_id": "ad_024_Panasonic_television",
+      "filename": "ad_024_Panasonic_television.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 29.14,
+      "data": {
+        "category": "Electronics",
+        "brand_or_company": "Panasonic",
+        "product_or_service": "6 Speed Inverter Refrigerators",
+        "headline": "TRUST OF 8 CRORE* CUSTOMERS NOW IN INDIA Presenting 6 Speed Inverter Refrigerators powered by ECONAVI Technology",
+        "pricing_and_offers": [
+          {
+            "label": "Electricity Savings",
+            "details": "SAVE UP TO 49% + 10% ON ELECTRICITY CONSUMPTION",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Frost Free Range",
+            "details": "FROST FREE RANGE AVAILABLE FROM 2961 - 6021",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "ECONAVI Technology",
+          "Intelligent Eco Sensors (7 sensors)",
+          "Inverter Signal for optimal power usage",
+          "2 Years Limited Warranty",
+          "20% Additional Jumbo Storage",
+          "12 Years Compressor Warranty",
+          "99.9% Bacteria Deactivation"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Technology",
+            "value": "ECONAVI Technology"
+          },
+          {
+            "attribute": "Warranty",
+            "value": "12 Years Compressor Warranty, 2 Years Limited Warranty"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Panasonic Branch Office Delhi",
+            "locations": [
+              "Ambience Island, NH-8, Gurugram"
+            ],
+            "city": "Delhi",
+            "phones": [
+              "+91-124-4871300"
+            ]
+          },
+          {
+            "name": "Panasonic Authorized Dealers",
+            "locations": [
+              "North Delhi",
+              "West Delhi",
+              "East Delhi",
+              "South Delhi",
+              "Gurgaon",
+              "Noida",
+              "Faridabad",
+              "Delhi NCR"
+            ],
+            "city": null,
+            "phones": []
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "+91-124-4871300",
+            "+91-124-4871333"
+          ],
+          "website": "www.panasonic.in",
+          "email": "help@panasonic.com",
+          "other_cta": "REGISTERED OFFICE: Panasonic India Pvt. Ltd., 12th Floor, Ambience Tower, Ambience Island, NH-8 Gurugram-122002, Haryana, India"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_025_SpiceJet": {
+      "image_id": "ad_025_SpiceJet",
+      "filename": "ad_025_SpiceJet.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 21.38,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "SpiceJet",
+        "product_or_service": "Flight services",
+        "headline": "INTRODUCING DAILY DIRECT RETURN FLIGHT FROM BENGALURU TO MUMBAI & DELHI. FLY AT AMAZINGLY LOW FARES.",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹2892",
+            "amount": 2892.0,
+            "conditions": null
+          },
+          {
+            "label": "Price",
+            "details": "₹2845",
+            "amount": 2845.0,
+            "conditions": null
+          },
+          {
+            "label": "Price",
+            "details": "₹3770",
+            "amount": 3770.0,
+            "conditions": null
+          },
+          {
+            "label": "Price",
+            "details": "₹3500",
+            "amount": 3500.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Daily direct return flights",
+          "Low fares"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Flight Route",
+            "value": "Bengaluru-Mumbai, Mumbai-Bengaluru, Bengaluru-Delhi, Delhi-Bengaluru"
+          },
+          {
+            "attribute": "Terminal",
+            "value": "T2 (for some routes)"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "+91 9871803333"
+          ],
+          "website": "www.spicejet.com",
+          "email": null,
+          "other_cta": "For bookings, log on to www.spicejet.com or call +91 9871803333."
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_026_Indigo": {
+      "image_id": "ad_026_Indigo",
+      "filename": "ad_026_Indigo.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 26.42,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "IndiGo",
+        "product_or_service": "Flights to Sri Lanka and Vijayawada",
+        "headline": "India Tour of Sri Lanka: Introducing two daily, non-stop flights to Colombo.",
+        "pricing_and_offers": [
+          {
+            "label": "Fare",
+            "details": "₹3599",
+            "amount": 3599.0,
+            "conditions": "Lowest all inclusive one-way fare on limited seats"
+          },
+          {
+            "label": "Fare",
+            "details": "₹5499",
+            "amount": 5499.0,
+            "conditions": null
+          },
+          {
+            "label": "Fare",
+            "details": "₹1099",
+            "amount": 1099.0,
+            "conditions": null
+          },
+          {
+            "label": "Fare",
+            "details": "₹999",
+            "amount": 999.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Two daily non-stop flights to Colombo",
+          "Flights to and from Vijayawada"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Departure Time",
+            "value": "06:55, 12:00"
+          },
+          {
+            "attribute": "Arrival Time",
+            "value": "08:15, 13:25"
+          },
+          {
+            "attribute": "Departure Time",
+            "value": "09:15, 20:30"
+          },
+          {
+            "attribute": "Arrival Time",
+            "value": "11:00, 21:55"
+          },
+          {
+            "attribute": "Departure Time",
+            "value": "16:55"
+          },
+          {
+            "attribute": "Arrival Time",
+            "value": "18:25"
+          },
+          {
+            "attribute": "Departure Time",
+            "value": "15:15"
+          },
+          {
+            "attribute": "Arrival Time",
+            "value": "16:35"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "IndiGo",
+            "locations": [
+              "Colombo"
+            ],
+            "city": null,
+            "phones": []
+          }
+        ],
+        "contacts": {
+          "phones": [],
+          "website": "golndiGo.in",
+          "email": null,
+          "other_cta": "For bookings, please log on to our website or visit your travel agent."
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_027_Make_MyTrip": {
+      "image_id": "ad_027_Make_MyTrip",
+      "filename": "ad_027_Make_MyTrip.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 35.43,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "make my trip",
+        "product_or_service": "Europe travel packages and other destinations",
+        "headline": "THIS SUMMER, HEAD TO EUROPE",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "UP TO ₹60,000 OFF* ON EUROPE PACKAGES",
+            "amount": 60000.0,
+            "conditions": "*"
+          },
+          {
+            "label": "Starting Price",
+            "details": "Bali, 4N/5D Starting at ₹44,000 (Free 1+Hour Spa | Private Transfers)",
+            "amount": 44000.0,
+            "conditions": null
+          },
+          {
+            "label": "Starting Price",
+            "details": "Singapore, 4N/5D Starting at ₹52,000 (Private Transfers Included)",
+            "amount": 52000.0,
+            "conditions": null
+          },
+          {
+            "label": "Starting Price",
+            "details": "Bhutan, 6N/7D Starting at ₹39,999 (Indian Meals | Brewery Tour)",
+            "amount": 39999.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "INDIAN MEALS",
+          "MULTILINGUAL TOUR MANAGER",
+          "VISA PROTECTION PLAN*"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Package Type",
+            "value": "Europe Packages, Bali, Singapore, Bhutan"
+          },
+          {
+            "attribute": "Inclusions",
+            "value": "Indian Meals, Private Transfers, Brewery Tour"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "make my trip store",
+            "locations": [
+              "G-3, Zehra Manzil 91, Lady Jamshedji Road, Mahim West, Mumbai - 400016"
+            ],
+            "city": "Mumbai",
+            "phones": [
+              "1800 102 7812/1800 103 0080"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "1800 102 7812/1800 103 0080",
+            "Borivali: 022-28900840",
+            "Mumbai: 022-28736001/2",
+            "Navi Mumbai: 022-66736590-5",
+            "Opera House: 022-23802100/022-23803100",
+            "Chembur: 992003366",
+            "Thane: 022-25478031/33/77/18914702-07",
+            "Ulhassar: 937007222/992326830",
+            "Vira: 9822865995"
+          ],
+          "website": null,
+          "email": "franchiseenquiry@makemytrip.com",
+          "other_cta": "WALK-IN TO YOUR NEAREST MAKE MY TRIP STORE & GRAB EXCITING DEALS!"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_028_Fabindia": {
+      "image_id": "ad_028_Fabindia",
+      "filename": "ad_028_Fabindia.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 14.59,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Fabindia",
+        "product_or_service": "Traditional Indian attire (sarees, dresses)",
+        "headline": "Rajwada: Celebrating Traditions",
+        "pricing_and_offers": [
+          {
+            "label": "Call for shopping",
+            "details": "Call 1800-100-1212 and shop in comfort at Home",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Celebrating Indian traditions",
+          "Safety measures as per WHO guidelines"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Brand Heritage",
+            "value": "Established since 1972 (Fabindia 50 Years)"
+          },
+          {
+            "attribute": "Product Type",
+            "value": "Traditional Indian wear"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "1800-100-1212"
+          ],
+          "website": "fabindia.com",
+          "email": null,
+          "other_cta": "Scan to download app"
+        },
+        "languages": [
+          "en",
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_029_Biba": {
+      "image_id": "ad_029_Biba",
+      "filename": "ad_029_Biba.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 50.21,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "BIBA",
+        "product_or_service": "Salwar Kameez Dupattas, Mix 'N' Match Kurtas, Unstitched Fabrics",
+        "headline": "The Awadhi Anarkali revival | Who's that girl?",
+        "pricing_and_offers": [],
+        "key_features": [
+          "BIBA Jewellery",
+          "BIBA Girls"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Product Type",
+            "value": "Salwar Kameez Dupattas, Mix 'N' Match Kurtas, Unstitched Fabrics"
+          },
+          {
+            "attribute": "Available At",
+            "value": "T1 Terminal, Chhatrapati Shivaji Domestic Airport, Santacruz (E); Seafood Grand Central Mall, Navi Mumbai; T2 Terminal, Level 4, Chhatrapati Shivaji International Airport; Xpera Mall, Opp. Lodha World School, Kalyan Shil Road; Palava City; Viviana Mall, Thane (West); Kems Corner; Shimpoli Road, Borivali (W); Wodehouse Road, Colaba; Inorbit Mall, Malad (W); Inorbit, Vashi; R Mall, Thane (W); Infiniti Mall, Andheri (W); Oberoi Mall, Goregaon (E); City Mall, Ghatkopar (W); Phoenix Market City, Kamani Kurla; Phoenix Galleria, Lower Parel; Infiniti, Malad; Maxus Mall, GF, Bhayandar (W); Raghulee Mall, Kandivali (W); Huma Adlabs - Kanjuramarg (W); Exclusive BIBA Girls Outlets at Phoenix Market City, Kurla"
+          },
+          {
+            "attribute": "Online Availability",
+            "value": "Shop online 24 x 7 at www.biba.in"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "BIBA",
+            "locations": [
+              "T1 Terminal, Chhatrapati Shivaji Domestic Airport, Santacruz (E)",
+              "Seafood Grand Central Mall, Navi Mumbai",
+              "T2 Terminal, Level 4, Chhatrapati Shivaji International Airport",
+              "Xpera Mall, Opp. Lodha World School, Kalyan Shil Road",
+              "Palava City",
+              "Viviana Mall, Thane (West)",
+              "Kems Corner",
+              "Shimpoli Road, Borivali (W)",
+              "Wodehouse Road, Colaba",
+              "Inorbit Mall, Malad (W)",
+              "Inorbit, Vashi",
+              "R Mall, Thane (W)",
+              "Infiniti Mall, Andheri (W)",
+              "Oberoi Mall, Goregaon (E)",
+              "City Mall, Ghatkopar (W)",
+              "Phoenix Market City, Kamani Kurla",
+              "Phoenix Galleria, Lower Parel",
+              "Infiniti, Malad",
+              "Maxus Mall, GF, Bhayandar (W)",
+              "Raghulee Mall, Kandivali (W)",
+              "Huma Adlabs - Kanjuramarg (W)",
+              "Exclusive BIBA Girls Outlets at Phoenix Market City, Kurla"
+            ],
+            "city": null,
+            "phones": [
+              "6695556",
+              "61701475",
+              "23894184",
+              "28984260",
+              "66103530",
+              "62361551",
+              "27813347",
+              "2589062",
+              "26324416",
+              "67702137",
+              "61801219",
+              "62371333",
+              "28993619",
+              "28046087",
+              "28061688",
+              "25790970",
+              "62326571",
+              "62378404"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "6695556",
+            "61701475",
+            "23894184",
+            "28984260",
+            "66103530",
+            "62361551",
+            "27813347",
+            "2589062",
+            "26324416",
+            "67702137",
+            "61801219",
+            "62371333",
+            "28993619",
+            "28046087",
+            "28061688",
+            "25790970",
+            "62326571",
+            "62378404"
+          ],
+          "website": "www.biba.in",
+          "email": null,
+          "other_cta": "Connect with us on facebook.com/BibaIndia"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_030_Raymonds": {
+      "image_id": "ad_030_Raymonds",
+      "filename": "ad_030_Raymonds.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 28.84,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "The Raymond Shop",
+        "product_or_service": "Ready-made garments",
+        "headline": "END OF SEASON SALE BUY THREE GET 40% OFF",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "BUY THREE GET 40% OFF",
+            "amount": 40.0,
+            "conditions": "OFFER ONLY ON READYMADE GARMENTS"
+          }
+        ],
+        "key_features": [
+          "End of Season Sale",
+          "Ready-made garments"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Offer Type",
+            "value": "Buy Three Get 40% Off"
+          },
+          {
+            "attribute": "Product Category",
+            "value": "Ready-made Garments"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "The Raymond Shop",
+            "locations": [
+              "Ballard Estate: Hind House, N. M. Road | Warden Road: Opp Breach Candy Hospital | Lower Parel: Phoenix Mill Compound | Dadar: Khodadad Circle | Kurla: Phoenix Market City | Ghatkopar - [E]: Vallabh Baug Lane | Ghatkopar - [W]: R City Mall | Mulund - [W]: J. N. Road | Khar - [W]: Linking Road | Santacruz - [W]: Station Road | Andheri - [W]: Infiniti Mall | S.V. Road | Goregaon - [E]: Oberoi Mall | Malad - [W]: Inorbit Mall | S.V. Road | Kandivali - [W]: S.V. Road | Borivali - [W]: S.V. Road | Mira Road [E]: Mira Bhayander Main Road | Sheetal Nagar | Vasa - [W]: Station Road, Thane [W]: Naupada | Pokhran Road No 1, Jekergam | Talapai | Kalyn - [W]: Zojwala Complex | Dombivali - [E]: Manpada Road | Ulhasnagar-3: Shanti Nagar Vashi: Sec 17, Mahatma Phule Bhavan | Inorbit Mall | Kharghar: Sector No. 21 | Kamotche: Sector 35. Boisar: Navapur Road | Panvel: Opp. MTNL Exchange | Bhiwandi: Near Payal Talkies | Nallasopara [E]: Achole Road"
+            ],
+            "city": null,
+            "phones": []
+          }
+        ],
+        "contacts": {
+          "phones": [],
+          "website": null,
+          "email": null,
+          "other_cta": "5% EXTRA CASHBACK with SBI Card"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_031_Rashtriya_Sahara": {
+      "image_id": "ad_031_Rashtriya_Sahara",
+      "filename": "ad_031_Rashtriya_Sahara.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 14.85,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "HILANS",
+        "product_or_service": "Organic Himalayan Products (Grains, Legumes)",
+        "headline": "HILANS - Pure Himalayan Organic Products for Farmers' Success and Health",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Pure Himalayan products",
+          "Supports farmers' success and health",
+          "Authentic Himalayan produce"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Purity",
+            "value": "Himalayan origin"
+          },
+          {
+            "attribute": "Product Type",
+            "value": "Grains, Legumes"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "HILANS",
+            "locations": [
+              "216, Parditwadi, Feja-2 Dheradun"
+            ],
+            "city": "Dheradun",
+            "phones": [
+              "+91 9275212121"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "+91 9275212121"
+          ],
+          "website": "www.hilans.org",
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_032_Hari_Bhoomi": {
+      "image_id": "ad_032_Hari_Bhoomi",
+      "filename": "ad_032_Hari_Bhoomi.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.7,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": "Dr. Juneja's",
+        "product_or_service": "Accumass",
+        "headline": "वज़न बढ़ाए आपरिशारस जगते (Weight Gain Supplement)",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹100",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Weight gain supplement",
+          "Ayurvedic formula"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Purity",
+            "value": "Ayurvedic"
+          },
+          {
+            "attribute": "Form",
+            "value": "Capsule"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "85568 09369"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "24x7 Helpline"
+        },
+        "languages": [
+          "hi",
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_033_Tarun_Bharat": {
+      "image_id": "ad_033_Tarun_Bharat",
+      "filename": "ad_033_Tarun_Bharat.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 20.11,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "DNS BANK",
+        "product_or_service": "Savings Scheme (Vaisakhi Dev Yojana)",
+        "headline": "Vaisakhi Dev Yojana - ₹800 Savings Scheme",
+        "pricing_and_offers": [
+          {
+            "label": "Interest Rate",
+            "details": "₹ 94 Lakh Paise Interest Rate",
+            "amount": null,
+            "conditions": "For savings account"
+          },
+          {
+            "label": "Interest Rate",
+            "details": "6.24% (for general public)",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Interest Rate",
+            "details": "6.20% (for all savings accounts)",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Interest Rate",
+            "details": "6.44% (for women savings accounts)",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "₹800 Savings Scheme",
+          "Government-backed scheme"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Scheme Type",
+            "value": "Savings Account"
+          },
+          {
+            "attribute": "Interest Rate",
+            "value": "6.24% (general public)"
+          },
+          {
+            "attribute": "Interest Rate",
+            "value": "6.20% (all savings accounts)"
+          },
+          {
+            "attribute": "Interest Rate",
+            "value": "6.44% (women savings accounts)"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "1800 233 1700"
+          ],
+          "website": "www.dnsbank.in",
+          "email": "enquiry@dnsb.co.in",
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_034_Saamna": {
+      "image_id": "ad_034_Saamna",
+      "filename": "ad_034_Saamna.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 18.02,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": "Dr. Ortho",
+        "product_or_service": "Dr. Ortho Strong Oil (120ml)",
+        "headline": "60% OFF on Dr. Ortho Strong Oil for Father's Day",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "60% OFF*",
+            "amount": 60.0,
+            "conditions": "M.R.P. ₹450.00 | Pay Only ₹180.00"
+          },
+          {
+            "label": "Price",
+            "details": "₹180.00",
+            "amount": 180.0,
+            "conditions": "No Shipping Charges*"
+          }
+        ],
+        "key_features": [
+          "Helpful in Painful Conditions"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Purity",
+            "value": "As per product description"
+          },
+          {
+            "attribute": "Size",
+            "value": "120ml"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Divisa Store",
+            "locations": [
+              "All medical & general stores"
+            ],
+            "city": null,
+            "phones": []
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "7876977777"
+          ],
+          "website": "www.drorthoil.com",
+          "email": null,
+          "other_cta": "Available at all medical & general stores"
+        },
+        "languages": [
+          "hi",
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_035_Dainik_Statesman": {
+      "image_id": "ad_035_Dainik_Statesman",
+      "filename": "ad_035_Dainik_Statesman.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 38.22,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Priya Gopal Bishwajit",
+        "product_or_service": "Saree",
+        "headline": "Bhagwa Sari (Purple)",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹7044092000",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Price",
+            "details": "₹8420070959",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Price",
+            "details": "₹7044088408",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Price",
+            "details": "₹7044062000",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Price",
+            "details": "₹8101707778",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Price",
+            "details": "₹8373052387",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Purple color",
+          "Gold border design",
+          "Traditional Indian attire"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Fabric Type",
+            "value": "Sari"
+          },
+          {
+            "attribute": "Design",
+            "value": "Gold border with intricate patterns"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Priya Gopal Bishwajit",
+            "locations": [
+              "7, Kolkata"
+            ],
+            "city": "Kolkata",
+            "phones": [
+              "7044092000"
+            ]
+          },
+          {
+            "name": "Priya Gopal Bishwajit",
+            "locations": [
+              "7, Kolkata"
+            ],
+            "city": "Kolkata",
+            "phones": [
+              "8420070959"
+            ]
+          },
+          {
+            "name": "Priya Gopal Bishwajit",
+            "locations": [
+              "113/1A, Rastarikha Road, Kolkata-743145"
+            ],
+            "city": "Kolkata",
+            "phones": [
+              "7044088408"
+            ]
+          },
+          {
+            "name": "Priya Gopal Bishwajit",
+            "locations": [
+              "69/1B, Bagbazar Road, Kolkata-743145"
+            ],
+            "city": "Kolkata",
+            "phones": [
+              "7044062000"
+            ]
+          },
+          {
+            "name": "Priya Gopal Bishwajit",
+            "locations": [
+              "56, Jibon Road, Kolkata-743145"
+            ],
+            "city": "Kolkata",
+            "phones": [
+              "8101707778"
+            ]
+          },
+          {
+            "name": "Priya Gopal Bishwajit",
+            "locations": [
+              "16/35, Azar. An. Cotters Road, Kolkata-743145"
+            ],
+            "city": "Kolkata",
+            "phones": [
+              "8373052387"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "7044088408"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "WhatsApp / Video Call - এর মাধ্যমে কোনো কথা করতে পারেন"
+        },
+        "languages": [
+          "bn"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_036_Sangbag_Pratidin": {
+      "image_id": "ad_036_Sangbag_Pratidin",
+      "filename": "ad_036_Sangbag_Pratidin.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 13.27,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Godrej",
+        "product_or_service": "Shampoo Hair Colour (5ml+5ml)",
+        "headline": "Godrej Selfie Shampoo Hair Colour for Short Hair",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹15",
+            "amount": 15.0,
+            "conditions": "5ml+5ml"
+          }
+        ],
+        "key_features": [
+          "No ammonia",
+          "Natural black 1",
+          "5 minutes",
+          "Enriched with aloe vera"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Volume",
+            "value": "5ml+5ml"
+          },
+          {
+            "attribute": "Hair Type",
+            "value": "Short hair"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [],
+          "website": "https://instadownload.app/",
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "en",
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_037_Dinamani": {
+      "image_id": "ad_037_Dinamani",
+      "filename": "ad_037_Dinamani.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 13.44,
+      "data": {
+        "category": "Jobs",
+        "brand_or_company": "Chemical Corporation (from website URL)",
+        "product_or_service": null,
+        "headline": "2023-24 Recruitment for Chemical Corporation - 30 vacancies",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "5% on application fee",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "5% discount on application fee"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Recruitment Year",
+            "value": "2023-24"
+          },
+          {
+            "attribute": "Number of Vacancies",
+            "value": "30"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [],
+          "website": "www.chemicorporation.gov.in",
+          "email": null,
+          "other_cta": "Scan QR code for application"
+        },
+        "languages": [
+          "ta"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_038_Hindu_Tamil": {
+      "image_id": "ad_038_Hindu_Tamil",
+      "filename": "ad_038_Hindu_Tamil.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 45.29,
+      "data": {
+        "category": "Automobiles",
+        "brand_or_company": "NISSAN",
+        "product_or_service": "NISSAN MAGNITE",
+        "headline": "INSPIRED BY LOVE. MADE TO CELEBRATE.",
+        "pricing_and_offers": [
+          {
+            "label": "Starting Price",
+            "details": "RANGE STARTS @ ₹5.97 LAKH",
+            "amount": 597000.0,
+            "conditions": null
+          },
+          {
+            "label": "Starting Price",
+            "details": "CVT STARTS @ ₹9.75 LAKH",
+            "amount": 975000.0,
+            "conditions": null
+          },
+          {
+            "label": "Benefits",
+            "details": "BUY BEFORE PRICE INCREASE, AVAIL NEW YEAR BENEFITS UP TO ₹72 000*",
+            "amount": 72000.0,
+            "conditions": null
+          },
+          {
+            "label": "Rate of Interest",
+            "details": "RATE OF INTEREST 6.99%",
+            "amount": 6.99,
+            "conditions": null
+          },
+          {
+            "label": "Benefits",
+            "details": "2 YEARS ZERO MAINTENANCE + EXCHANGE BONUS + CORPORATE OFFER + LOYALTY BONUS + CAR ACCESSORIES + ONLINE BOOKING BONUS",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "First-in-segment Around View Monitor",
+          "Wireless Connectivity to Android Auto & Apple CarPlay",
+          "First-in-segment 17.78 cm TFT Advanced Drive Assist Display",
+          "4 Star Safety Rating By Global NCAP"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Safety Rating",
+            "value": "4 Star by Global NCAP"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "TAMIL NADU: CHENNAI: AMBATTUR: LAKSHMI NISSAN",
+            "locations": [
+              "Chennai"
+            ],
+            "city": "Chennai",
+            "phones": [
+              "973154339"
+            ]
+          },
+          {
+            "name": "NANDANAM: AUTORELLI NISSAN",
+            "locations": [
+              "Nandanam"
+            ],
+            "city": null,
+            "phones": [
+              "973174596"
+            ]
+          },
+          {
+            "name": "OMR: AUTORELLI NISSAN",
+            "locations": [
+              "OMR"
+            ],
+            "city": null,
+            "phones": [
+              "973174783"
+            ]
+          },
+          {
+            "name": "VELACHERY: LAKSHMI NISSAN",
+            "locations": [
+              "Velacheri"
+            ],
+            "city": null,
+            "phones": [
+              "973154608"
+            ]
+          },
+          {
+            "name": "CUDALORE: VIGNESH NISSAN",
+            "locations": [
+              "Cudalore"
+            ],
+            "city": null,
+            "phones": [
+              "973159889"
+            ]
+          },
+          {
+            "name": "THANJAVUR: AHASH NISSAN",
+            "locations": [
+              "Thanjavur"
+            ],
+            "city": null,
+            "phones": [
+              "973162573"
+            ]
+          },
+          {
+            "name": "VELLORE: JUBILANT NISSAN",
+            "locations": [
+              "Vellore"
+            ],
+            "city": null,
+            "phones": [
+              "973153648"
+            ]
+          },
+          {
+            "name": "COIMBATORE: EVM NISSAN",
+            "locations": [
+              "Coimbatore"
+            ],
+            "city": null,
+            "phones": [
+              "9778421500, 9778419138"
+            ]
+          },
+          {
+            "name": "ANDAMAN & NICOBAR: PORT BLAIR: RIO NISSAN",
+            "locations": [
+              "Port Blair"
+            ],
+            "city": null,
+            "phones": [
+              "973160624"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "8879509258"
+          ],
+          "website": "www.nissan.in",
+          "email": "dealer.management@nissan.in",
+          "other_cta": "Book Nissan Magnite | /NissanIndia | /Nissan_India"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_039_Nava_Telangana": {
+      "image_id": "ad_039_Nava_Telangana",
+      "filename": "ad_039_Nava_Telangana.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.57,
+      "data": {
+        "category": "Jewelry",
+        "brand_or_company": "MALABAR GOLD & DIAMONDS",
+        "product_or_service": "Gold and Diamond Jewelry",
+        "headline": "CELEBRATE THE BEAUTY OF LIFE",
+        "pricing_and_offers": [
+          {
+            "label": "Anniversary Offer",
+            "details": "30 years of excellence in jewelry craftsmanship",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Gold and Diamond Jewelry",
+          "Traditional Indian Design"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Purity",
+            "value": "Not specified"
+          },
+          {
+            "attribute": "Design Style",
+            "value": "Traditional Indian"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_040_V6_Velugu": {
+      "image_id": "ad_040_V6_Velugu",
+      "filename": "ad_040_V6_Velugu.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 16.16,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": null,
+        "product_or_service": "Maternity & Gynecology Services (24/7 Emergency)",
+        "headline": "Happy Doctor's Day - Maternity & Gynecology Care",
+        "pricing_and_offers": [],
+        "key_features": [
+          "24/7 Emergency Services",
+          "Intensivity Specialist, Gynaecologist",
+          "Dip in Diabetology"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Specialization",
+            "value": "Maternity & Gynecology"
+          },
+          {
+            "attribute": "Emergency Service",
+            "value": "24/7"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Dr. A.Swaroopaa Rani",
+            "locations": [
+              "Not specified"
+            ],
+            "city": null,
+            "phones": [
+              "08736-258399"
+            ]
+          },
+          {
+            "name": "Dr. J.Sarath Babu",
+            "locations": [
+              "Not specified"
+            ],
+            "city": null,
+            "phones": [
+              "94938 85399"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "08736-258399",
+            "94938 85399"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "te"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_041_Prajavani": {
+      "image_id": "ad_041_Prajavani",
+      "filename": "ad_041_Prajavani.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 13.73,
+      "data": {
+        "category": "Jewelry",
+        "brand_or_company": "TANISHQ",
+        "product_or_service": "Earrings",
+        "headline": "Stunning every Ear",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "20% off",
+            "amount": null,
+            "conditions": "Limited Period Offer"
+          },
+          {
+            "label": "Benefits",
+            "details": "100% Pure Gold",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Gold Earrings",
+          "Stunning Design"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Purity",
+            "value": "100% Pure Gold"
+          },
+          {
+            "attribute": "Design",
+            "value": "Traditional"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "6368920017"
+          ],
+          "website": "tanishq.co.in",
+          "email": null,
+          "other_cta": "To locate your nearest store and know more"
+        },
+        "languages": [
+          "en",
+          "te"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_042_Udayavani": {
+      "image_id": "ad_042_Udayavani",
+      "filename": "ad_042_Udayavani.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.5,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": "Sachisahelli",
+        "product_or_service": "Medicine (likely for health benefits)",
+        "headline": null,
+        "pricing_and_offers": [
+          {
+            "label": "Benefits",
+            "details": "67 Benefits as per text",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Helps in: Hair, Skin, Body, etc."
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Purity",
+            "value": "Not explicitly stated"
+          },
+          {
+            "attribute": "Brand Trust",
+            "value": "Trusted Brand"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "77106 44444"
+          ],
+          "website": "www.sachisahelli.in",
+          "email": null,
+          "other_cta": "Available at all medical & general stores"
+        },
+        "languages": [
+          "en",
+          "kn"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_043_Mathrubhumi": {
+      "image_id": "ad_043_Mathrubhumi",
+      "filename": "ad_043_Mathrubhumi.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 21.55,
+      "data": {
+        "category": "Education",
+        "brand_or_company": null,
+        "product_or_service": "Study in Hungary via Hungarian Universities (Bachelor's and Master's courses)",
+        "headline": "PRESENTING PRESTIGIOUS HUNGARIAN UNIVERSITIES BOTH IN BACHELOR'S AND MASTER'S COURSES",
+        "pricing_and_offers": [
+          {
+            "label": "Salary",
+            "details": "JOB PLACEMENT IN UK & GERMANY SALARY 4.5 LAKHS",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Fees",
+            "details": "AFFORDABLE FEES",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "ENGINEERING",
+          "BUSINESS MANAGEMENT",
+          "NURSING AND MIDWIFERY",
+          "LIMITED SEAT",
+          "NO IELTS"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Course Type",
+            "value": "Bachelor's and Master's"
+          },
+          {
+            "attribute": "Job Placement Countries",
+            "value": "UK & Germany"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "South Indian International Education",
+            "locations": [
+              "KOTTAYAM",
+              "PALA",
+              "PATHANAMTHITTA"
+            ],
+            "city": null,
+            "phones": [
+              "+91 9895040797",
+              "+91 7012270871",
+              "+91 8075888145"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "+91 9895040797",
+            "+91 7012270871",
+            "+91 8075888145"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "en",
+          "ta"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_044_Malyalam_Manorama": {
+      "image_id": "ad_044_Malyalam_Manorama",
+      "filename": "ad_044_Malyalam_Manorama.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 19.25,
+      "data": {
+        "category": "Electronics",
+        "brand_or_company": "Mr. Butler",
+        "product_or_service": "SODAMAKER",
+        "headline": null,
+        "pricing_and_offers": [
+          {
+            "label": "Benefits",
+            "details": "No additional cost for making soda",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Bubbles",
+          "Soda Maker"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Type",
+            "value": "Soda Maker"
+          },
+          {
+            "attribute": "Brand",
+            "value": "Mr. Butler"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "",
+            "locations": [
+              "THIRUVANANTHAPURAM, KOLLAM",
+              "PATHANAMTHITTA, ALAPPUZHA",
+              "KOTTAYAM",
+              "IDUKKI, ERNAKULAM",
+              "THRISSUR, PALAKKAD",
+              "MALAPPURAM, WAYANAD",
+              "KANNUR, KASARGOD",
+              "COIMBATORE"
+            ],
+            "city": null,
+            "phones": [
+              "98957 07527",
+              "98955 48786",
+              "98959 57361",
+              "98957 09171",
+              "81228 55762"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "1800 103 1557 (Toll Free)"
+          ],
+          "website": "www.mrbutlers.com",
+          "email": null,
+          "other_cta": "View Demo"
+        },
+        "languages": [
+          "ta"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_045_Mid_Day_Paper": {
+      "image_id": "ad_045_Mid_Day_Paper",
+      "filename": "ad_045_Mid_Day_Paper.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 15.04,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Exo",
+        "product_or_service": "Anti-bacterial dishwashing soap (Round monthly pack)",
+        "headline": "बर्तनों को सिर्फ साफ नहीं, सैनिटाइज़ भी करें.",
+        "pricing_and_offers": [
+          {
+            "label": "Free Offer",
+            "details": "FREE ₹10/-",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Anti-bacterial",
+          "Ginger Twist",
+          "Power of CYCLOZAN"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Pack Type",
+            "value": "Monthly Pack"
+          },
+          {
+            "attribute": "Bacteria Kill Time",
+            "value": "10 seconds"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_046_Divya_Bhaskar": {
+      "image_id": "ad_046_Divya_Bhaskar",
+      "filename": "ad_046_Divya_Bhaskar.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 14.97,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "SBI",
+        "product_or_service": "Fixed Deposit (FD) Interest Rates",
+        "headline": "7.90% for Senior Citizens, 7.40% for General Public",
+        "pricing_and_offers": [
+          {
+            "label": "Interest Rate",
+            "details": "7.90%*",
+            "amount": 7.9,
+            "conditions": "For senior citizens (60+ years)"
+          },
+          {
+            "label": "Interest Rate",
+            "details": "7.40%",
+            "amount": 7.4,
+            "conditions": "For general public"
+          }
+        ],
+        "key_features": [
+          "Minimum deposit: ₹15"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Deposit Amount",
+            "value": "₹15"
+          },
+          {
+            "attribute": "Interest Type",
+            "value": "Fixed Deposit"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "1800 1234"
+          ],
+          "website": "bank.sbi",
+          "email": null,
+          "other_cta": "Call for details"
+        },
+        "languages": [
+          "hi",
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_047_Dharitri": {
+      "image_id": "ad_047_Dharitri",
+      "filename": "ad_047_Dharitri.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 15.58,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": "Sachisaheli",
+        "product_or_service": "Ayurvedic Medicine (Sachisaheli)",
+        "headline": "Helps in: Digestion, Immunity, Energy & Vitality",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹19.50/40ml",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Ayurvedic",
+          "Helps in Digestion",
+          "Boosts Immunity",
+          "Enhances Energy"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Purity",
+            "value": "67% Ayurvedic Ingredients"
+          },
+          {
+            "attribute": "Batch Date",
+            "value": "Not visible"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Sachisaheli",
+            "locations": [
+              "All medical & general stores"
+            ],
+            "city": null,
+            "phones": []
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "77106 44444"
+          ],
+          "website": "www.sachisaheli.in",
+          "email": null,
+          "other_cta": "24x7 Helpline"
+        },
+        "languages": [
+          "hi",
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_048_Sambad": {
+      "image_id": "ad_048_Sambad",
+      "filename": "ad_048_Sambad.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 11.41,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": "Sibastaka Chuma",
+        "product_or_service": "Digestive Health Supplement",
+        "headline": "Fast Relief from Acidity, Indigestion & Constipation",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Relief from acidity",
+          "Indigestion",
+          "Constipation"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Purpose",
+            "value": "Digestive health"
+          },
+          {
+            "attribute": "Target Symptoms",
+            "value": "Acidity, Indigestion & Constipation"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "9437883226"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_049_Inquilab": {
+      "image_id": "ad_049_Inquilab",
+      "filename": "ad_049_Inquilab.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 15.39,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "FASHION FACTORY",
+        "product_or_service": "Apparel, Luggage and Footwear",
+        "headline": "NO CONDITIONS SALE Till 16th April",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "FLAT 50% OFF",
+            "amount": 50.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "All Apparels",
+          "Luggage",
+          "Footwear"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Sale Period",
+            "value": "Till 16th April"
+          },
+          {
+            "attribute": "Discount Type",
+            "value": "Flat"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "FASHION FACTORY",
+            "locations": [
+              "EASANT PARK, JULEELA MALL"
+            ],
+            "city": null,
+            "phones": [
+              "9607655"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "9607655"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "ad_050_Assamese_The_Sangai_Express": {
+      "image_id": "ad_050_Assamese_The_Sangai_Express",
+      "filename": "ad_050_Assamese_The_Sangai_Express.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 17.62,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": "Mylab Discovery solutions",
+        "product_or_service": "CoviSelf COVID-19 Rapid Antigen Test Kit",
+        "headline": "India's First Self Test Kit for Covid-19",
+        "pricing_and_offers": [
+          {
+            "label": "Test Result Time",
+            "details": "TEST RESULT CAN BE OBTAINED IN 15 MINUTES.",
+            "amount": null,
+            "conditions": "Using Mylab App"
+          }
+        ],
+        "key_features": [
+          "Approved By Indian Council of Medical Research (ICMR)",
+          "Self Test Kit",
+          "Available in Manipur"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Approval Body",
+            "value": "Indian Council of Medical Research (ICMR)"
+          },
+          {
+            "attribute": "Test Type",
+            "value": "Rapid Antigen Test"
+          },
+          {
+            "attribute": "Result Time",
+            "value": "15 minutes"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "M/S Yumnam Agency",
+            "locations": [
+              "Manipur"
+            ],
+            "city": "Manipur",
+            "phones": [
+              "9863671606"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "9863671606"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "More Details kindly contact: M/S Yumnam Agency # 9863671606"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    }
+  }
+}
