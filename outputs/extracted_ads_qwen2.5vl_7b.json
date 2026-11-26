@@ -1,11 +1,3082 @@
 {
   "model": "qwen2.5vl:7b",
   "source_dir": "dataset\\images",
-  "total_processed": 50,
-  "success_count": 50,
+  "total_processed": 110,
+  "success_count": 110,
   "error_count": 0,
-  "avg_vlm_time_sec": 17.06,
+  "avg_vlm_time_sec": 16.47,
   "ads": {
+    "Rashtriya Sahara_100": {
+      "image_id": "Rashtriya Sahara_100",
+      "filename": "Rashtriya Sahara_100.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 87.26,
+      "data": {
+        "category": "Automobiles",
+        "brand_or_company": "Mahindra",
+        "product_or_service": "Scorpio SUV",
+        "headline": "मानसून धमाका | 100% तक वाहन फाइनांस",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹160000*",
+            "amount": 160000.0,
+            "conditions": "[मात्र रजिस्ट्रेशन खर्च देकर महिंद्रा वाहन घर ले जाए...]"
+          }
+        ],
+        "key_features": [
+          "Scorpio"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Engine",
+            "value": ""
+          },
+          {
+            "attribute": "Fuel",
+            "value": ""
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Kirani",
+            "locations": [
+              "N.H.30 पटना",
+              "N.H.31 काशीपुर, पटना",
+              "N.H.19 छप्पर"
+            ],
+            "city": null,
+            "phones": [
+              "8130499609",
+              "9263182030",
+              "803118 0239"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "8130499609",
+            "9263182030",
+            "803118 0239"
+          ],
+          "website": "www.rashtriyasahara.com",
+          "email": null,
+          "other_cta": "[कूहर पार्क के नजदीक अपूर्ण पुरलेट पथ से दूर"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": [
+          "category_specific_details"
+        ]
+      }
+    },
+    "Rashtriya Sahara_101": {
+      "image_id": "Rashtriya Sahara_101",
+      "filename": "Rashtriya Sahara_101.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 10.37,
+      "data": {
+        "category": "Education",
+        "brand_or_company": "Arvind Kumar Seth",
+        "product_or_service": "Murtiya",
+        "headline": "Lakshadweepa Pachal Koshikaram",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹100",
+            "amount": 100.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Lakshadweepa Pachal Koshikaram"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Batch Date",
+            "value": "2023"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "",
+            "locations": [],
+            "city": null,
+            "phones": [
+              "91-7865432100"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "91-7865432100"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_102": {
+      "image_id": "Rashtriya Sahara_102",
+      "filename": "Rashtriya Sahara_102.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 10.62,
+      "data": {
+        "category": "Education",
+        "brand_or_company": "संदीप कुमार",
+        "product_or_service": "गुरुकिया",
+        "headline": "उत्तर- सोलगांव शैक्षणिक प्रशिक्षक",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹100",
+            "amount": 100.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Education"
+        ],
+        "category_specific_details": [],
+        "shops_or_dealers": [
+          {
+            "name": "संदीप कुमार",
+            "locations": [
+              "उत्तर- सोलगांव"
+            ],
+            "city": null,
+            "phones": [
+              "9123456789"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "9123456789"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_103": {
+      "image_id": "Rashtriya Sahara_103",
+      "filename": "Rashtriya Sahara_103.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.53,
+      "data": {
+        "category": "Insurance",
+        "brand_or_company": "LIC of India",
+        "product_or_service": "Pension Plan",
+        "headline": "एलआईसी ऑफ इंडिया पेशा करते हैं। विषय पुनर्चालन अभियान",
+        "pricing_and_offers": [
+          {
+            "label": "Dividend Rate",
+            "details": "25% on ₹1,00,000 to ₹3,00,000 and 30% on ₹3,00,001 and above",
+            "amount": null,
+            "conditions": "Dividend rate varies based on the amount invested"
+          }
+        ],
+        "key_features": [
+          "Investment",
+          "Pension Plan"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Premium Amount",
+            "value": "₹1,00,000 to ₹3,00,000 and above"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "021-64794527"
+          ],
+          "website": "www.licindia.in",
+          "email": null,
+          "other_cta": "For more details, visit www.licindia.in"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_104": {
+      "image_id": "Rashtriya Sahara_104",
+      "filename": "Rashtriya Sahara_104.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 18.4,
+      "data": {
+        "category": "Education",
+        "brand_or_company": "AL-KARIM UNIVERSITY",
+        "product_or_service": null,
+        "headline": "ACADEMIC PROGRAMMES",
+        "pricing_and_offers": [
+          {
+            "label": "Last Date to Apply",
+            "details": "01 JULY 2022#",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "45 courses",
+          "55 acres*",
+          "12 lakhs sqft*",
+          "1200 staff*"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Academic Programs",
+            "value": "MBBS, MD and MS (18 courses), MSc in Medical Anatomy, Medical Biochemistry, Medical Microbiology, Medical Pharmacology, and Medical Physiology; PhD in Anatomy, Community Medicine, Biochemistry, Microbiology, Physiology, Pathology, Pediatrics, and Pharmacology"
+          },
+          {
+            "attribute": "Paramedical and Allied Health Sciences",
+            "value": "Diploma in Medical Lab Technology (DMLT), BSc in Operation Theatre and Anaesthesia Technology, BSc in Optometry and Ophthalmic Technology, BSc in Radio-diagnosis and Imaging Technology (BRIT), Bachelor of Physiotherapy (BPT)"
+          },
+          {
+            "attribute": "Information Technology and Management",
+            "value": "Bachelor of Business Administration (BBA), Bachelor of Computer Application (BCA), Bachelor of Library and Information Science, Bachelor of Medical Record Technology"
+          },
+          {
+            "attribute": "Nursing",
+            "value": "Diploma in Nursing"
+          },
+          {
+            "attribute": "Pharmacy",
+            "value": "Diploma in Pharmacy"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "",
+            "locations": [
+              "Katihar, Bihar"
+            ],
+            "city": "Katihar",
+            "phones": [
+              "+91-6457-855555"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "+91-6457-855555"
+          ],
+          "website": "www.alkarimuniversity.edu.in",
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": [
+          "category",
+          "product_or_service"
+        ]
+      }
+    },
+    "Rashtriya Sahara_105": {
+      "image_id": "Rashtriya Sahara_105",
+      "filename": "Rashtriya Sahara_105.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.0,
+      "data": {
+        "category": "Jewelry",
+        "brand_or_company": "Tanishq",
+        "product_or_service": null,
+        "headline": "रत्न का प्रेमार, सनिधि का उपहार",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "20% off",
+            "amount": null,
+            "conditions": "कुछ वस्तुओं पर सीमित कालिका"
+          }
+        ],
+        "key_features": [
+          "Special Offer"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Purity",
+            "value": "24K"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "",
+            "locations": [
+              "7 Days Only"
+            ],
+            "city": null,
+            "phones": [
+              "91-80-3567-8900"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "91-80-3567-8900"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": [
+          "name",
+          "city"
+        ]
+      }
+    },
+    "Rashtriya Sahara_46": {
+      "image_id": "Rashtriya Sahara_46",
+      "filename": "Rashtriya Sahara_46.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 11.52,
+      "data": {
+        "category": "Insurance",
+        "brand_or_company": "LIC (Life Insurance Corporation of India)",
+        "product_or_service": "Retirement Planning",
+        "headline": "हँसता खेलता रिटायरमेंट",
+        "pricing_and_offers": [],
+        "key_features": [
+          "स्विच गारंटी देने",
+          "अनेक वार्षिकी बिकल्प",
+          "वार्षिकी पुगतान के अनेक जरूरि"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Regn No.",
+            "value": "312"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "95747474",
+            "8027 8627"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "हर पर आपके साथ"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_47": {
+      "image_id": "Rashtriya Sahara_47",
+      "filename": "Rashtriya Sahara_47.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 14.21,
+      "data": {
+        "category": "Real Estate",
+        "brand_or_company": "HDFC",
+        "product_or_service": "Home Loans",
+        "headline": "एचडीएफसी होम लोन्स @7.55% प्रति वर्ष से शुरू क्रेडिट स्कोर से जुड़ी ब्याज दरें*",
+        "pricing_and_offers": [
+          {
+            "label": "Interest Rate",
+            "details": "@7.55% प्रति वर्ष से शुरू",
+            "amount": null,
+            "conditions": "क्रेडिट स्कोर से जुड़ी ब्याज दरें*"
+          }
+        ],
+        "key_features": [
+          "Credit Score Linked Interest Rates"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Website",
+            "value": "www.hdfc.com"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "09289120120"
+          ],
+          "website": "www.hdfc.com",
+          "email": null,
+          "other_cta": "हमें यहाँ मिस्ट कॉल करें"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_48": {
+      "image_id": "Rashtriya Sahara_48",
+      "filename": "Rashtriya Sahara_48.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.13,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Chhappan Bhog",
+        "product_or_service": "Indian sweets",
+        "headline": "हर घर तिरंगा! मेरा देश...मेरा गौरव!",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹ (exact offer/price text with ₹ symbol)",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "The Indian Shop"
+        ],
+        "category_specific_details": [],
+        "shops_or_dealers": [
+          {
+            "name": "Chhappan Bhog",
+            "locations": [
+              "Online"
+            ],
+            "city": null,
+            "phones": [
+              "91-9876543210"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "91-9876543210"
+          ],
+          "website": "www.chhappanbhog.com",
+          "email": null,
+          "other_cta": "Download App"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_49": {
+      "image_id": "Rashtriya Sahara_49",
+      "filename": "Rashtriya Sahara_49.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 13.48,
+      "data": {
+        "category": "Insurance",
+        "brand_or_company": "LIC",
+        "product_or_service": "Dhan Sanchay Plan No.:865 UIN:512N346V01",
+        "headline": "अपने परिवार को रखें सुरक्षित गारंटीड आमदनी के द्वारा",
+        "pricing_and_offers": [
+          {
+            "label": "Plan No.",
+            "details": "865",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "UIN",
+            "details": "512N346V01",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Non-linked, assured, maturity, death benefit"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Plan No.",
+            "value": "865"
+          },
+          {
+            "attribute": "UIN",
+            "value": "512N346V01"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "(022) 6827 6827"
+          ],
+          "website": "www.licindia.in",
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_50": {
+      "image_id": "Rashtriya Sahara_50",
+      "filename": "Rashtriya Sahara_50.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 13.22,
+      "data": {
+        "category": "Electronics",
+        "brand_or_company": null,
+        "product_or_service": "Smartphone",
+        "headline": "₹10,000 ke bare se kuch bhi nahi",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹10,000",
+            "amount": 10000.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "4G",
+          "Dual SIM",
+          "Camera"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Display",
+            "value": "6.5 inches"
+          },
+          {
+            "attribute": "RAM",
+            "value": "3 GB"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "",
+            "locations": [
+              "Mumbai",
+              "Delhi"
+            ],
+            "city": null,
+            "phones": [
+              "9876543210"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "9876543210"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": [
+          "brand_or_company",
+          "headline"
+        ]
+      }
+    },
+    "Rashtriya Sahara_51": {
+      "image_id": "Rashtriya Sahara_51",
+      "filename": "Rashtriya Sahara_51.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 15.23,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Indane",
+        "product_or_service": "LPG Gas Cylinder",
+        "headline": "स्वतंत्रता दिवस की हार्दिक बधाई | सुंदर सिंह अटेसआ इटोजा लखनऊ |",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "सुंदर सिंह अटेसआ इटोजा लखनऊ |",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Safe",
+          "Reliable",
+          "Convenient"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Brand",
+            "value": "Indane"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "सुंदर सिंह अटेसआ इटोजा",
+            "locations": [
+              "इटोजा"
+            ],
+            "city": "लखनऊ",
+            "phones": [
+              "91-78302546"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "91-78302546"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_52": {
+      "image_id": "Rashtriya Sahara_52",
+      "filename": "Rashtriya Sahara_52.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.66,
+      "data": {
+        "category": "Banking",
+        "brand_or_company": "SBI",
+        "product_or_service": null,
+        "headline": "हर भारतीय को आर्थिक स्वतंत्रता के साथ सक्षम बना रहे हैं",
+        "pricing_and_offers": [
+          {
+            "label": "Offer",
+            "details": "स्वतंत्रता दिवस की शुभकामनाएँ",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "76वें स्वतंत्रता दिवस"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Bank",
+            "value": "SBI"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "1800 1234"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_53": {
+      "image_id": "Rashtriya Sahara_53",
+      "filename": "Rashtriya Sahara_53.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 14.39,
+      "data": {
+        "category": "Jewelry",
+        "brand_or_company": "Union Bank of India",
+        "product_or_service": "Agricultural Gold Loans",
+        "headline": "GO GOLD BE BOLD",
+        "pricing_and_offers": [
+          {
+            "label": "No Processing Charges for Agricultural Gold Loans",
+            "details": "No Processing Charges for Agricultural Gold Loans",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Highest Loan Amount Per Gram",
+            "details": "Highest Loan Amount Per Gram",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Facility Available in all Our Branches"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Loan Type",
+            "value": "Agricultural Gold Loans"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Union Bank of India",
+            "locations": [
+              "All Our Branches"
+            ],
+            "city": null,
+            "phones": [
+              "91-20-67435800"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "91-20-67435800"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_54": {
+      "image_id": "Rashtriya Sahara_54",
+      "filename": "Rashtriya Sahara_54.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 17.94,
+      "data": {
+        "category": "Insurance",
+        "brand_or_company": "LIC (Life Insurance Corporation of India)",
+        "product_or_service": null,
+        "headline": "आजादी का उत्सव युवा और सुरक्षित भारत के साथ",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "सभी सपनों को सुरक्षित बनाएं",
+            "amount": null,
+            "conditions": "आज, भारत के उत्साही युवा आजादी के 75 वर्षों की नींव पर अपने सपनों के साकार होने का उत्सव मनाना चाहते हैं।"
+          }
+        ],
+        "key_features": [
+          "सभी सपनों को सुरक्षित बनाएं"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Insurance",
+            "value": "Life Insurance"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "91-20-34567890"
+          ],
+          "website": null,
+          "email": "lic.india.forever@gmail.com",
+          "other_cta": "सभी सपनों को सुरक्षित बनाएं"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_55": {
+      "image_id": "Rashtriya Sahara_55",
+      "filename": "Rashtriya Sahara_55.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 18.09,
+      "data": {
+        "category": "Education",
+        "brand_or_company": "SKD New Standard Coaching Institute",
+        "product_or_service": "NEET Coaching",
+        "headline": "BELIEVE IN YOURSELF ALL THE BEST FOR NEET 2022",
+        "pricing_and_offers": [
+          {
+            "label": "Free Test Series",
+            "details": "FREE TEST SERIES",
+            "amount": null,
+            "conditions": "Get Attractive Scholarships For Meritorious Students."
+          }
+        ],
+        "key_features": [
+          "38 Glorious Years of Excellence in Teaching",
+          "Believe in Regular Classes with Expert Guidance & Having Proven Track Record"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Admissions Open",
+            "value": "NEET"
+          },
+          {
+            "attribute": "Whole Year Target",
+            "value": "3rd Batch Starts from 25th July 2022, 4th Batch Starts from 7th Aug 2022"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "",
+            "locations": [
+              "1st Floor, Sky Lark Building, Nawal Kishore Rd, Hazratganj, Lko."
+            ],
+            "city": null,
+            "phones": [
+              "7080111582",
+              "7080111595"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "7080111582",
+            "7080111595"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "To Register for Free Visit: www.neetslive.co.in"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_56": {
+      "image_id": "Rashtriya Sahara_56",
+      "filename": "Rashtriya Sahara_56.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 14.02,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Soro",
+        "product_or_service": "Dishwash Bar",
+        "headline": "स्वतंत्रता दिनेस की हार्दिक शुभकामनाएं",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "₹20 off",
+            "amount": 20.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "New",
+          "Garnet Cleaner"
+        ],
+        "category_specific_details": [],
+        "shops_or_dealers": [
+          {
+            "name": "Vidisha",
+            "locations": [
+              "Mumbai, Pune"
+            ],
+            "city": "Mumbai",
+            "phones": [
+              "9876543210",
+              "9876543211"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "9876543210",
+            "9876543211"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_57": {
+      "image_id": "Rashtriya Sahara_57",
+      "filename": "Rashtriya Sahara_57.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 15.22,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "बावची",
+        "product_or_service": "धमक चमकदार डिट्जेंट पाउडर व केक",
+        "headline": "धमक से आए चमक",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "1kg",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Laundry Detergent",
+          "Dietjet Powder and Cake"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Batch Date",
+            "value": ""
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Mantora Oil Products Pvt. Ltd.",
+            "locations": [
+              "Kanpur"
+            ],
+            "city": null,
+            "phones": [
+              "7084914406"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "7084914406",
+            "8582712345"
+          ],
+          "website": null,
+          "email": "info@mantoracan.com",
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": [
+          "category_specific_details.attribute"
+        ]
+      }
+    },
+    "Rashtriya Sahara_58": {
+      "image_id": "Rashtriya Sahara_58",
+      "filename": "Rashtriya Sahara_58.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 17.21,
+      "data": {
+        "category": "Environment",
+        "brand_or_company": "IndianOil",
+        "product_or_service": null,
+        "headline": "चीतों के आगमन के साथ भारत एक नया इतिहास रच रहा है।",
+        "pricing_and_offers": [],
+        "key_features": [
+          "विविधतापूर्ण पारिसंस्थाकी तंत्र",
+          "उपयुक्त पर्यावरण सुनिश्चित करेगा"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Event Date",
+            "value": "17 शितमबर, 2022"
+          },
+          {
+            "attribute": "Time",
+            "value": "सुबह 11:00 बजे"
+          },
+          {
+            "attribute": "Location",
+            "value": "कृतो राष्ट्रीय उद्यान, मध्य प्रदेश"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "9123456789"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "#IndiaWelcomesCheetah"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_59": {
+      "image_id": "Rashtriya Sahara_59",
+      "filename": "Rashtriya Sahara_59.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 17.84,
+      "data": {
+        "category": "Automobiles",
+        "brand_or_company": "Honda",
+        "product_or_service": "CB350 Motorcycle",
+        "headline": "THE ROAR. THE MIGHT. THE RUSH. THAT'S HIGHNESS.",
+        "pricing_and_offers": [
+          {
+            "label": "Interest Rate",
+            "details": "Best of Segment Flat Interest rate of 6.25%",
+            "amount": null,
+            "conditions": "Tenure up to 48 months | Instant approval"
+          }
+        ],
+        "key_features": [
+          "Honda Selectable Torque Control (HSTC)",
+          "Honda Smartphone Voice Control system (HSVCS)",
+          "Assist Slipper Clutch",
+          "Dual Channel ABS"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Engine Size",
+            "value": "350cc"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Canteen Store Department",
+            "locations": [
+              "Lucknow",
+              "Kanpur",
+              "Varanasi"
+            ],
+            "city": null,
+            "phones": [
+              "9167824530"
+            ]
+          },
+          {
+            "name": "Central Police Canteen",
+            "locations": [
+              "Agra",
+              "Anand Ji Honda"
+            ],
+            "city": null,
+            "phones": [
+              "9167824530"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "9167824530"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "For more details"
+        },
+        "languages": [
+          "hi",
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_60": {
+      "image_id": "Rashtriya Sahara_60",
+      "filename": "Rashtriya Sahara_60.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 26.68,
+      "data": {
+        "category": "Automobiles",
+        "brand_or_company": "Hyundai",
+        "product_or_service": null,
+        "headline": "CAR SHOPPING FAMILY FESTIVAL",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "₹50,000* की महतवाना",
+            "amount": 50000.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Grand i10 Nios",
+          "Aura compact fitted CNG"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Fuel",
+            "value": "CNG"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "SAS HYUNDAI",
+            "locations": [
+              "Station Road",
+              "Kanpur Road",
+              "Telabaghi"
+            ],
+            "city": "Lucknow",
+            "phones": [
+              "9919500464",
+              "9918004548",
+              "740822166"
+            ]
+          },
+          {
+            "name": "PR HYUNDAI",
+            "locations": [
+              "Chowk"
+            ],
+            "city": "Lucknow",
+            "phones": [
+              "9112377777"
+            ]
+          },
+          {
+            "name": "BEEAR HYUNDAI",
+            "locations": [
+              "Mananganar",
+              "Shahnajaf Road"
+            ],
+            "city": "Mahanagar",
+            "phones": [
+              "9724777045",
+              "9724777048"
+            ]
+          },
+          {
+            "name": "JSV HYUNDAI",
+            "locations": [
+              "Gomtinagar, Ring Road, CP-33"
+            ],
+            "city": "Lucknow",
+            "phones": [
+              "9044038102",
+              "789703434",
+              "9044035106"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "9919500464",
+            "9918004548",
+            "740822166",
+            "9112377777",
+            "9724777045",
+            "9724777048",
+            "9044038102",
+            "789703434",
+            "9044035106"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_61": {
+      "image_id": "Rashtriya Sahara_61",
+      "filename": "Rashtriya Sahara_61.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 22.31,
+      "data": {
+        "category": "Education",
+        "brand_or_company": "School of Management Sciences Lucknow (SMS)",
+        "product_or_service": null,
+        "headline": "Admission Helpline: 9208000092 | www.smslucknow.ac.in",
+        "pricing_and_offers": [
+          {
+            "label": "Highest Package",
+            "details": "₹12 LPA",
+            "amount": 12.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "B.Tech",
+          "Diploma",
+          "MBA",
+          "BCA",
+          "B.Com(H)",
+          "B.Sc.",
+          "B.Voc"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "City Office",
+            "value": "2nd Floor, Sky-Hi-Chambers, 5-Park Road, Hazratganj, Lucknow"
+          },
+          {
+            "attribute": "Campus",
+            "value": "Sultanpur Road, Lucknow-226501"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "",
+            "locations": [
+              "2nd Floor, Sky-Hi-Chambers, 5-Park Road, Hazratganj, Lucknow",
+              "Campus: Sultanpur Road, Lucknow-226501"
+            ],
+            "city": "Lucknow",
+            "phones": [
+              "9506633331",
+              "0522-2238116",
+              "9792633331",
+              "09506033170"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "9506633331",
+            "0522-2238116",
+            "9792633331",
+            "09506033170"
+          ],
+          "website": "www.smslucknow.ac.in",
+          "email": "admission@smslucknow.ac.in",
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_62": {
+      "image_id": "Rashtriya Sahara_62",
+      "filename": "Rashtriya Sahara_62.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 13.66,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": null,
+        "product_or_service": "COVID-19 Vaccine",
+        "headline": "प्रत्येक 50 करोड़ कोविड-१९",
+        "pricing_and_offers": [
+          {
+            "label": "Doses Administered",
+            "details": "0-50 crore, 50-900 crore, 900-140 crore",
+            "amount": null,
+            "conditions": "208 days, 66 days, 37 days"
+          }
+        ],
+        "key_features": [
+          "Vaccination"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Doses Administered",
+            "value": "0-50 crore"
+          },
+          {
+            "attribute": "Time Period",
+            "value": "208 days"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "9123456789"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_63": {
+      "image_id": "Rashtriya Sahara_63",
+      "filename": "Rashtriya Sahara_63.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 16.19,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "ACC",
+        "product_or_service": "Cement",
+        "headline": "75वें स्वासंत्रता दिवस एवं श्रीकृष्ण जन्माष्टमी की हार्दिक शुभकामनाएँ!",
+        "pricing_and_offers": [
+          {
+            "label": "Sales Promoter",
+            "details": "M/s Tiwari Cement Store & Sons",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Sales Promoter"
+        ],
+        "category_specific_details": [],
+        "shops_or_dealers": [
+          {
+            "name": "M/s Tiwari Cement Store & Sons",
+            "locations": [
+              "Near Nakghar, Danthara Bazar",
+              "Noor Hamada Hotel, Jumabganj, Lucknow"
+            ],
+            "city": null,
+            "phones": [
+              "9830625944",
+              "1766700931"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "9830625944",
+            "1766700931"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_64": {
+      "image_id": "Rashtriya Sahara_64",
+      "filename": "Rashtriya Sahara_64.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 18.97,
+      "data": {
+        "category": "Home Loans",
+        "brand_or_company": "HDFC",
+        "product_or_service": "Home Loan",
+        "headline": "एचडीएफसी होम लोन @8.10%",
+        "pricing_and_offers": [
+          {
+            "label": "Discounted Processing Fees",
+            "details": "₹2,000 off ₹10,000",
+            "amount": null,
+            "conditions": "स्वतंत्रता दिवस ऑफर"
+          }
+        ],
+        "key_features": [
+          "Credit Score Dependent Interest Rates"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Interest Rate",
+            "value": "8.10%"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "09289 120 120"
+          ],
+          "website": "www.hdfc.com",
+          "email": null,
+          "other_cta": "हमें यहाँ निश्चित कॉल करें"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_65": {
+      "image_id": "Rashtriya Sahara_65",
+      "filename": "Rashtriya Sahara_65.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 21.41,
+      "data": {
+        "category": "Insurance",
+        "brand_or_company": "LIC ऑफ़ इंडिया",
+        "product_or_service": "Punchnalan Abhiyan",
+        "headline": "एलआईसी ऑफ इंडिया पेश करते हैं सिरोप पुनचलन अभियान",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "25% तक",
+            "amount": null,
+            "conditions": "स्पेशल पूंछ-पहुँच के अन्य पॉलिसियों की पुनरावृत्ति करने का मौका"
+          },
+          {
+            "label": "Discount",
+            "details": "25% से 30%",
+            "amount": null,
+            "conditions": "स्पेशल पूंछ-पहुँच के अन्य पॉलिसियों की पुनरावृत्ति करने का मौका"
+          }
+        ],
+        "key_features": [
+          "Special Punchnalan Offer"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Punchnalan Offer",
+            "value": "25% to 30%"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "1800-767-9407"
+          ],
+          "website": "www.licindia.in",
+          "email": null,
+          "other_cta": "कैसे यहाँ से अपनी पोलिस की पुनरावृत्ति करें"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_66": {
+      "image_id": "Rashtriya Sahara_66",
+      "filename": "Rashtriya Sahara_66.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 9.51,
+      "data": {
+        "category": "News",
+        "brand_or_company": null,
+        "product_or_service": null,
+        "headline": "राष्ट्रीय सहारा",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Bollywood films",
+          "T-20: Indian women's team"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Page Number",
+            "value": "16"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "9876543210"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_67": {
+      "image_id": "Rashtriya Sahara_67",
+      "filename": "Rashtriya Sahara_67.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 14.15,
+      "data": {
+        "category": "Real Estate",
+        "brand_or_company": "HDFC",
+        "product_or_service": "Home Loans",
+        "headline": "एचडीएफसी के लोन अगेन्स्ट प्रॉपर्टी के साथ @8% प्रति वर्ष से मुक्त",
+        "pricing_and_offers": [
+          {
+            "label": "Interest Rate",
+            "details": "@8%",
+            "amount": null,
+            "conditions": "से मुक्त"
+          }
+        ],
+        "key_features": [
+          "Loan against property"
+        ],
+        "category_specific_details": [],
+        "shops_or_dealers": [
+          {
+            "name": "HDFC",
+            "locations": [
+              "India"
+            ],
+            "city": null,
+            "phones": [
+              "09289120120"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "09289120120"
+          ],
+          "website": "www.hdfc.com",
+          "email": null,
+          "other_cta": "Visit www.hdfc.com"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_68": {
+      "image_id": "Rashtriya Sahara_68",
+      "filename": "Rashtriya Sahara_68.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 15.35,
+      "data": {
+        "category": "Real Estate",
+        "brand_or_company": "HDFC",
+        "product_or_service": "Home Loans",
+        "headline": "सुपरफ़ास्ट एचडीएफ़सी होम लोन्स @7.55%",
+        "pricing_and_offers": [
+          {
+            "label": "Interest Rate",
+            "details": "@7.55% प्रति वर्ष से शुरू",
+            "amount": null,
+            "conditions": "क्रेडिट स्कोर से जुड़ी ब्याज दरें"
+          }
+        ],
+        "key_features": [
+          "Credit Score Linked Interest Rate"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Interest Rate",
+            "value": "@7.55% प्रति वर्ष से शुरू"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "09289120120"
+          ],
+          "website": "www.hdfc.com",
+          "email": null,
+          "other_cta": "Visit www.hdfc.com"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_69": {
+      "image_id": "Rashtriya Sahara_69",
+      "filename": "Rashtriya Sahara_69.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.58,
+      "data": {
+        "category": "Real Estate",
+        "brand_or_company": "राष्ट्रीय सहारा",
+        "product_or_service": null,
+        "headline": "धनुप की फिल्म के पचास करोड़",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹28 अगस्त 2022",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "राष्ट्रीय सहारा"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "रेंट",
+            "value": "₹28 अगस्त 2022"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "15-18"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": [
+          "headline"
+        ]
+      }
+    },
+    "Rashtriya Sahara_70": {
+      "image_id": "Rashtriya Sahara_70",
+      "filename": "Rashtriya Sahara_70.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 14.46,
+      "data": {
+        "category": "Education",
+        "brand_or_company": "Wings",
+        "product_or_service": "Hybrid program for NEET-2022 & NEET-2023",
+        "headline": "Are you aiming to crack NEET? Start your preparation now with Patna's Top Faculty Team for NEET",
+        "pricing_and_offers": [
+          {
+            "label": "Minimum Fee",
+            "details": "@Minimum Fee",
+            "amount": null,
+            "conditions": "For XI Studying & XII Passed Students"
+          }
+        ],
+        "key_features": [
+          "Hybrid program",
+          "Online & Offline Classroom Program"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Target Exam",
+            "value": "NEET-2022 & NEET-2023"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "",
+            "locations": [
+              "Buddha Colony, Patna"
+            ],
+            "city": "Patna",
+            "phones": [
+              "7458225530"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "7458225530"
+          ],
+          "website": "www.wingsedu.org.in",
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi",
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_71": {
+      "image_id": "Rashtriya Sahara_71",
+      "filename": "Rashtriya Sahara_71.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 17.04,
+      "data": {
+        "category": "Nutrition",
+        "brand_or_company": "Samajik Bal Vikas Seva",
+        "product_or_service": "National Nutrition Month - 2022",
+        "headline": "समेकित बाल विकास सेवाएँ राष्ट्रीय पोषण मह-2022",
+        "pricing_and_offers": [
+          {
+            "label": "Duration",
+            "details": "1-30 सितंबर 2022",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "पोषण छोड़, पोषण की ओर",
+          "स्वच्छता और साफ-सफाई"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Theme",
+            "value": "पोषण के सूत्र"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "91234567890"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "आईये, हम राब मिलकर बिहार को सुपोषित बनाने का संकल्प लें।"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_72": {
+      "image_id": "Rashtriya Sahara_72",
+      "filename": "Rashtriya Sahara_72.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 16.22,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": null,
+        "product_or_service": null,
+        "headline": "देश में फार्मस्यूटिकल्स आयात के शीर्ष 5 सोत",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "2903.4, 564.4, 394.0, 380.4, 339.0",
+            "amount": 2903.4,
+            "conditions": null
+          }
+        ],
+        "key_features": [],
+        "category_specific_details": [
+          {
+            "attribute": "Country",
+            "value": "India"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "(2020-21)"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "(संपूर्ण डिटेल्स अभीतकी सौगात में)"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": [
+          "phones",
+          "website",
+          "email"
+        ]
+      }
+    },
+    "Rashtriya Sahara_73": {
+      "image_id": "Rashtriya Sahara_73",
+      "filename": "Rashtriya Sahara_73.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 15.71,
+      "data": {
+        "category": "Education",
+        "brand_or_company": "KYP",
+        "product_or_service": "SMART तथा SUCCESSFUL युवा कोर्स",
+        "headline": "KYP मतलब SMART तथा SUCCESSFUL युवा",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "3 पहिए (₹40 प्रति)",
+            "amount": 120.0,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "कंप्यूटर का स्मार्ट उपयोग",
+          "केरियर के लिए 'व्यवहार कोशल' प्रशिक्षण"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "App",
+            "value": "KYP Learner App"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "1800 123 6525"
+          ],
+          "website": "www.skillmissionbihar.org",
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_74": {
+      "image_id": "Rashtriya Sahara_74",
+      "filename": "Rashtriya Sahara_74.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 15.96,
+      "data": {
+        "category": "Real Estate",
+        "brand_or_company": null,
+        "product_or_service": null,
+        "headline": "महिलाओं के साथ भेदभाव किया आता है : डिलनाज पेज-12 प्रॉपर्टी में निवेश पर बरतें अतिरिक्त सावधानी पेज-11",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "₹2,50",
+            "amount": 2.5,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Special attention to women",
+          "Investment in property"
+        ],
+        "category_specific_details": [],
+        "shops_or_dealers": [
+          {
+            "name": "",
+            "locations": [
+              "Page-12",
+              "Page-11"
+            ],
+            "city": null,
+            "phones": []
+          }
+        ],
+        "contacts": {
+          "phones": [],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": [
+          "brand_or_company",
+          "product_or_service"
+        ]
+      }
+    },
+    "Rashtriya Sahara_75": {
+      "image_id": "Rashtriya Sahara_75",
+      "filename": "Rashtriya Sahara_75.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 11.67,
+      "data": {
+        "category": "Energy",
+        "brand_or_company": "NTPC",
+        "product_or_service": "Power Plant",
+        "headline": "Only One Earth",
+        "pricing_and_offers": [
+          {
+            "label": "Capacity",
+            "details": "4x250 MW",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Environmental Protection"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Location",
+            "value": "Nabinagar"
+          },
+          {
+            "attribute": "Project Name",
+            "value": "Nabinnagar Thermal Power Project"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "+91-7623058400"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_76": {
+      "image_id": "Rashtriya Sahara_76",
+      "filename": "Rashtriya Sahara_76.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 10.81,
+      "data": {
+        "category": "Environment",
+        "brand_or_company": "NTPC",
+        "product_or_service": null,
+        "headline": "आओ मिलकर वृक्ष लगाएं, पर्यावरण को स्वच्छ बनाएं",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Plant Trees",
+          "Clean Environment"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Event Date",
+            "value": "5 जून, 2022"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "824363"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "#OnlyOneEarth"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_77": {
+      "image_id": "Rashtriya Sahara_77",
+      "filename": "Rashtriya Sahara_77.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 16.76,
+      "data": {
+        "category": "Environment",
+        "brand_or_company": "एनटीपीसी (NTPC)",
+        "product_or_service": "Solar Energy Solutions",
+        "headline": "पर्यावरण संरक्षण के प्रति समर्पित",
+        "pricing_and_offers": [
+          {
+            "label": "Number of Projects",
+            "details": "50,433 ग्रामवाद की स्थापित कक्षा",
+            "amount": null,
+            "conditions": "2012 तक 1.28,000 पेंचालयों में स्थापित करने का रास्ता"
+          }
+        ],
+        "key_features": [
+          "Solar Panels",
+          "Renewable Energy"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Number of Projects",
+            "value": "50,433"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "91-2687-5000 (भारत सरकार का प्रदेश)",
+            "91-2687-5000 (संगठन)"
+          ],
+          "website": "www.ntpc.co.in",
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_78": {
+      "image_id": "Rashtriya Sahara_78",
+      "filename": "Rashtriya Sahara_78.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 17.94,
+      "data": {
+        "category": "Education",
+        "brand_or_company": "CIMP Chandragupt Institute of Management Patna",
+        "product_or_service": "PGDM (IEV) Post Graduate Diploma in Management",
+        "headline": "ADMISSION NOTICE PGDM (IEV)",
+        "pricing_and_offers": [
+          {
+            "label": "Last Date to Apply",
+            "details": "15th August 2022-24",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Innovation",
+          "Entrepreneurship & Venture Development"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Established by Government of Bihar",
+            "value": "Government of Bihar"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Chandragupt Institute of Management Patna",
+            "locations": [
+              "Mithapur Institutional Area, Patna"
+            ],
+            "city": "Patna",
+            "phones": [
+              "0612-2366015",
+              "+91 9693223405"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "0612-2366015",
+            "0612-004/062/021",
+            "7677227923",
+            "0612-2366026",
+            "+91 9693223405"
+          ],
+          "website": "www.cimp.ac.in",
+          "email": "admission@cimp.ac.in, info@cimp.ac.in",
+          "other_cta": null
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_79": {
+      "image_id": "Rashtriya Sahara_79",
+      "filename": "Rashtriya Sahara_79.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 14.71,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "फेटिड सीजन (Fitted Season)",
+        "product_or_service": null,
+        "headline": "के दौरान 12 अरब डॉलर तक पहुंच जाएगी",
+        "pricing_and_offers": [
+          {
+            "label": "Price",
+            "details": "12 अरब डॉलर तक पहुंच जाएगी",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "ऑनलाइन सेल्स"
+        ],
+        "category_specific_details": [],
+        "shops_or_dealers": [
+          {
+            "name": "फेटिड सीजन (Fitted Season)",
+            "locations": [
+              "Online"
+            ],
+            "city": null,
+            "phones": [
+              "91-7820345678"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "91-7820345678"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_80": {
+      "image_id": "Rashtriya Sahara_80",
+      "filename": "Rashtriya Sahara_80.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.53,
+      "data": {
+        "category": "Electronics",
+        "brand_or_company": "Election Commission of India",
+        "product_or_service": null,
+        "headline": "कोई मतदाता न छूटे",
+        "pricing_and_offers": [
+          {
+            "label": "Online Form",
+            "details": "8B or contact BLO at your polling center",
+            "amount": null,
+            "conditions": "For linking Aadhaar card with voter ID"
+          }
+        ],
+        "key_features": [
+          "Linking Aadhaar Card",
+          "Voter ID"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Website",
+            "value": "www.nvsp.in"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "8B",
+            "Contact BLO at your polling center"
+          ],
+          "website": "www.nvsp.in",
+          "email": null,
+          "other_cta": "Download Voter HelpLine App"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_81": {
+      "image_id": "Rashtriya Sahara_81",
+      "filename": "Rashtriya Sahara_81.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 11.49,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": "जीवन बिहार... सपना हो साकार",
+        "product_or_service": null,
+        "headline": "कोरोना है आस पास सुरक्षा की बातें हैं खास",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Wash hands for at least 20 seconds",
+          "Use soap after touching outdoor objects",
+          "Dry hands thoroughly after using toilet"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Hand washing duration",
+            "value": "20 seconds"
+          },
+          {
+            "attribute": "Post-hand washing action",
+            "value": "Soap"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "104"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_82": {
+      "image_id": "Rashtriya Sahara_82",
+      "filename": "Rashtriya Sahara_82.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 11.2,
+      "data": {
+        "category": "Finance",
+        "brand_or_company": "SBI",
+        "product_or_service": "Instant Loan Apps",
+        "headline": "Beware of Instant Loan Apps It could be a trap!",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Please communicate on the ATM/ATM/ATM number only",
+          "Do not share your ATM/ATM/ATM number with anyone",
+          "Always use an independent and trusted instant loan service",
+          "Never share your ATM/ATM/ATM number with anyone",
+          "Never transfer money to any account",
+          "Visit SBI.com for more information"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Safety Tips",
+            "value": "Please communicate on the ATM/ATM/ATM number only"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "1234567890"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_83": {
+      "image_id": "Rashtriya Sahara_83",
+      "filename": "Rashtriya Sahara_83.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 16.28,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Nandan",
+        "product_or_service": null,
+        "headline": "नंदन लॉक्स की तरफ से 75वीं स्वतंत्रता दिवस की हार्दिक शुभकामनाएँ",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "पांच दशकों में आपके स्वस्थाय का रूमने दिया सुरक्षा का वादा",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Locks"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Type",
+            "value": "Nandan Locks"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "Nandan",
+            "locations": [
+              "India"
+            ],
+            "city": null,
+            "phones": [
+              "91-7500000000"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "91-7500000000"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_84": {
+      "image_id": "Rashtriya Sahara_84",
+      "filename": "Rashtriya Sahara_84.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 14.1,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Johnson Paints Co.",
+        "product_or_service": "CEM & WALL PUTTY | INTERIOR & EXTERIOR EMULSION",
+        "headline": "आजादी का अमृत महोत्सव",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "75वें स्वतंत्रता दिवस की हार्दिक शुभकामनाएं...",
+            "amount": null,
+            "conditions": "Special offer for Independence Day"
+          }
+        ],
+        "key_features": [
+          "CEM & WALL PUTTY",
+          "INTERIOR & EXTERIOR EMULSION"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Batch Date",
+            "value": "2021"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "9876543210"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "www.johnsonpaintsco.in"
+        },
+        "languages": [
+          "hi",
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_85": {
+      "image_id": "Rashtriya Sahara_85",
+      "filename": "Rashtriya Sahara_85.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 15.57,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "भारतीय खाद्य मिश्रण",
+        "product_or_service": null,
+        "headline": "प्रधानमंत्री गरीब कट्टाई अन्तः योजना",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "12 महीने परवाहित",
+            "amount": null,
+            "conditions": "81 कार जमानत"
+          }
+        ],
+        "key_features": [
+          "सुपर स्टोर"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Batch Date",
+            "value": "जनवरी 2023"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "",
+            "locations": [
+              "अहमदाबाद भवन, पटना-1"
+            ],
+            "city": "Patna",
+            "phones": [
+              "9876543210"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "9876543210"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_86": {
+      "image_id": "Rashtriya Sahara_86",
+      "filename": "Rashtriya Sahara_86.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.71,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": null,
+        "product_or_service": null,
+        "headline": "स्थितियारों का भूगोल नहीं होता",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "54% off",
+            "amount": null,
+            "conditions": "जून के पहले पक्वाड़ि में"
+          }
+        ],
+        "key_features": [
+          "COVID-19"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Treatment",
+            "value": "स्थितियों का भूगोल नहीं होता"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "9876543210"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_87": {
+      "image_id": "Rashtriya Sahara_87",
+      "filename": "Rashtriya Sahara_87.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 13.27,
+      "data": {
+        "category": "Hardware",
+        "brand_or_company": "JSL NANDAN",
+        "product_or_service": "Tubes",
+        "headline": "बेहतर सुरक्षा और बेजोड़ मजबूती जब हो एक साथ, तो किसी और की क्यों करे बात",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Better safety",
+          "Stronger structure"
+        ],
+        "category_specific_details": [],
+        "shops_or_dealers": [
+          {
+            "name": "JSL NANDAN",
+            "locations": [
+              "Aligarh"
+            ],
+            "city": "Aligarh",
+            "phones": [
+              "7992237412/7762014444"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "7992237412",
+            "7762014444"
+          ],
+          "website": "www.aligarhlocks.in",
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_88": {
+      "image_id": "Rashtriya Sahara_88",
+      "filename": "Rashtriya Sahara_88.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 14.67,
+      "data": {
+        "category": "Jewelry",
+        "brand_or_company": "Tanishq",
+        "product_or_service": null,
+        "headline": "स्टोर उदघाटन",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "10% इंक्लुडिंग टेक्स की सूची",
+            "amount": null,
+            "conditions": "7 DAYS OPEN"
+          }
+        ],
+        "key_features": [
+          "मुत्ता सोने का सिखाव"
+        ],
+        "category_specific_details": [],
+        "shops_or_dealers": [
+          {
+            "name": "Tanishq Jagdev Path",
+            "locations": [
+              "पिलर मं0-9 के सामने, चेटी रोड, पटना"
+            ],
+            "city": null,
+            "phones": [
+              "2590017",
+              "9334204059"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "2590017",
+            "9334204059"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_89": {
+      "image_id": "Rashtriya Sahara_89",
+      "filename": "Rashtriya Sahara_89.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 12.58,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": null,
+        "product_or_service": "COVID-19 Vaccine",
+        "headline": "प्रत्येक 50 करोड़ कोविड-19 टीके लगने की अवधि",
+        "pricing_and_offers": [
+          {
+            "label": "Time Period",
+            "details": "0-50 crore: 204 days, 50-100 crore: 76 days, 100-150 crore: 79 days, 150-200 crore: 191 days",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Vaccination Schedule"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Batch Date",
+            "value": ""
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "204",
+            "76",
+            "79",
+            "191"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_90": {
+      "image_id": "Rashtriya Sahara_90",
+      "filename": "Rashtriya Sahara_90.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 13.79,
+      "data": {
+        "category": "Education",
+        "brand_or_company": "GYAN DIP VIDYALAYA",
+        "product_or_service": null,
+        "headline": "ADMISSION OPEN (2022-23)",
+        "pricing_and_offers": [
+          {
+            "label": "No.",
+            "details": "1 School in our Surrounding",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "We are No. 1"
+        ],
+        "category_specific_details": [],
+        "shops_or_dealers": [
+          {
+            "name": "GYAN DIP VIDYALAYA",
+            "locations": [
+              "Shahpur, Danapur Cantt, Patna, Bihar-801503"
+            ],
+            "city": null,
+            "phones": [
+              "9162922929",
+              "9405737284"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "9162922929",
+            "9405737284"
+          ],
+          "website": "www.gyandipvidyalaya.com",
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_91": {
+      "image_id": "Rashtriya Sahara_91",
+      "filename": "Rashtriya Sahara_91.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 17.2,
+      "data": {
+        "category": "Education",
+        "brand_or_company": "Indian Institute of Health Education and Research (IIHER)",
+        "product_or_service": null,
+        "headline": "Admission is going on into following courses for Academic Session 2022-23",
+        "pricing_and_offers": [
+          {
+            "label": "Eligibility",
+            "details": "BPT, BOT, LSc. (Bio), D.Ed. Special Education (Hr), 10+2, etc.",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Courses Offered",
+          "Lateral Entry & Abridged Courses"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Affiliation",
+            "value": "CBSE, New Delhi"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "",
+            "locations": [
+              "Health Institute Road, Beur, Patna -2"
+            ],
+            "city": "Patna",
+            "phones": [
+              "9264459295",
+              "7070096603",
+              "9709099603",
+              "9431016169"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "9264459295",
+            "7070096603",
+            "9709099603",
+            "9431016169"
+          ],
+          "website": "www.iiher.com",
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_92": {
+      "image_id": "Rashtriya Sahara_92",
+      "filename": "Rashtriya Sahara_92.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 11.62,
+      "data": {
+        "category": "Education",
+        "brand_or_company": "PATLIPUTRA VIDYAPEETH",
+        "product_or_service": null,
+        "headline": "ADMISSION OPEN UPTO STD. IX",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Well stocked library",
+          "Fully Wi-Fi campus",
+          "Transport facility",
+          "Swimming pool",
+          "Indoor & outdoor Games facilities",
+          "Smart Class Rooms"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Affiliation",
+            "value": "CBSE, New Delhi"
+          },
+          {
+            "attribute": "Location",
+            "value": "Health Institute Road, Beur, Patna - 2"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "7488412808",
+            "8340421475",
+            "9264459295",
+            "9386745004"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_93": {
+      "image_id": "Rashtriya Sahara_93",
+      "filename": "Rashtriya Sahara_93.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 11.28,
+      "data": {
+        "category": "Jobs",
+        "brand_or_company": "JP Johnson",
+        "product_or_service": null,
+        "headline": "Dealership Required in West Bengal",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Cem",
+          "Wallputty",
+          "Interior & Exterior Emulsion",
+          "premium",
+          "decorative",
+          "waterproof"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "ISO Certification",
+            "value": "ISO 9001:2015"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "79923 15039",
+            "91551 64841"
+          ],
+          "website": null,
+          "email": "info@johnsonpaints.co.in",
+          "other_cta": "For sales purpose, S. Executives can send their resume at info@johnsonpaints.co.in"
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_94": {
+      "image_id": "Rashtriya Sahara_94",
+      "filename": "Rashtriya Sahara_94.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 9.26,
+      "data": {
+        "category": "Security",
+        "brand_or_company": "NANDAN",
+        "product_or_service": "SS TUBES & SHUTTER LOCKS",
+        "headline": "मजबूरी जो रखे आपके घरों और उद्योगों को सुरक्षित।",
+        "pricing_and_offers": [],
+        "key_features": [
+          "SS TUBES",
+          "SHUTTER LOCKS"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Material",
+            "value": "SS"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "AL"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_95": {
+      "image_id": "Rashtriya Sahara_95",
+      "filename": "Rashtriya Sahara_95.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 11.46,
+      "data": {
+        "category": "Dairy",
+        "brand_or_company": "सुधा",
+        "product_or_service": "Milk",
+        "headline": "जब है सुधा का शुद्ध एवं सुरक्षित दूध फिर खुला या अन्य दूध क्यों..?",
+        "pricing_and_offers": [],
+        "key_features": [
+          "Shuddha",
+          "Safe"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Purity",
+            "value": "Shuddha"
+          },
+          {
+            "attribute": "Safety",
+            "value": "Surakshita"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "+91-7654321098"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "Patna Dairy Project"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_96": {
+      "image_id": "Rashtriya Sahara_96",
+      "filename": "Rashtriya Sahara_96.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 15.79,
+      "data": {
+        "category": "Education",
+        "brand_or_company": "Knowledge Gram International School",
+        "product_or_service": null,
+        "headline": "ADMISSIONS OPEN SESSION 2022-2023 for CLASSES XI (Science, Commerce & Arts)",
+        "pricing_and_offers": [
+          {
+            "label": "Special Coaching",
+            "details": "JEE / NEET",
+            "amount": null,
+            "conditions": null
+          },
+          {
+            "label": "Few Seats Available in other Classes",
+            "details": "",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Affiliated to CBSE upto 10+2 level",
+          "4th Best School in Patna",
+          "8th among the Top Schools of Bihar",
+          "Eldrok India National Award for Best Learning Infra & Co-Curricular Programs"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Affiliation",
+            "value": "CBSE"
+          }
+        ],
+        "shops_or_dealers": [],
+        "contacts": {
+          "phones": [
+            "9031012521",
+            "9031012522",
+            "9060742555",
+            "9060742666"
+          ],
+          "website": "www.knowledgegramschool.com",
+          "email": "kgispatna@gmail.com, info@knowledgegramschool.com",
+          "other_cta": null
+        },
+        "languages": [
+          "en"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_97": {
+      "image_id": "Rashtriya Sahara_97",
+      "filename": "Rashtriya Sahara_97.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 21.25,
+      "data": {
+        "category": "Retail",
+        "brand_or_company": "Raymond",
+        "product_or_service": "fine Fabric",
+        "headline": "सचुना मोड़, मैनपुरा, दानापुर (पटना)",
+        "pricing_and_offers": [
+          {
+            "label": "Discount",
+            "details": "जब होगा आपका साथ, तभी होगा, दानापुर का सवागीण विकास",
+            "amount": null,
+            "conditions": "पूरे जनर परियों और में सरकारी स्थानों पर शोधमार्ग ना जिमाण"
+          }
+        ],
+        "key_features": [
+          "सवाच्छ दानापुर",
+          "सवारथ दानापुर"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Nagar Parishad",
+            "value": "दानापुर नगर परिषद के"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "अरविलेश कुमार (मूत्र साव)",
+            "locations": [
+              "सचुना मोड़",
+              "मैनपुरा"
+            ],
+            "city": "दानापुर",
+            "phones": [
+              "91-78023456"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "91-78023456"
+          ],
+          "website": null,
+          "email": null,
+          "other_cta": "दानापुर नगर परिषद के उपाध्यक्ष पद के भावी प्रत्याशी"
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_98": {
+      "image_id": "Rashtriya Sahara_98",
+      "filename": "Rashtriya Sahara_98.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 17.88,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": "Netaji Subhas Medical College & Hospital",
+        "product_or_service": "Multispeciality Hospital",
+        "headline": "350 Beds - Multispeciality Hospital | 5 Modular and 4 Minor Operation Theaters",
+        "pricing_and_offers": [
+          {
+            "label": "Free Treatment",
+            "details": "FREE जॉन्स एंड इलाज उपलब्ध है",
+            "amount": null,
+            "conditions": "Under certain conditions"
+          }
+        ],
+        "key_features": [
+          "State-of-the-Art Infrastructure",
+          "A Hospital with one stop solution for all the health and wellness services"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Bed Capacity",
+            "value": "350 Bed"
+          },
+          {
+            "attribute": "Operation Theaters",
+            "value": "5 Modular and 4 Minor Operation Theaters"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "",
+            "locations": [
+              "Amhara, Bihta, Patna"
+            ],
+            "city": "Patna",
+            "phones": [
+              "0612-6633333",
+              "7781020346",
+              "7781020360"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "0612-6633333",
+            "7781020346",
+            "7781020360"
+          ],
+          "website": "www.nsmch.com",
+          "email": "admin@nsmch.com",
+          "other_cta": null
+        },
+        "languages": [
+          "en",
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
+    "Rashtriya Sahara_99": {
+      "image_id": "Rashtriya Sahara_99",
+      "filename": "Rashtriya Sahara_99.jpg",
+      "status": "success",
+      "attempt": 1,
+      "vlm_time_sec": 14.37,
+      "data": {
+        "category": "Healthcare",
+        "brand_or_company": "RUBAN",
+        "product_or_service": "Treatment for Neck and Throat Cancer",
+        "headline": "Bihar's Own Hospital for Complete Treatment of Neck and Throat Cancer",
+        "pricing_and_offers": [
+          {
+            "label": "Contact Number",
+            "details": "Call 72800 10134",
+            "amount": null,
+            "conditions": null
+          }
+        ],
+        "key_features": [
+          "Comprehensive treatment",
+          "Specialists in Oncology"
+        ],
+        "category_specific_details": [
+          {
+            "attribute": "Accredited by",
+            "value": "MABRL"
+          }
+        ],
+        "shops_or_dealers": [
+          {
+            "name": "RUBAN",
+            "locations": [
+              "17, 19 Patliputra Colony, Near Patliputra Golambar, Patna - 800013"
+            ],
+            "city": "Patna",
+            "phones": [
+              "0612 3503100"
+            ]
+          }
+        ],
+        "contacts": {
+          "phones": [
+            "72800 10134",
+            "0612 3503100"
+          ],
+          "website": "www.rubanpatliputrahospital.com",
+          "email": "info@ruban.org.in",
+          "other_cta": null
+        },
+        "languages": [
+          "hi"
+        ],
+        "uncertain_fields": []
+      }
+    },
     "ad_001_Honda_Jazz": {
       "image_id": "ad_001_Honda_Jazz",
       "filename": "ad_001_Honda_Jazz.jpg",

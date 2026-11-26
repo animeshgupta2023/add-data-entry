@@ -1,17 +1,7 @@
-# Core OCR & Image Preprocessing
-paddlepaddle>=3.1.0
-paddleocr>=3.0.0
-opencv-python-headless>=4.10.0
-pillow>=10.4.0
-
-# VLM Client, Schema Validation & Entity Resolution
+# Batch VLM extraction
 ollama>=0.4.0
+Pillow>=10.4.0
 pydantic>=2.9.0
-rapidfuzz>=3.10.0
-tqdm>=4.66.0
 
-# Backend API & Demo UI (Phase 2)
-fastapi>=0.115.0
-uvicorn[standard]>=0.32.0
-python-multipart>=0.0.12
-streamlit>=1.40.0
+# Optional interactive chat client (src/test.py --chat)
+requests>=2.31.0
